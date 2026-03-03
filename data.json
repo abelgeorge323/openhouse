@@ -1,0 +1,176 @@
+{
+  "events": [
+    {
+      "id": "stl",
+      "city": "St. Louis",
+      "date": "3/26",
+      "time": "5–7 PM",
+      "status": "completed",
+      "metrics": {
+        "rsvp": 48,
+        "attended": 35,
+        "resumes": 32,
+        "highPotential": 6,
+        "podReady": 3,
+        "strongRate": 17
+      },
+      "summary": "Strong engineering representation. Moderate relocation flexibility. Leadership identified 4 standout candidates. Event showed moderate conversion from RSVP to high-potential pipeline.",
+      "demographics": {
+        "education": [
+          { "label": "Business", "value": 35 },
+          { "label": "Engineering", "value": 25 },
+          { "label": "Operations / Supply Chain", "value": 20 },
+          { "label": "Other", "value": 20 }
+        ],
+        "experience": [
+          { "label": "0–3 Years", "value": 45 },
+          { "label": "3–5 Years", "value": 35 },
+          { "label": "5+ Years", "value": 20 }
+        ],
+        "relocation": {
+          "open": 60,
+          "localOnly": 40
+        }
+      },
+      "candidates": [
+        {
+          "name": "John Mitchell",
+          "resume": 4.4,
+          "fit": 5.0,
+          "leaderFlags": 2,
+          "final": 4.6,
+          "status": "POD",
+          "detail": {
+            "education": "MBA, Washington University in St. Louis – Finance & Strategy",
+            "opsExposure": "Led cross-functional supply chain optimization at a Fortune 500 manufacturer. Managed $12M logistics budget.",
+            "leadershipDepth": "Supervised a team of 8 analysts. Drove quarterly planning cycles across 3 regional offices.",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "Exceptional strategic thinker. Very strong communicator—stood out in group exercise. Recommended by 2 leaders independently.",
+            "resumeSummary": "5 years progressive experience in operations and strategy. Strong analytical background with demonstrated P&L ownership. Published internal white paper on lean methodology adoption."
+          }
+        },
+        {
+          "name": "Sarah Thompson",
+          "resume": 4.1,
+          "fit": 4.0,
+          "leaderFlags": 1,
+          "final": 4.2,
+          "status": "Interview",
+          "detail": {
+            "education": "BS Industrial Engineering, Missouri S&T",
+            "opsExposure": "Process improvement engineer at mid-size manufacturer. Led Kaizen events and implemented 5S across two facilities.",
+            "leadershipDepth": "Informal team lead for 4-person continuous improvement squad. Presented results to plant leadership monthly.",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "Strong technical foundation. Needs more leadership seasoning but shows high ceiling. Good culture fit.",
+            "resumeSummary": "3 years in manufacturing engineering. Six Sigma Green Belt certified. Reduced defect rate by 22% on flagship product line."
+          }
+        },
+        {
+          "name": "Chris Lopez",
+          "resume": 3.6,
+          "fit": 3.5,
+          "leaderFlags": 0,
+          "final": 3.5,
+          "status": "Hold",
+          "detail": {
+            "education": "BS Business Administration, Saint Louis University",
+            "opsExposure": "Rotational analyst in corporate planning. Limited direct operations exposure but strong analytical toolkit.",
+            "leadershipDepth": "No direct reports. Active in campus leadership—student body VP, case competition captain.",
+            "relocation": "Local Only",
+            "leaderNotes": "Promising but early career. Needs more operational reps before POD consideration. Revisit in 6 months.",
+            "resumeSummary": "1 year post-grad experience in corporate strategy. Dean's list honors. Strong Excel/SQL skills. Interned at regional logistics firm."
+          }
+        },
+        {
+          "name": "Amanda Reed",
+          "resume": 4.2,
+          "fit": 4.5,
+          "leaderFlags": 2,
+          "final": 4.5,
+          "status": "POD",
+          "detail": {
+            "education": "MS Supply Chain Management, University of Michigan",
+            "opsExposure": "Supply chain manager at automotive tier-1 supplier. Owned end-to-end logistics for $40M product line.",
+            "leadershipDepth": "Managed cross-functional team of 12. Led vendor negotiations saving $2.4M annually. Mentored 3 junior analysts.",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "Immediately impressed both interviewers. Deep operational knowledge combined with executive presence. Top candidate.",
+            "resumeSummary": "6 years in supply chain and operations. APICS CSCP certified. Track record of cost reduction and process redesign. Published speaker at CSCMP conference."
+          }
+        },
+        {
+          "name": "Marcus Lee",
+          "resume": 3.8,
+          "fit": 4.0,
+          "leaderFlags": 1,
+          "final": 4.0,
+          "status": "Interview",
+          "detail": {
+            "education": "BBA Operations Management, University of Missouri – Columbia",
+            "opsExposure": "Operations coordinator at regional distribution center. Managed daily throughput for 200+ SKU facility.",
+            "leadershipDepth": "Shift supervisor for team of 6. Implemented new scheduling system that reduced overtime by 15%.",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "Solid operational instincts. Showed good problem-solving in case study. Could benefit from broader strategic exposure.",
+            "resumeSummary": "4 years in distribution and warehouse operations. Lean Six Sigma Yellow Belt. Promoted twice in 3 years. Strong references from direct supervisors."
+          }
+        },
+        {
+          "name": "Taylor Grant",
+          "resume": 3.4,
+          "fit": 3.0,
+          "leaderFlags": 0,
+          "final": 3.3,
+          "status": "Hold",
+          "detail": {
+            "education": "BA Communications, Truman State University",
+            "opsExposure": "Marketing operations assistant. Exposure to project timelines and vendor coordination but not core ops.",
+            "leadershipDepth": "No direct leadership experience. Active volunteer coordinator for local nonprofit.",
+            "relocation": "Local Only",
+            "leaderNotes": "Personable and enthusiastic but lacks operational depth for current openings. Better fit for a different track.",
+            "resumeSummary": "2 years in marketing operations support. Strong communication skills. Organized 3 regional events with 500+ attendees. Looking to transition into core operations."
+          }
+        }
+      ],
+      "leaderSentiment": {
+        "submissions": 7,
+        "recommendedForInterview": 4,
+        "avgRecommendationScore": 0.71,
+        "breakdown": {
+          "yes": 5,
+          "maybe": 3,
+          "no": 2
+        },
+        "topEndorsed": [
+          { "name": "John Mitchell", "endorsements": 2 },
+          { "name": "Amanda Reed", "endorsements": 2 }
+        ]
+      },
+      "funnel": {
+        "rsvp": 48,
+        "attended": 35,
+        "resumes": 32,
+        "highPotential": 6,
+        "pod": 3
+      },
+      "conversionRates": {
+        "rsvpToAttendance": 73,
+        "attendanceToHighPotential": 17,
+        "highPotentialToPod": 50
+      },
+      "healthSummary": "Moderate quality density. Strong early-career representation. Recommend strengthening university targeting for next Midwest event."
+    },
+    {
+      "id": "sac",
+      "city": "Sacramento",
+      "date": "4/16",
+      "time": "5–7 PM",
+      "status": "upcoming"
+    },
+    {
+      "id": "nwk",
+      "city": "Newark",
+      "date": "4/30",
+      "time": "5–7 PM",
+      "status": "upcoming"
+    }
+  ]
+}
