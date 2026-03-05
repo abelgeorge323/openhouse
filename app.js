@@ -41,11 +41,13 @@ function showView(viewName, eventId) {
     renderLanding();
   } else if (viewName === 'detail') {
     const evt = AppState.data.events.find(e => e.id === eventId);
-    if (!evt || evt.status !== 'completed') return;
+    const canViewDetail = evt && (evt.status === 'completed' || evt.status === 'rsvp_only');
+    if (!canViewDetail) return;
     AppState.currentView = 'detail';
     AppState.selectedEvent = evt;
-    $('#mainTitle').textContent = `${evt.city} – ${evt.date} (${evt.time})`;
-    $('#mainSubtitle').textContent = 'Event Detail View';
+    const cityLabel = evt.location ? `${evt.city}, ${evt.location}` : evt.city;
+    $('#mainTitle').textContent = `${cityLabel} – ${evt.date} (${evt.time})`;
+    $('#mainSubtitle').textContent = evt.status === 'rsvp_only' ? 'RSVP data only – more data pending' : 'Event Detail View';
     $('#backBtn').classList.add('visible');
     $('#detailNav').classList.add('visible');
     $$('.view-btn[data-view]').forEach(b => b.classList.remove('active'));
@@ -78,14 +80,20 @@ function renderLanding() {
 
   events.forEach(evt => {
     const isCompleted = evt.status === 'completed';
+    const isRsvpOnly = evt.status === 'rsvp_only';
+    const isClickable = isCompleted || isRsvpOnly;
+    const statusLabel = isCompleted ? 'Completed' : isRsvpOnly ? 'RSVP Only' : 'Upcoming';
+    const tileContent = isCompleted || isRsvpOnly
+      ? renderTileMetrics(evt.metrics || { rsvp: 0, attended: 0, highPotential: 0, podReady: 0, strongRate: 0 }, evt)
+      : '<div class="event-tile-pending">Data Pending</div>';
     html += `
-      <div class="event-tile ${isCompleted ? 'clickable' : 'muted'}"
-           ${isCompleted ? `onclick="showView('detail','${evt.id}')"` : ''}>
-        <span class="event-tile-status ${evt.status}">${isCompleted ? 'Completed' : 'Upcoming'}</span>
-        ${isCompleted ? '<span class="event-tile-arrow">&#8594;</span>' : ''}
-        <div class="event-tile-city">${evt.city}</div>
+      <div class="event-tile ${isClickable ? 'clickable' : 'muted'} ${isRsvpOnly ? 'rsvp-only' : ''}"
+           ${isClickable ? `onclick="showView('detail','${evt.id}')"` : ''}>
+        <span class="event-tile-status ${evt.status}">${statusLabel}</span>
+        ${isClickable ? '<span class="event-tile-arrow">&#8594;</span>' : ''}
+        <div class="event-tile-city">${evt.city}${evt.location ? ', ' + evt.location : ''}</div>
         <div class="event-tile-date">${evt.date} &middot; ${evt.time}</div>
-        ${isCompleted ? renderTileMetrics(evt.metrics) : '<div class="event-tile-pending">Data Pending</div>'}
+        ${tileContent}
       </div>`;
   });
 
@@ -93,13 +101,16 @@ function renderLanding() {
   $('#contentBody').innerHTML = html;
 }
 
-function renderTileMetrics(m) {
+function renderTileMetrics(m, evt) {
+  const showRsvpFirst = evt && evt.status === 'rsvp_only';
+  const firstLabel = showRsvpFirst ? 'RSVP' : 'Attendees';
+  const firstValue = showRsvpFirst ? (m.rsvp || 0) : (m.attended || 0);
   return `
     <div class="event-tile-metrics">
-      <div class="tile-metric"><div class="tile-metric-value">${m.attended}</div><div class="tile-metric-label">Attendees</div></div>
-      <div class="tile-metric"><div class="tile-metric-value">${m.highPotential}</div><div class="tile-metric-label">Strong Candidates</div></div>
-      <div class="tile-metric"><div class="tile-metric-value">${m.podReady}</div><div class="tile-metric-label">POD Ready</div></div>
-      <div class="tile-metric"><div class="tile-metric-value">${m.strongRate}%</div><div class="tile-metric-label">Strong Rate</div></div>
+      <div class="tile-metric"><div class="tile-metric-value">${firstValue}</div><div class="tile-metric-label">${firstLabel}</div></div>
+      <div class="tile-metric"><div class="tile-metric-value">${m.highPotential || 0}</div><div class="tile-metric-label">Strong Candidates</div></div>
+      <div class="tile-metric"><div class="tile-metric-value">${m.podReady || 0}</div><div class="tile-metric-label">POD Ready</div></div>
+      <div class="tile-metric"><div class="tile-metric-value">${m.strongRate || 0}%</div><div class="tile-metric-label">Strong Rate</div></div>
     </div>`;
 }
 
@@ -122,24 +133,37 @@ function renderDetail(evt) {
 
 /* ── Section 1: Executive Overview ── */
 function renderExecutiveOverview(evt) {
-  const m = evt.metrics;
+  const m = evt.metrics || {};
+  const isRsvpOnly = evt.status === 'rsvp_only';
+  const cards = isRsvpOnly
+    ? `<div class="metric-card"><div class="metric-value">${m.rsvp ?? 0}</div><div class="metric-label">RSVP</div></div>
+        <div class="metric-card"><div class="metric-value">0</div><div class="metric-label">Attendees</div></div>
+        <div class="metric-card"><div class="metric-value highlight">0</div><div class="metric-label">High-Potential</div></div>
+        <div class="metric-card"><div class="metric-value highlight">0</div><div class="metric-label">POD Ready</div></div>
+        <div class="metric-card"><div class="metric-value">0%</div><div class="metric-label">Strong Rate</div></div>`
+    : `<div class="metric-card"><div class="metric-value">${m.attended ?? '—'}</div><div class="metric-label">Attendees</div></div>
+        <div class="metric-card"><div class="metric-value">${m.resumes ?? '—'}</div><div class="metric-label">Resumes Submitted</div></div>
+        <div class="metric-card"><div class="metric-value highlight">${m.highPotential ?? '—'}</div><div class="metric-label">High-Potential</div></div>
+        <div class="metric-card"><div class="metric-value highlight">${m.podReady ?? '—'}</div><div class="metric-label">POD Ready</div></div>
+        <div class="metric-card"><div class="metric-value">${m.strongRate != null ? m.strongRate + '%' : '—'}</div><div class="metric-label">Strong Rate</div></div>`;
   return `
     <div class="section-card" id="section-executive">
       <div class="section-title"><span class="icon">&#9670;</span> Executive Overview</div>
-      <div class="metrics-grid">
-        <div class="metric-card"><div class="metric-value">${m.attended}</div><div class="metric-label">Attendees</div></div>
-        <div class="metric-card"><div class="metric-value">${m.resumes}</div><div class="metric-label">Resumes Submitted</div></div>
-        <div class="metric-card"><div class="metric-value highlight">${m.highPotential}</div><div class="metric-label">High-Potential</div></div>
-        <div class="metric-card"><div class="metric-value highlight">${m.podReady}</div><div class="metric-label">POD Ready</div></div>
-        <div class="metric-card"><div class="metric-value">${m.strongRate}%</div><div class="metric-label">Strong Rate</div></div>
-      </div>
-      <div class="summary-box">${evt.summary}</div>
+      <div class="metrics-grid">${cards}</div>
+      <div class="summary-box">${evt.summary || 'No summary yet.'}</div>
     </div>`;
 }
 
 /* ── Section 2: Demographics ── */
 function renderDemographics(evt) {
   const d = evt.demographics;
+  if (!d || !d.education || !d.experience || !d.relocation) {
+    return `
+    <div class="section-card" id="section-demographics">
+      <div class="section-title"><span class="icon">&#9673;</span> Demographics</div>
+      <div class="empty-state">Demographics data pending. Will appear after event attendance and surveys are collected.</div>
+    </div>`;
+  }
   const donutColors = ['#1e40af', '#3b82f6', '#60a5fa', '#93c5fd'];
 
   let donutSegments = '';
@@ -304,6 +328,13 @@ function toggleCandidate(name) {
 /* ── Section 4: Leader Sentiment ── */
 function renderLeaderSentiment(evt) {
   const s = evt.leaderSentiment;
+  if (!s || !s.breakdown) {
+    return `
+    <div class="section-card" id="section-sentiment">
+      <div class="section-title"><span class="icon">&#9829;</span> Leader Sentiment</div>
+      <div class="empty-state">Leader check-ins pending. Data will appear as evaluations are submitted.</div>
+    </div>`;
+  }
   const total = s.breakdown.yes + s.breakdown.maybe + s.breakdown.no;
   const yPct = ((s.breakdown.yes / total) * 100).toFixed(0);
   const mPct = ((s.breakdown.maybe / total) * 100).toFixed(0);
@@ -342,21 +373,21 @@ function renderLeaderSentiment(evt) {
 
 /* ── Section 5: Event Funnel & Health ── */
 function renderFunnel(evt) {
-  const f = evt.funnel;
-  const c = evt.conversionRates;
-  const maxVal = f.rsvp;
+  const f = evt.funnel || {};
+  const c = evt.conversionRates || {};
+  const maxVal = Math.max(f.rsvp || 0, 1);
 
   const steps = [
-    { label: 'RSVP', value: f.rsvp, color: '#1e3a5f' },
-    { label: 'Attended', value: f.attended, color: '#1e40af' },
-    { label: 'Resumes', value: f.resumes, color: '#2563eb' },
-    { label: 'High-Potential', value: f.highPotential, color: '#3b82f6' },
-    { label: 'POD Ready', value: f.pod, color: '#60a5fa' }
+    { label: 'RSVP', value: f.rsvp ?? 0, color: '#1e3a5f' },
+    { label: 'Attended', value: f.attended ?? 0, color: '#1e40af' },
+    { label: 'Resumes', value: f.resumes ?? 0, color: '#2563eb' },
+    { label: 'High-Potential', value: f.highPotential ?? 0, color: '#3b82f6' },
+    { label: 'POD Ready', value: f.pod ?? 0, color: '#60a5fa' }
   ];
 
   let funnelHtml = '';
   steps.forEach((step, i) => {
-    const widthPct = Math.max(((step.value / maxVal) * 100), 18);
+    const widthPct = maxVal > 0 ? Math.max(((step.value / maxVal) * 100), 12) : 12;
     funnelHtml += `<div class="funnel-step" style="width:${widthPct}%;background:${step.color};">
       <span class="funnel-count">${step.value}</span>
       <span class="funnel-label">${step.label}</span>
@@ -371,11 +402,11 @@ function renderFunnel(evt) {
       <div class="section-title"><span class="icon">&#9660;</span> Event Funnel & Health</div>
       <div class="funnel-visual">${funnelHtml}</div>
       <div class="conversion-grid">
-        <div class="conversion-card"><div class="conversion-value">${c.rsvpToAttendance}%</div><div class="conversion-label">RSVP &rarr; Attendance</div></div>
-        <div class="conversion-card"><div class="conversion-value">${c.attendanceToHighPotential}%</div><div class="conversion-label">Attendance &rarr; High-Potential</div></div>
-        <div class="conversion-card"><div class="conversion-value">${c.highPotentialToPod}%</div><div class="conversion-label">High-Potential &rarr; POD</div></div>
+        <div class="conversion-card"><div class="conversion-value">${c.rsvpToAttendance ?? 0}%</div><div class="conversion-label">RSVP &rarr; Attendance</div></div>
+        <div class="conversion-card"><div class="conversion-value">${c.attendanceToHighPotential ?? 0}%</div><div class="conversion-label">Attendance &rarr; High-Potential</div></div>
+        <div class="conversion-card"><div class="conversion-value">${c.highPotentialToPod ?? 0}%</div><div class="conversion-label">High-Potential &rarr; POD</div></div>
       </div>
-      <div class="summary-box">${evt.healthSummary}</div>
+      <div class="summary-box">${evt.healthSummary || '—'}</div>
     </div>`;
 }
 

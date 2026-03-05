@@ -159,6 +159,39 @@
       "healthSummary": "Moderate quality density. Strong early-career representation. Recommend strengthening university targeting for next Midwest event."
     },
     {
+      "id": "royaloaks",
+      "city": "Royal Oaks",
+      "location": "Michigan",
+      "date": "3/5",
+      "time": "5–7 PM",
+      "status": "rsvp_only",
+      "metrics": {
+        "rsvp": 31,
+        "attended": 0,
+        "resumes": 0,
+        "highPotential": 0,
+        "podReady": 0,
+        "strongRate": 0
+      },
+      "summary": "RSVP data only. Post-event attendance and candidate data pending.",
+      "demographics": null,
+      "candidates": [],
+      "leaderSentiment": null,
+      "funnel": {
+        "rsvp": 31,
+        "attended": 0,
+        "resumes": 0,
+        "highPotential": 0,
+        "pod": 0
+      },
+      "conversionRates": {
+        "rsvpToAttendance": 0,
+        "attendanceToHighPotential": 0,
+        "highPotentialToPod": 0
+      },
+      "healthSummary": "Event data in progress. Check back after attendance and evaluations are collected."
+    },
+    {
       "id": "sac",
       "city": "Sacramento",
       "date": "4/16",
