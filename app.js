@@ -41,13 +41,14 @@ function showView(viewName, eventId) {
     renderLanding();
   } else if (viewName === 'detail') {
     const evt = AppState.data.events.find(e => e.id === eventId);
-    const canViewDetail = evt && (evt.status === 'completed' || evt.status === 'rsvp_only');
+    const canViewDetail = evt && (evt.status === 'completed' || evt.status === 'rsvp_only' || evt.status === 'in_progress');
     if (!canViewDetail) return;
     AppState.currentView = 'detail';
     AppState.selectedEvent = evt;
     const cityLabel = evt.location ? `${evt.city}, ${evt.location}` : evt.city;
     $('#mainTitle').textContent = `${cityLabel} – ${evt.date} (${evt.time})`;
-    $('#mainSubtitle').textContent = evt.status === 'rsvp_only' ? 'RSVP data only – more data pending' : 'Event Detail View';
+    const subtitles = { rsvp_only: 'RSVP data only – more data pending', in_progress: 'Event data in progress – evaluations pending' };
+    $('#mainSubtitle').textContent = subtitles[evt.status] || 'Event Detail View';
     $('#backBtn').classList.add('visible');
     $('#detailNav').classList.add('visible');
     $$('.view-btn[data-view]').forEach(b => b.classList.remove('active'));
@@ -81,9 +82,11 @@ function renderLanding() {
   events.forEach(evt => {
     const isCompleted = evt.status === 'completed';
     const isRsvpOnly = evt.status === 'rsvp_only';
-    const isClickable = isCompleted || isRsvpOnly;
-    const statusLabel = isCompleted ? 'Completed' : isRsvpOnly ? 'RSVP Only' : 'Upcoming';
-    const tileContent = isCompleted || isRsvpOnly
+    const isInProgress = evt.status === 'in_progress';
+    const isClickable = isCompleted || isRsvpOnly || isInProgress;
+    const statusLabels = { completed: 'Completed', rsvp_only: 'RSVP Only', in_progress: 'In Progress', upcoming: 'Upcoming' };
+    const statusLabel = statusLabels[evt.status] || 'Upcoming';
+    const tileContent = isClickable
       ? renderTileMetrics(evt.metrics || { rsvp: 0, attended: 0, highPotential: 0, podReady: 0, strongRate: 0 }, evt)
       : '<div class="event-tile-pending">Data Pending</div>';
     html += `
@@ -102,7 +105,7 @@ function renderLanding() {
 }
 
 function renderTileMetrics(m, evt) {
-  const showRsvpFirst = evt && evt.status === 'rsvp_only';
+  const showRsvpFirst = evt && (evt.status === 'rsvp_only' || evt.status === 'in_progress');
   const firstLabel = showRsvpFirst ? 'RSVP' : 'Attendees';
   const firstValue = showRsvpFirst ? (m.rsvp || 0) : (m.attended || 0);
   return `
@@ -134,13 +137,13 @@ function renderDetail(evt) {
 /* ── Section 1: Executive Overview ── */
 function renderExecutiveOverview(evt) {
   const m = evt.metrics || {};
-  const isRsvpOnly = evt.status === 'rsvp_only';
-  const cards = isRsvpOnly
+  const isPartial = evt.status === 'rsvp_only' || evt.status === 'in_progress';
+  const cards = isPartial
     ? `<div class="metric-card"><div class="metric-value">${m.rsvp ?? 0}</div><div class="metric-label">RSVP</div></div>
-        <div class="metric-card"><div class="metric-value">0</div><div class="metric-label">Attendees</div></div>
-        <div class="metric-card"><div class="metric-value highlight">0</div><div class="metric-label">High-Potential</div></div>
-        <div class="metric-card"><div class="metric-value highlight">0</div><div class="metric-label">POD Ready</div></div>
-        <div class="metric-card"><div class="metric-value">0%</div><div class="metric-label">Strong Rate</div></div>`
+        <div class="metric-card"><div class="metric-value">${m.attended ?? 0}</div><div class="metric-label">Attended</div></div>
+        <div class="metric-card"><div class="metric-value">${m.resumes ?? 0}</div><div class="metric-label">Resumes</div></div>
+        <div class="metric-card"><div class="metric-value highlight">${m.highPotential ?? 0}</div><div class="metric-label">High-Potential</div></div>
+        <div class="metric-card"><div class="metric-value">${m.strongRate ?? 0}%</div><div class="metric-label">Strong Rate</div></div>`
     : `<div class="metric-card"><div class="metric-value">${m.attended ?? '—'}</div><div class="metric-label">Attendees</div></div>
         <div class="metric-card"><div class="metric-value">${m.resumes ?? '—'}</div><div class="metric-label">Resumes Submitted</div></div>
         <div class="metric-card"><div class="metric-value highlight">${m.highPotential ?? '—'}</div><div class="metric-label">High-Potential</div></div>
@@ -233,16 +236,19 @@ function renderCandidateTable(evt) {
 
   let rows = '';
   sorted.forEach(c => {
-    const statusClass = c.status === 'POD' ? 'pod' : c.status === 'Interview' ? 'interview' : 'hold';
+    const statusMap = { POD: 'pod', Interview: 'interview', Hold: 'hold', Pending: 'pending' };
+    const statusClass = statusMap[c.status] || 'hold';
+    const statusText = c.status === 'Interview' ? 'Interview Consider' : c.status;
     const expanded = AppState.expandedRows.has(c.name);
+    const fmtScore = (v) => v != null && v > 0 ? v.toFixed(1) : '—';
     rows += `
-      <tr class="${expanded ? 'expanded' : ''}" onclick="toggleCandidate('${c.name}')">
+      <tr class="${expanded ? 'expanded' : ''}" onclick="toggleCandidate('${c.name.replace(/'/g, "\\'")}')">
         <td class="candidate-name">${c.name}</td>
-        <td class="score-cell">${c.resume.toFixed(1)}</td>
-        <td class="score-cell">${c.fit.toFixed(1)}</td>
-        <td class="score-cell">${c.leaderFlags}</td>
-        <td class="score-cell">${c.final.toFixed(1)}</td>
-        <td><span class="status-badge ${statusClass}">${c.status === 'Interview' ? 'Interview Consider' : c.status}</span></td>
+        <td class="score-cell">${fmtScore(c.resume)}</td>
+        <td class="score-cell">${fmtScore(c.fit)}</td>
+        <td class="score-cell">${c.leaderFlags ?? '—'}</td>
+        <td class="score-cell">${fmtScore(c.final)}</td>
+        <td><span class="status-badge ${statusClass}">${statusText}</span></td>
       </tr>`;
 
     rows += `

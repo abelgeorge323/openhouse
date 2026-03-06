@@ -2,7 +2,7 @@
   "events": [
     {
       "id": "stl",
-      "city": "St. Louis",
+      "city": "St. Louis (TEST)",
       "date": "3/26",
       "time": "5–7 PM",
       "status": "completed",
@@ -164,32 +164,191 @@
       "location": "Michigan",
       "date": "3/5",
       "time": "5–7 PM",
-      "status": "rsvp_only",
+      "status": "in_progress",
       "metrics": {
         "rsvp": 31,
-        "attended": 0,
-        "resumes": 0,
+        "attended": 11,
+        "resumes": 7,
         "highPotential": 0,
         "podReady": 0,
         "strongRate": 0
       },
-      "summary": "RSVP data only. Post-event attendance and candidate data pending.",
-      "demographics": null,
-      "candidates": [],
+      "summary": "11 of 31 RSVPs attended (35% conversion). 7 resumes collected. Heavy operations and management interest. No leadership check-ins were conducted at this event — candidate evaluations pending.",
+      "demographics": {
+        "education": [
+          { "label": "Graduate Degree", "value": 18 },
+          { "label": "Bachelor's Degree", "value": 55 },
+          { "label": "Associates / Some College", "value": 27 }
+        ],
+        "experience": [
+          { "label": "Entry Level", "value": 9 },
+          { "label": "Operations Mid/Senior", "value": 45 },
+          { "label": "Management Track", "value": 45 }
+        ],
+        "relocation": {
+          "open": 64,
+          "localOnly": 36
+        }
+      },
+      "candidates": [
+        {
+          "name": "Davon Meikle",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "University of Phoenix – CEH",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "Resume uploaded. Entry level candidate. Available immediately."
+          }
+        },
+        {
+          "name": "Charda Williams",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "Central Michigan University",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior and Manager in Training. Available immediately."
+          }
+        },
+        {
+          "name": "Lynette Burnette",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "University of Phoenix – Masters in Business",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior and Manager in Training. Available within 2 weeks."
+          }
+        },
+        {
+          "name": "Gerson Santos",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "Eastern Michigan University – Some College",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "No resume uploaded. Interested in Operations Mid/Senior. Available immediately."
+          }
+        },
+        {
+          "name": "Clifton Johnson",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "Wayne State University",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior. Available within 2 weeks."
+          }
+        },
+        {
+          "name": "Brandon DuBose",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "SchoolCraft College – Associates in Business Administration",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Local Only",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior. Available immediately."
+          }
+        },
+        {
+          "name": "Lisa Nalepa",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "Macomb Community College",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Local Only",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior and Manager in Training. Available immediately."
+          }
+        },
+        {
+          "name": "Christopher Saucedo",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "Wayne State University",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "No resume uploaded. Interested in Operations Mid/Senior and Manager in Training. Available within 2 weeks."
+          }
+        },
+        {
+          "name": "Jacob Zochowski",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "Eastern Michigan University",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Local Only",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior. Available immediately."
+          }
+        },
+        {
+          "name": "Sinda Mills",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "University of Phoenix – BA in Management",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Local Only",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "No resume uploaded. Interested in Manager in Training. Available in more than 1 month."
+          }
+        },
+        {
+          "name": "LaTasha Tillman",
+          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
+          "status": "Pending",
+          "detail": {
+            "education": "University of Phoenix – Masters in Adult Education & Training, Bachelor's in Marketing",
+            "opsExposure": "Not yet evaluated",
+            "leadershipDepth": "Not yet evaluated",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "No leader check-in submitted",
+            "resumeSummary": "No resume uploaded. Interested in Operations Mid/Senior. Available immediately."
+          }
+        }
+      ],
       "leaderSentiment": null,
       "funnel": {
         "rsvp": 31,
-        "attended": 0,
-        "resumes": 0,
+        "attended": 11,
+        "resumes": 7,
         "highPotential": 0,
         "pod": 0
       },
       "conversionRates": {
-        "rsvpToAttendance": 0,
+        "rsvpToAttendance": 35,
         "attendanceToHighPotential": 0,
         "highPotentialToPod": 0
       },
-      "healthSummary": "Event data in progress. Check back after attendance and evaluations are collected."
+      "healthSummary": "35% RSVP-to-attendance conversion. Strong operations and management interest. No leadership evaluations were conducted — recommend scheduling leader check-ins for future events."
     },
     {
       "id": "sac",
