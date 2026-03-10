@@ -1,0 +1,21 @@
+
+======================================================================
+  COMBINED SCORECARD: PROFILE
+  Blended: 44.1 / 100  |  Resume: 44.1  |  Sentiment: 0.0  |  Rank: 10 of 10
+======================================================================
+
+
+  RESUME STRENGTHS:
+    + Education Fit (8.0/10)
+    + Leadership Potential (7.2/10)
+
+  RESUME GAPS:
+    - Initiative / Drive (3.3/10)
+    - Communication (1.0/10)
+    - Customer / Service (1.0/10)
+    - Problem-Solving (0.0/10)
+
+  *** NO_SENTIMENT ***
+    >> Resume scored but no leader feedback collected for this candidate
+
+======================================================================

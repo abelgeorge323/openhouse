@@ -1,0 +1,165 @@
+{
+  "raw_resume_text": "Charda Williams (248) 508-2939 | williams.charda16@gmail.com Profile Experienced business professional of 5 years within the supply chain management field, with a Master of Business Administration. Highly experienced in managing operations, inventory, ERP systems, transportation and warehouse management. Experience Operations Manager | Kroger Delivery | September 2024 – Current Ensure orders arrive and dispatch on time; schedule, train, observe, and develop warehouse supervisors; oversee warehouse productivity and KPIs; allocate space for stock rotation and maintain inventory levels. Operations Traffic Supervisor | Universal Logistics Holdings | July 2023 – September 2024 Managed team of 20 employees; oversaw freight operations for Fortune 500 automotive companies; prepared productivity reports; ensured safety protocols. Assistant Rental Manager | Penske Truck Leasing | August 2021 – August 2023 Managed team of 12 employees; fleet inventory; hazardous materials; dispatched drivers; managed billing and contracts; scheduled fleet service. Education MBA HR Management | Central Michigan University | January 2020 – November 2022 Skills WMS, SAP, Dispatch, Fleet Management, Logistics, DOT, ERP, EDI, Safety, MS Office, Transportation Management, Communication, Inventory Management.",
+  "structured_resume": {
+    "name": "Charda Williams",
+    "email": "williams.charda16@gmail.com",
+    "phone": "(248) 508-2939",
+    "location": null,
+    "summary": "Operations and supply chain professional with MBA and 5+ years of experience managing logistics, transportation, warehouse operations, ERP systems, and inventory management.",
+    "education": [
+      {
+        "school": "Central Michigan University",
+        "degree": "masters",
+        "field": "HR Management",
+        "graduation_year": 2022,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "company": "Kroger Delivery",
+        "role": "Operations Manager",
+        "location": null,
+        "start_date": "2024-09",
+        "end_date": "present",
+        "responsibilities": [
+          "Ensure on-time order dispatch and delivery accuracy",
+          "Schedule, train, and develop warehouse supervisors",
+          "Oversee warehouse productivity and KPI performance",
+          "Manage inventory levels and stock rotation protocols"
+        ],
+        "skills": [
+          "operations_management",
+          "supervision",
+          "kpi_management",
+          "inventory_management"
+        ],
+        "tools": [
+          "wms",
+          "sap"
+        ],
+        "leadership": true
+      },
+      {
+        "company": "Universal Logistics Holdings",
+        "role": "Operations Traffic Supervisor",
+        "location": null,
+        "start_date": "2023-07",
+        "end_date": "2024-09",
+        "responsibilities": [
+          "Managed team of 20 employees",
+          "Oversaw freight loading and unloading operations",
+          "Prepared productivity and performance reports",
+          "Ensured adherence to safety protocols"
+        ],
+        "skills": [
+          "logistics",
+          "team_management",
+          "reporting",
+          "safety_compliance"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "Penske Truck Leasing",
+        "role": "Assistant Rental Manager",
+        "location": null,
+        "start_date": "2021-08",
+        "end_date": "2023-08",
+        "responsibilities": [
+          "Managed team of 12 employees",
+          "Oversaw fleet inventory and hazardous materials",
+          "Dispatched drivers and coordinated fleet operations",
+          "Managed billing, contracts, and service scheduling"
+        ],
+        "skills": [
+          "fleet_management",
+          "dispatch",
+          "operations",
+          "contract_management"
+        ],
+        "tools": [],
+        "leadership": true
+      }
+    ],
+    "skills": [
+      "wms",
+      "sap",
+      "dispatch",
+      "fleet_management",
+      "logistics",
+      "dot_compliance",
+      "erp",
+      "edi",
+      "safety",
+      "transportation_management",
+      "communication",
+      "inventory_management",
+      "operations_management",
+      "kpi_management",
+      "team_management",
+      "reporting",
+      "contract_management"
+    ],
+    "tools": [
+      "wms",
+      "sap",
+      "microsoft_office",
+      "excel",
+      "word",
+      "powerpoint"
+    ],
+    "certifications": [],
+    "projects": [],
+    "volunteer": []
+  },
+  "feature_vector": {
+    "candidate_name": "Charda Williams",
+    "years_experience": 4.6,
+    "roles_count": 3,
+    "leadership_roles": 3,
+    "education_level": "masters",
+    "industries": [
+      "logistics",
+      "supply_chain",
+      "transportation"
+    ],
+    "role_types": [
+      "operations",
+      "management"
+    ],
+    "skills_vector": [
+      "communication",
+      "contract_management",
+      "dispatch",
+      "dot_compliance",
+      "edi",
+      "erp",
+      "fleet_management",
+      "inventory_management",
+      "kpi_management",
+      "logistics",
+      "operations",
+      "operations_management",
+      "reporting",
+      "safety",
+      "safety_compliance",
+      "sap",
+      "team_management",
+      "transportation_management",
+      "wms"
+    ],
+    "tools_vector": [
+      "excel",
+      "microsoft_office",
+      "powerpoint",
+      "sap",
+      "word",
+      "wms"
+    ],
+    "certifications": [],
+    "project_count": 0,
+    "volunteer_count": 0
+  }
+}

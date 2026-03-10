@@ -1,0 +1,30 @@
+
+======================================================================
+  COMBINED SCORECARD: BRANDON M. DUBOSE
+  Final: 49.9 / 100  |  Resume: 49.9  |  Fit: 53.4 (trait_estimate)  |  Rank: 10 of 10
+======================================================================
+
+  Recommended Role: MIT
+  Status: PENDING
+  Career Stage: MIT
+  Leader Flags: 0
+
+  FIT SCORE METHOD: Auto-estimated from resume traits
+  (No leader/team feedback available — score is inferred)
+  Trait weights used:
+    Leadership Potential: 25%
+    Initiative Drive: 20%
+    Reliability: 15%
+    Communication: 15%
+    Operations Exposure: 15%
+    Problem Solving: 10%
+
+  RESUME STRENGTHS:
+    + Problem-Solving (7.0/10)
+
+  RESUME GAPS:
+    - Community & Teamwork (2.9/10)
+    - Communication (1.9/10)
+    - Customer / Service (1.0/10)
+
+======================================================================

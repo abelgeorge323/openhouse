@@ -1,0 +1,216 @@
+{
+  "raw_resume_text": "Clifton Johnson Flat Rock, MI | (734) 787-1081 | Cliftonk33@gmail.com Skills Logistics & Operations Supervision DOT Compliance & Hazardous Waste Handling Safety Training, Meetings & Compliance Audits Preventive Maintenance & Process Improvement Third-Party Vendor & Contract Management Workforce Planning, Hiring & Employee Engagement Dispute Resolution & Performance Management Data Analysis, Forecasting & KPI Tracking Budget Creation & Cost Optimization HRIS Systems: Workday, Workforce360, Cognos Microsoft Office Suite (Advanced) Experience Supervisor – Federal Express Jan 2022 – Present Supervise operations teams ensuring full DOT compliance across transportation activities. Conduct and document safety meetings; enforce safe working conditions across all operations. Implemented automation reducing labor hours by 30%, optimizing costs and reducing downtime. Lead workforce planning, hiring, job design, and change management initiatives. Oversee hazardous material handling, compliance audits, and preventive maintenance programs. Manage employee engagement, stay interviews, and recognition programs improving retention. Oversee third-party logistics vendor contracts and customer dispute resolution. Direct performance appraisals, KPI tracking, and maintain compliance-related records. International Account Manager – Gate Gourmet Jul 2021 – Dec 2021 Managed a team of 30 employees in a unionized environment, ensuring adherence to safety guidelines. Conducted compliance audits, safety meetings, and hazardous waste disposal oversight. Responsible for hiring, terminations, training, and personnel evaluations. Improved on-time service delivery by 50% through operational process improvements. Managed purchasing, vendor relations, and corrective action planning. Territory Manager – Multi Radiance Medical May 2017 – Jul 2021 Grew revenue in territory by 200% through strategic account management. Trained and educated customers on product compliance and safe use. Identified decision makers, negotiated contracts with distributors and customers. Terminal Manager – SBA Global Logistics Oct 2013 – May 2017 Managed third-party logistics contracts and ensured DOT regulatory compliance. Increased bottom-line revenue by 18% through operational efficiencies. Conducted compliance audits, payroll, interviews, and employee training. Oversaw workforce safety and adherence to federal and local transportation regulations. Education Wayne State University, Detroit, MI – MBA, Human Resources (2025) Full Sail University, Winter Park, FL – B.S. Film Certifications SHRM-Certified Professional",
+  "structured_resume": {
+    "name": "Clifton Johnson",
+    "email": "Cliftonk33@gmail.com",
+    "phone": "(734) 787-1081",
+    "location": "Flat Rock, MI",
+    "summary": "Logistics and operations leader with extensive supervision, regulatory compliance, vendor management, workforce planning, and performance management experience across transportation and logistics environments.",
+    "education": [
+      {
+        "school": "Wayne State University",
+        "degree": "masters",
+        "field": "Human Resources",
+        "graduation_year": 2025,
+        "gpa": null
+      },
+      {
+        "school": "Full Sail University",
+        "degree": "bachelors",
+        "field": "Film",
+        "graduation_year": null,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "company": "Federal Express",
+        "role": "Supervisor",
+        "location": null,
+        "start_date": "2022-01",
+        "end_date": "present",
+        "responsibilities": [
+          "Supervise operations teams ensuring DOT compliance",
+          "Conduct and document safety meetings",
+          "Implemented automation reducing labor hours by 30%",
+          "Lead workforce planning, hiring, and change management",
+          "Oversee hazardous materials compliance and preventive maintenance",
+          "Manage employee engagement and retention programs",
+          "Oversee third-party vendor contracts and dispute resolution",
+          "Direct performance appraisals and KPI tracking"
+        ],
+        "skills": [
+          "operations_management",
+          "dot_compliance",
+          "safety",
+          "process_improvement",
+          "workforce_planning",
+          "vendor_management",
+          "kpi_tracking",
+          "performance_management"
+        ],
+        "tools": [
+          "excel",
+          "workday",
+          "cognos",
+          "microsoft_office"
+        ],
+        "leadership": true
+      },
+      {
+        "company": "Gate Gourmet",
+        "role": "International Account Manager",
+        "location": null,
+        "start_date": "2021-07",
+        "end_date": "2021-12",
+        "responsibilities": [
+          "Managed team of 30 employees in unionized environment",
+          "Conducted compliance audits and safety meetings",
+          "Oversaw hazardous waste handling",
+          "Managed hiring, training, and personnel evaluations",
+          "Improved on-time service delivery by 50%",
+          "Managed purchasing and vendor relations"
+        ],
+        "skills": [
+          "team_management",
+          "compliance",
+          "safety",
+          "training",
+          "vendor_management",
+          "operations"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "Multi Radiance Medical",
+        "role": "Territory Manager",
+        "location": null,
+        "start_date": "2017-05",
+        "end_date": "2021-07",
+        "responsibilities": [
+          "Grew revenue by 200% through strategic account management",
+          "Trained customers on product compliance and safe use",
+          "Identified decision makers and negotiated contracts"
+        ],
+        "skills": [
+          "sales",
+          "account_management",
+          "negotiation",
+          "customer_training"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "SBA Global Logistics",
+        "role": "Terminal Manager",
+        "location": null,
+        "start_date": "2013-10",
+        "end_date": "2017-05",
+        "responsibilities": [
+          "Managed third-party logistics contracts",
+          "Ensured DOT regulatory compliance",
+          "Increased revenue through operational efficiencies",
+          "Conducted compliance audits and payroll management",
+          "Oversaw employee training and workforce safety"
+        ],
+        "skills": [
+          "logistics",
+          "operations_management",
+          "compliance",
+          "payroll",
+          "training",
+          "safety"
+        ],
+        "tools": [],
+        "leadership": true
+      }
+    ],
+    "skills": [
+      "logistics",
+      "operations_management",
+      "dot_compliance",
+      "hazardous_waste_handling",
+      "safety",
+      "process_improvement",
+      "vendor_management",
+      "workforce_planning",
+      "performance_management",
+      "data_analysis",
+      "forecasting",
+      "kpi_tracking",
+      "budgeting",
+      "hris",
+      "account_management",
+      "negotiation",
+      "sales",
+      "training",
+      "payroll"
+    ],
+    "tools": [
+      "excel",
+      "workday",
+      "workforce360",
+      "cognos",
+      "microsoft_office"
+    ],
+    "certifications": [
+      "SHRM-Certified Professional"
+    ],
+    "projects": [],
+    "volunteer": []
+  },
+  "feature_vector": {
+    "candidate_name": "Clifton Johnson",
+    "years_experience": 11.5,
+    "roles_count": 4,
+    "leadership_roles": 4,
+    "education_level": "masters",
+    "industries": [
+      "logistics",
+      "transportation",
+      "medical"
+    ],
+    "role_types": [
+      "operations",
+      "management",
+      "sales",
+      "human_resources"
+    ],
+    "skills_vector": [
+      "account_management",
+      "budgeting",
+      "compliance",
+      "data_analysis",
+      "dot_compliance",
+      "forecasting",
+      "hazardous_waste_handling",
+      "hris",
+      "kpi_tracking",
+      "logistics",
+      "negotiation",
+      "operations_management",
+      "payroll",
+      "performance_management",
+      "process_improvement",
+      "safety",
+      "sales",
+      "training",
+      "vendor_management",
+      "workforce_planning"
+    ],
+    "tools_vector": [
+      "cognos",
+      "excel",
+      "microsoft_office",
+      "workday",
+      "workforce360"
+    ],
+    "certifications": [
+      "SHRM-Certified Professional"
+    ],
+    "project_count": 0,
+    "volunteer_count": 0
+  }
+}

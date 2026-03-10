@@ -1,0 +1,144 @@
+{
+  "raw_resume_text": "Davon Shawn Meikle\nDetroit, Michigan\u25cf(313)-484-7036\n\nDavonsmeikle@gmail.com\n\n\nQUALIFICATIONS SUMMARY\nINTEGRITY | ACCOUNTABILITY | INSPIRATION\n\nReliable and motivated entry-level Help Desk and IT Support professional with hands-on technical certifications and strong background in customer service, troubleshooting, and documentation. Experienced in working directly with clients, resolving issues calmly under pressure, and following structured processes. Actively pursuing a career in IT with a long-term focus on cybersecurity.\n\nSKILLS\nEMPATHY\nTEAMWORK\nFLEXIBILITY\nACTIVE LISTENING\nINTERPERSONAL SKILLS\nCOMMUNICATION SKILLS\nMICROSOFT OFFICE SUITE\nGOOGLE SUITE\nMULTITASKING\nCRITICAL THINKING\nQUALITY ASSURANCE\nCUSTOMER SATISFACTION\nATTENTION TO DETAIL\nCONFLICT MANAGEMENT\nCONFLICT RESOLUTION\nLINUX\nWIRESHARK\n\nCERTIFICATIONS & EDUCATION\nUniversity Of Highschool \u2013 College Preparatory Diploma\nCertified Ethical Hacker (CEH) \u2013 University of Phoenix\nLinux Fundamentals \u2013 University of Phoenix\nWireshark Network Analysis \u2013 University of Phoenix\n\nTECHNICAL SKILLS\nOperating Systems: Windows, Linux\nNetworking & Security: Wireshark, basic network troubleshooting\nTools: Google Workspace, Microsoft Office\nTechnical Support: Troubleshooting, documentation, escalation\nCustomer Support: Clear communication, issue resolution, professionalism\n\nCORE STRENGTHS\nCustomer-focused\nCalm under pressure\nFast learner\nStrong documentation skills\nReliable and consistent\nTroubleshooting mindset\n\nProfessional Experience\n\nPorter \u2013 Pure Honda\nDetroit, MI | 2023 \u2013 Present\nInspected, logged, and transported vehicles using internal systems\nVerified accurate data entry and documentation\nCommunicated with sales, service, and management teams daily\nFollowed strict procedures to ensure safety, accuracy, and efficiency\nBuilt strong attention to detail, time management, and accountability\n\nIn-Home Caregiver \u2013 Chrysalis\nLas Vegas, NV | 2022 \u2013 2023\nProvided direct care and daily support to clients in residential settings\nMaintained detailed digital and written documentation\nResponded to real-time client needs with calm problem-solving\nFollowed healthcare protocols and privacy standards\nBuilt strong communication, patience, and troubleshooting skills",
+  "structured_resume": {
+    "name": "Davon Shawn Meikle",
+    "email": "Davonsmeikle@gmail.com",
+    "phone": "(313)-484-7036",
+    "location": "Detroit, Michigan",
+    "summary": "Reliable and motivated entry-level Help Desk and IT Support professional with hands-on technical certifications and strong background in customer service, troubleshooting, and documentation. Experienced in working directly with clients, resolving issues calmly under pressure, and following structured processes. Actively pursuing a career in IT with a long-term focus on cybersecurity.",
+    "education": [
+      {
+        "school": "University Of Highschool",
+        "degree": "high_school_diploma",
+        "field": "college_preparatory",
+        "graduation_year": null,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "company": "Pure Honda",
+        "role": "Porter",
+        "location": "Detroit, MI",
+        "start_date": "2023-01",
+        "end_date": "present",
+        "responsibilities": [
+          "Inspected, logged, and transported vehicles using internal systems",
+          "Verified accurate data entry and documentation",
+          "Communicated with sales, service, and management teams daily",
+          "Followed strict procedures to ensure safety, accuracy, and efficiency",
+          "Built strong attention to detail, time management, and accountability"
+        ],
+        "skills": [
+          "documentation",
+          "communication",
+          "time_management",
+          "attention_to_detail",
+          "process_adherence"
+        ],
+        "tools": [],
+        "leadership": false
+      },
+      {
+        "company": "Chrysalis",
+        "role": "In-Home Caregiver",
+        "location": "Las Vegas, NV",
+        "start_date": "2022-01",
+        "end_date": "2023-01",
+        "responsibilities": [
+          "Provided direct care and daily support to clients in residential settings",
+          "Maintained detailed digital and written documentation",
+          "Responded to real-time client needs with calm problem-solving",
+          "Followed healthcare protocols and privacy standards",
+          "Built strong communication, patience, and troubleshooting skills"
+        ],
+        "skills": [
+          "customer_support",
+          "documentation",
+          "problem_solving",
+          "communication",
+          "troubleshooting"
+        ],
+        "tools": [],
+        "leadership": false
+      }
+    ],
+    "skills": [
+      "active_listening",
+      "attention_to_detail",
+      "communication",
+      "conflict_management",
+      "conflict_resolution",
+      "critical_thinking",
+      "customer_satisfaction",
+      "documentation",
+      "empathy",
+      "flexibility",
+      "interpersonal_skills",
+      "linux",
+      "multitasking",
+      "quality_assurance",
+      "teamwork",
+      "troubleshooting"
+    ],
+    "tools": [
+      "google_workspace",
+      "microsoft_office",
+      "wireshark",
+      "windows"
+    ],
+    "certifications": [
+      "Certified Ethical Hacker (CEH)",
+      "Linux Fundamentals",
+      "Wireshark Network Analysis"
+    ],
+    "projects": [],
+    "volunteer": []
+  },
+  "feature_vector": {
+    "candidate_name": "Davon Shawn Meikle",
+    "years_experience": 4.2,
+    "roles_count": 2,
+    "leadership_roles": 0,
+    "education_level": "high_school",
+    "industries": [
+      "automotive",
+      "healthcare"
+    ],
+    "role_types": [
+      "customer_service",
+      "operations"
+    ],
+    "skills_vector": [
+      "active_listening",
+      "attention_to_detail",
+      "communication",
+      "conflict_management",
+      "conflict_resolution",
+      "critical_thinking",
+      "customer_satisfaction",
+      "documentation",
+      "empathy",
+      "flexibility",
+      "interpersonal_skills",
+      "linux",
+      "multitasking",
+      "quality_assurance",
+      "teamwork",
+      "troubleshooting"
+    ],
+    "tools_vector": [
+      "google_workspace",
+      "microsoft_office",
+      "wireshark",
+      "windows"
+    ],
+    "certifications": [
+      "Certified Ethical Hacker (CEH)",
+      "Linux Fundamentals",
+      "Wireshark Network Analysis"
+    ],
+    "project_count": 0,
+    "volunteer_count": 0
+  }
+}

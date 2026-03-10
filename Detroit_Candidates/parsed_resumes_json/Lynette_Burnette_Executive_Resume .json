@@ -1,0 +1,264 @@
+{
+  "raw_resume_text": "Lynette N. Burnette Executive Operations & Logistics Leader Detroit, MI | lynburnett82@gmail.com | 480-678-5133 Executive Summary Senior operations and logistics leader with 10+ years of experience overseeing transportation, warehouse, and supply chain operations in high-volume, regulated environments. Proven ability to manage large teams, optimize time-and-transit performance, ensure safety and compliance, and leverage data-driven reporting. Core Competencies Operations & Transportation Management, Warehouse & Dock Operations, Workforce Planning & Leadership, Safety Compliance & Risk Management, KPI & Performance Reporting, Process Improvement, Carrier & Vendor Management, Advanced Excel. Professional Experience Scottsdale Unified School District – Operations Supervisor Aug 2024 – May 2025 Managed transportation operations supporting 13 schools; supervised drivers and aides; scheduling and logistics; reporting and compliance; crisis response planning; stakeholder liaison. QuikTrip – PT Store Manager Apr 2024 – May 2025 Oversaw high-volume retail operations; staffing, scheduling, payroll, inventory, vendor coordination, budgeting; hiring and training; reporting; compliance. US Foods – Road Supervisor Feb 2022 – Apr 2024 Supervised drivers and clerical staff; route scheduling; safety meetings; accident investigations; KPI reporting; Excel reporting. First Transit – Road Supervisor Jan 2020 – Feb 2022 Managed motor coach operations; regulatory compliance; SOP development; scheduling; safety management; incident response. UPS Freight / UPSA – Transportation Engineer Supervisor 2018 – 2020 Managed time-and-transit operations; coordinated carriers; built scorecards; performance reviews; Excel analytics; KPI reporting. Human Resources Specialist 2017 – 2018 Full-cycle hiring and onboarding; employee relations; attendance management; payroll inputs; compliance documentation. Freight Operations Supervisor 2016 – 2017 Supervised dock, warehouse, and dispatch operations; labor utilization; safety enforcement; audits; training and coaching. Education Master's Degree – Business Management.",
+  "structured_resume": {
+    "name": "Lynette N. Burnette",
+    "email": "lynburnett82@gmail.com",
+    "phone": "480-678-5133",
+    "location": "Detroit, MI",
+    "summary": "Senior operations and logistics leader with 10+ years managing transportation, warehouse, and supply chain operations in regulated, high-volume environments with strong compliance and performance reporting expertise.",
+    "education": [
+      {
+        "school": null,
+        "degree": "masters",
+        "field": "Business Management",
+        "graduation_year": null,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "company": "Scottsdale Unified School District",
+        "role": "Operations Supervisor",
+        "location": "Scottsdale, AZ",
+        "start_date": "2024-08",
+        "end_date": "2025-05",
+        "responsibilities": [
+          "Managed transportation operations across 13 schools",
+          "Supervised drivers and support staff",
+          "Coordinated scheduling and logistics",
+          "Prepared leadership reports and compliance documentation",
+          "Led crisis response and safety coordination",
+          "Served as liaison between stakeholders"
+        ],
+        "skills": [
+          "operations_management",
+          "logistics",
+          "scheduling",
+          "compliance",
+          "stakeholder_management"
+        ],
+        "tools": [
+          "excel"
+        ],
+        "leadership": true
+      },
+      {
+        "company": "QuikTrip",
+        "role": "PT Store Manager",
+        "location": "Phoenix, AZ",
+        "start_date": "2024-04",
+        "end_date": "2025-05",
+        "responsibilities": [
+          "Oversaw daily retail operations",
+          "Managed staffing, scheduling, payroll, and inventory",
+          "Coordinated vendor management and budgeting",
+          "Hired, trained, and coached employees",
+          "Prepared operational and financial reports",
+          "Ensured policy and safety compliance"
+        ],
+        "skills": [
+          "retail_management",
+          "operations",
+          "payroll",
+          "inventory_management",
+          "vendor_management",
+          "training"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "US Foods",
+        "role": "Road Supervisor",
+        "location": "Phoenix, AZ",
+        "start_date": "2022-02",
+        "end_date": "2024-04",
+        "responsibilities": [
+          "Supervised transportation department staff",
+          "Scheduled routes and labor planning",
+          "Conducted safety meetings and accident investigations",
+          "Tracked KPIs and operational metrics",
+          "Produced Excel-based reports"
+        ],
+        "skills": [
+          "transportation",
+          "supervision",
+          "safety",
+          "kpi_tracking",
+          "reporting"
+        ],
+        "tools": [
+          "excel"
+        ],
+        "leadership": true
+      },
+      {
+        "company": "First Transit",
+        "role": "Road Supervisor",
+        "location": "Phoenix, AZ",
+        "start_date": "2020-01",
+        "end_date": "2022-02",
+        "responsibilities": [
+          "Managed motor coach operations",
+          "Ensured DOT and regulatory compliance",
+          "Developed SOPs and scheduling plans",
+          "Managed safety practices",
+          "Responded to incidents and service disruptions"
+        ],
+        "skills": [
+          "transportation",
+          "compliance",
+          "safety",
+          "operations",
+          "incident_management"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "UPS Freight / UPSA",
+        "role": "Transportation Engineer Supervisor",
+        "location": "MI",
+        "start_date": "2018-01",
+        "end_date": "2020-01",
+        "responsibilities": [
+          "Managed time-and-transit logistics operations",
+          "Coordinated rail carriers and auto haulers",
+          "Built carrier scorecards and led performance reviews",
+          "Performed Excel analytics using pivot tables and VLOOKUP",
+          "Provided KPI reporting to leadership"
+        ],
+        "skills": [
+          "logistics",
+          "analytics",
+          "operations_management",
+          "carrier_management",
+          "kpi_reporting"
+        ],
+        "tools": [
+          "excel"
+        ],
+        "leadership": true
+      },
+      {
+        "company": "UPS Freight",
+        "role": "Human Resources Specialist",
+        "location": null,
+        "start_date": "2017-01",
+        "end_date": "2018-01",
+        "responsibilities": [
+          "Managed full-cycle hiring and onboarding",
+          "Handled employee relations and performance management",
+          "Maintained payroll inputs and employee records",
+          "Ensured compliance documentation"
+        ],
+        "skills": [
+          "human_resources",
+          "recruitment",
+          "employee_relations",
+          "payroll",
+          "compliance"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "UPS Freight",
+        "role": "Freight Operations Supervisor",
+        "location": null,
+        "start_date": "2016-01",
+        "end_date": "2017-01",
+        "responsibilities": [
+          "Supervised dock, warehouse, and dispatch operations",
+          "Managed labor utilization and loading performance",
+          "Enforced safety and certification standards",
+          "Conducted audits and completed compliance reports",
+          "Trained and coached employees"
+        ],
+        "skills": [
+          "operations_management",
+          "logistics",
+          "labor_management",
+          "safety",
+          "training"
+        ],
+        "tools": [],
+        "leadership": true
+      }
+    ],
+    "skills": [
+      "operations_management",
+      "transportation",
+      "logistics",
+      "compliance",
+      "risk_management",
+      "kpi_reporting",
+      "process_improvement",
+      "vendor_management",
+      "excel_analytics",
+      "retail_management",
+      "payroll",
+      "inventory_management",
+      "carrier_management",
+      "recruitment",
+      "employee_relations",
+      "labor_management",
+      "training",
+      "incident_management",
+      "stakeholder_management"
+    ],
+    "tools": [
+      "excel"
+    ],
+    "certifications": [],
+    "projects": [],
+    "volunteer": []
+  },
+  "feature_vector": {
+    "candidate_name": "Lynette N. Burnette",
+    "years_experience": 10.5,
+    "roles_count": 7,
+    "leadership_roles": 7,
+    "education_level": "masters",
+    "industries": [
+      "transportation",
+      "logistics",
+      "retail",
+      "education"
+    ],
+    "role_types": [
+      "operations",
+      "management",
+      "retail",
+      "human_resources"
+    ],
+    "skills_vector": [
+      "carrier_management",
+      "compliance",
+      "employee_relations",
+      "excel_analytics",
+      "human_resources",
+      "incident_management",
+      "inventory_management",
+      "kpi_reporting",
+      "labor_management",
+      "logistics",
+      "operations_management",
+      "payroll",
+      "process_improvement",
+      "recruitment",
+      "retail_management",
+      "risk_management",
+      "stakeholder_management",
+      "training",
+      "transportation",
+      "vendor_management"
+    ],
+    "tools_vector": [
+      "excel"
+    ],
+    "certifications": [],
+    "project_count": 0,
+    "volunteer_count": 0
+  }
+}

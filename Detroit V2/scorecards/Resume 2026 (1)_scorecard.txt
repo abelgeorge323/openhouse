@@ -1,0 +1,68 @@
+
+══════════════════════════════════════════════════════════════════════
+  CANDIDATE SCORECARD: Davon Shawn Meikle
+  Overall Score: 50.5 / 100  |  Rank: 9 of 10
+══════════════════════════════════════════════════════════════════════
+
+  Leadership Potential         ██░░░░░░░░   2.4 / 10  (18%)
+      > No formal leadership roles found
+      > Key signals: led
+
+  Initiative / Drive           ████░░░░░░   4.1 / 10  (12%)
+      > 5 total activities (roles + volunteer + certs)
+      > Certifications: Certified Ethical Hacker (CEH), Linux Fundamentals, Wireshark Network Analysis
+      > Initiative signals: built
+
+  Reliability / Track Record   ██████░░░░   5.6 / 10  (10%)
+      > 2 roles across 4.2 years of experience
+      > Reliability signals: reliable, maintained, accuracy
+
+  Communication                █████░░░░░   4.7 / 10  (10%)
+      > Communication skills listed: communication
+      > Communication signals: communicated, interpersonal, written
+
+  Problem-Solving              ██████░░░░   6.4 / 10  (10%)
+      > Problem-solving skills: conflict_resolution, critical_thinking
+      > Problem-solving signals: problem-solving, troubleshoot, solution, efficiency
+
+  Operations Exposure          ████░░░░░░   3.9 / 10  (10%)
+      > Operations-relevant role types: operations
+      > Other role types: customer_service
+      > Operations signals: quality, safety, process
+
+  Customer / Service           █████░░░░░   5.4 / 10  (10%)
+      > Customer-facing role types: customer_service
+      > Service signals: customer service, client, sales, resident, help desk
+
+  Community & Teamwork         ████░░░░░░   3.7 / 10  (8%)
+      > Community/team signals: teamwork
+      > Team skills: interpersonal_skills, teamwork
+
+  Coachability / Learning Agility ████████░░   7.7 / 10  (7%)
+      > Coachability signals: certification, intern, entry-level
+      > Mid-career — moderate learning agility (+1.0)
+      > Certifications (3) show ongoing learning (+1.5)
+
+  Education Fit                ███░░░░░░░   3.0 / 10  (5%)
+      > high_school_diploma in college_preparatory from University Of Highschool
+      > Highest level: High School
+
+  Benchmark Bonus:  +0.6 pts
+  Trait Bonus:      +0.9 pts
+  Most Similar To:  Joshua M. Pagan PMP PMI-ACP (31% match)
+
+  Career Stage:  Early Career MIT  (+4.0 pts)
+      > Early career profile: 4.2 years, 2 roles (0–5 yrs = Early Career)
+      > Early career signals: entry-level, intern
+      > Ideal MIT profile — +4.0 bonus points applied
+
+  STRENGTHS:
+    + Coachability / Learning Agility (7.7/10)
+
+  GAPS:
+    - Operations Exposure (3.9/10)
+    - Community & Teamwork (3.7/10)
+    - Education Fit (3.0/10)
+    - Leadership Potential (2.4/10)
+
+══════════════════════════════════════════════════════════════════════

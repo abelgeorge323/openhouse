@@ -1,0 +1,189 @@
+{
+    "raw_resume_text": "Christopher Saucedo\nLivonia, MI | Saucedo.chris205@gmail.com | (313) 753 - 0244 | www.linkedin.com/in/chris-saucedo\n\nEDUCATION\nMike Ilitch School of Business – Wayne State University, Detroit, MI\nBachelor of Science | Global Supply Chain Management — May 2025\n• Global Supply Chain Management Association\n• Latino Student Association\n\nHenry Ford College, Dearborn, MI\nAssociate Degree | Global Supply Chain Management — September 2019 - May 2022\n\nWORK EXPERIENCE\nIdeal Shield — Detroit, MI\nQuality Control Inspector / Laborer — May 2024 - Current\n• Established a new Quality Control Inspector position to identify and mitigate errors in outgoing shipping orders\n• Document outbound order mistakes across all departments; report used by management to enhance error prevention\n• Streamlined quality control processes by developing new inspection procedures, resulting in 15% less shipping errors\n• Maintain high quality standards for all incoming material by conducting thorough evaluations upon arrival\n• Uphold inventory accuracy and traceability by maintaining up-to-date stock records in Sage 100 ERP\n• Generate accurate shipping labels through FedEx Ship Manager and UPS website platforms\n• Support warehouse operations by assisting with manual product assembly, expediting order fulfillment\n• Cross trained across multiple departments (Guardrail, Sleeves, Sign Base, etc) to support order fulfillment\n\nWielding Robot Operator — May 2023 - September 2023\n• Operated and programmed Lincoln Electric Cobot welding robot for C40 bollard systems production\n• Edited and optimized existing welding programs to improve weld quality and production efficiency\n• Designed and implemented a new welding program for 6-inch plate bollard systems production\n• Performed routine cleaning and preventative maintenance to ensure consistent and safe machine performance\n• Trained incoming operators on Cobot operation, programming basics, and OSHA safety adherence\n\nShipping and Receiving Intern — June 2022 – August 2022\n• Processed and invoiced customer orders and drop shipments using Sage 100 ERP\n• Created Bills of Lading (BOLs) through carrier platforms (FedEx, Old Dominion, Central Transport)\n• Coordinated and scheduled freight pick-ups and deliveries with customers, suppliers, and carriers\n• Maintained real-time order visibility by updating shipping costs, delivery details, and order records in Fabsuite\n\nSKILLS\n• Microsoft Office – Excel, Access, Publisher, PowerPoint\n• ERP Systems – Acumatica, Oracle, Fabsuite, Sage 100\n• Languages – English (fluent) & Spanish (fluent)\n• Forklift Operator",
+    "structured_resume": {
+      "name": "Christopher Saucedo",
+      "email": "Saucedo.chris205@gmail.com",
+      "phone": "(313) 753-0244",
+      "location": "Livonia, MI",
+      "summary": "Supply chain and operations professional with experience in quality control, warehouse operations, ERP systems, and logistics coordination. Strong background in process improvement, inventory accuracy, and manufacturing support.",
+      "education": [
+        {
+          "school": "Wayne State University",
+          "degree": "bachelors",
+          "field": "Global Supply Chain Management",
+          "graduation_year": 2025,
+          "gpa": null
+        },
+        {
+          "school": "Henry Ford College",
+          "degree": "associates",
+          "field": "Global Supply Chain Management",
+          "graduation_year": 2022,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Ideal Shield",
+          "role": "Quality Control Inspector / Laborer",
+          "location": "Detroit, MI",
+          "start_date": "2024-05",
+          "end_date": "present",
+          "responsibilities": [
+            "Established quality control role to reduce shipping errors",
+            "Documented outbound order errors for management reporting",
+            "Improved inspection procedures reducing errors by 15%",
+            "Maintained material quality standards upon receiving",
+            "Managed inventory accuracy and traceability in ERP",
+            "Generated shipping labels through carrier platforms",
+            "Supported warehouse assembly and fulfillment operations",
+            "Cross-trained across departments to support fulfillment"
+          ],
+          "skills": [
+            "quality_control",
+            "process_improvement",
+            "inventory_management",
+            "warehouse_operations",
+            "reporting"
+          ],
+          "tools": [
+            "sage_100",
+            "fedex_ship_manager",
+            "ups"
+          ],
+          "leadership": false
+        },
+        {
+          "company": "Ideal Shield",
+          "role": "Welding Robot Operator",
+          "location": "Detroit, MI",
+          "start_date": "2023-05",
+          "end_date": "2023-09",
+          "responsibilities": [
+            "Operated and programmed industrial welding robot",
+            "Optimized welding programs for quality and efficiency",
+            "Designed and implemented new welding programs",
+            "Performed preventative maintenance",
+            "Trained new operators on robotics and safety"
+          ],
+          "skills": [
+            "manufacturing",
+            "robotics",
+            "maintenance",
+            "training",
+            "safety_compliance"
+          ],
+          "tools": [
+            "lincoln_electric_cobot"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Ideal Shield",
+          "role": "Shipping and Receiving Intern",
+          "location": "Detroit, MI",
+          "start_date": "2022-06",
+          "end_date": "2022-08",
+          "responsibilities": [
+            "Processed and invoiced orders using ERP",
+            "Generated bills of lading via carrier systems",
+            "Scheduled freight pickups and deliveries",
+            "Maintained shipping records and order tracking"
+          ],
+          "skills": [
+            "logistics",
+            "erp",
+            "documentation",
+            "coordination"
+          ],
+          "tools": [
+            "sage_100",
+            "fabsuite"
+          ],
+          "leadership": false
+        }
+      ],
+      "skills": [
+        "quality_control",
+        "process_improvement",
+        "inventory_management",
+        "warehouse_operations",
+        "logistics",
+        "erp",
+        "manufacturing",
+        "robotics",
+        "maintenance",
+        "training",
+        "safety_compliance",
+        "documentation",
+        "coordination",
+        "bilingual"
+      ],
+      "tools": [
+        "excel",
+        "access",
+        "publisher",
+        "powerpoint",
+        "acumatica",
+        "oracle",
+        "fabsuite",
+        "sage_100",
+        "fedex_ship_manager",
+        "ups"
+      ],
+      "certifications": [
+        "Forklift Operator"
+      ],
+      "projects": [],
+      "volunteer": []
+    },
+    "feature_vector": {
+      "candidate_name": "Christopher Saucedo",
+      "years_experience": 3.0,
+      "roles_count": 3,
+      "leadership_roles": 1,
+      "education_level": "bachelors",
+      "industries": [
+        "manufacturing",
+        "logistics",
+        "supply_chain"
+      ],
+      "role_types": [
+        "operations",
+        "engineering"
+      ],
+      "skills_vector": [
+        "bilingual",
+        "coordination",
+        "documentation",
+        "erp",
+        "inventory_management",
+        "logistics",
+        "maintenance",
+        "manufacturing",
+        "process_improvement",
+        "quality_control",
+        "robotics",
+        "safety_compliance",
+        "training",
+        "warehouse_operations"
+      ],
+      "tools_vector": [
+        "access",
+        "acumatica",
+        "excel",
+        "fabsuite",
+        "fedex_ship_manager",
+        "oracle",
+        "powerpoint",
+        "publisher",
+        "sage_100",
+        "ups"
+      ],
+      "certifications": [
+        "Forklift Operator"
+      ],
+      "project_count": 0,
+      "volunteer_count": 0
+    }
+  }

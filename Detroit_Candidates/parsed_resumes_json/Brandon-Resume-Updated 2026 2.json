@@ -1,0 +1,173 @@
+{
+  "raw_resume_text": "Brandon M. DuBose Farmington Hills, MI 48335 | (313) 949-8543 | brandondubose2020@gmail.com Professional Summary Results-oriented Operations & Logistics Professional with over 5 years of experience leading teams in high-volume distribution environments. Proven track record at Amazon and Universal Logistics in optimizing workflows, improving safety cultures, and exceeding productivity KPIs. Skilled in data-driven decision-making, workforce management, and continuous process improvement. Seeking to leverage supervisory experience and operational expertise as an Operations Supervisor or Management Core Competencies Operations Management: Warehouse Operations, Inventory Control, Workflow Optimization, Logistics Coordination. Team Leadership: Workforce Planning, Performance Coaching, Conflict Resolution, Safety Compliance. Data & Technical: Advanced Excel (Pivot Tables, Data Analysis), Process Improvement (Lean/Kaizen), KPI Tracking. Professional Experience Universal Logistics Holdings Fleet Manager July 2025 – Present Supervise daily logistics operations, coordinating with drivers and customers; analytics-driven decisions; monitor fleet; implement corrective actions; cross-functional coordination. Charter Spectrum Field Technician II May 2025 – July 2025 Managed on-site technical operations including LAN/WAN installs and troubleshooting; customer support; inventory tracking; documentation. Amazon Fulfillment Process Assistant (Operations Team Lead) April 2020 – May 2025 Progressive leadership roles across Singles, Outbound Flow, Sort/Pack; workforce planning; coaching; productivity and quality improvements. Education Schoolcraft College Associate's Degree in Business Administration (In Progress) Expected Graduation December 2027. C-Tech Programs Telecommunications Certifications. High School Diploma 2020.",
+  "structured_resume": {
+    "name": "Brandon M. DuBose",
+    "email": "brandondubose2020@gmail.com",
+    "phone": "(313) 949-8543",
+    "location": "Farmington Hills, MI",
+    "summary": "Results-oriented Operations & Logistics Professional with 5+ years leading teams in high-volume distribution environments. Strong in workflow optimization, safety culture, KPI performance, and data-driven operations.",
+    "education": [
+      {
+        "school": "Schoolcraft College",
+        "degree": "associates",
+        "field": "Business Administration",
+        "graduation_year": 2027,
+        "gpa": null
+      },
+      {
+        "school": "University Prep Science & Math High School",
+        "degree": "high_school",
+        "field": null,
+        "graduation_year": 2020,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "company": "Universal Logistics Holdings",
+        "role": "Fleet Manager",
+        "location": null,
+        "start_date": "2025-07",
+        "end_date": "present",
+        "responsibilities": [
+          "Supervise daily logistics operations",
+          "Coordinate drivers and customers",
+          "Use analytics for operational decisions",
+          "Monitor fleet and resolve delays",
+          "Partner cross-functionally to streamline workflow"
+        ],
+        "skills": [
+          "operations_management",
+          "logistics",
+          "analytics",
+          "coordination"
+        ],
+        "tools": [
+          "excel"
+        ],
+        "leadership": true
+      },
+      {
+        "company": "Charter Spectrum",
+        "role": "Field Technician II",
+        "location": null,
+        "start_date": "2025-05",
+        "end_date": "2025-07",
+        "responsibilities": [
+          "Install and troubleshoot LAN/WAN infrastructure",
+          "Provide customer technical support",
+          "Maintain equipment inventory",
+          "Document technical fixes"
+        ],
+        "skills": [
+          "technical_support",
+          "troubleshooting",
+          "customer_service",
+          "documentation"
+        ],
+        "tools": [],
+        "leadership": false
+      },
+      {
+        "company": "Amazon Fulfillment",
+        "role": "Process Assistant",
+        "location": null,
+        "start_date": "2020-04",
+        "end_date": "2025-05",
+        "responsibilities": [
+          "Supported shift operations across multiple departments",
+          "Managed workforce planning and labor allocation",
+          "Coached associates on productivity and quality goals",
+          "Led process improvement initiatives",
+          "Drove KPI and productivity improvements"
+        ],
+        "skills": [
+          "operations",
+          "workforce_planning",
+          "coaching",
+          "process_improvement",
+          "kpi_management"
+        ],
+        "tools": [
+          "excel"
+        ],
+        "leadership": true
+      }
+    ],
+    "skills": [
+      "operations_management",
+      "inventory_control",
+      "workflow_optimization",
+      "logistics",
+      "team_leadership",
+      "workforce_planning",
+      "performance_coaching",
+      "conflict_resolution",
+      "safety_compliance",
+      "process_improvement",
+      "kpi_tracking",
+      "technical_support",
+      "troubleshooting",
+      "customer_service",
+      "documentation"
+    ],
+    "tools": [
+      "excel"
+    ],
+    "certifications": [
+      "Introduction to Telecommunications",
+      "Copper/Coaxial Termination",
+      "Fiber Optic Splice & Termination",
+      "Grounding and Bonding"
+    ],
+    "projects": [],
+    "volunteer": []
+  },
+  "feature_vector": {
+    "candidate_name": "Brandon M. DuBose",
+    "years_experience": 5.2,
+    "roles_count": 3,
+    "leadership_roles": 2,
+    "education_level": "associates",
+    "industries": [
+      "logistics",
+      "distribution",
+      "telecommunications"
+    ],
+    "role_types": [
+      "operations",
+      "management",
+      "engineering",
+      "customer_service"
+    ],
+    "skills_vector": [
+      "conflict_resolution",
+      "customer_service",
+      "documentation",
+      "inventory_control",
+      "kpi_tracking",
+      "logistics",
+      "operations",
+      "operations_management",
+      "performance_coaching",
+      "process_improvement",
+      "safety_compliance",
+      "team_leadership",
+      "technical_support",
+      "troubleshooting",
+      "workforce_planning",
+      "workflow_optimization"
+    ],
+    "tools_vector": [
+      "excel"
+    ],
+    "certifications": [
+      "Introduction to Telecommunications",
+      "Copper/Coaxial Termination",
+      "Fiber Optic Splice & Termination",
+      "Grounding and Bonding"
+    ],
+    "project_count": 0,
+    "volunteer_count": 0
+  }
+}

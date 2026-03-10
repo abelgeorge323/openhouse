@@ -1,0 +1,3795 @@
+[
+  {
+    "candidate_name": "Brandon M. DuBose",
+    "contact": {
+      "email": "brandondubose2020@gmail.com",
+      "phone": "(313) 949-8543",
+      "location": "Farmington Hills, MI"
+    },
+    "education_level": "associates",
+    "years_experience": 5.2,
+    "roles_count": 3,
+    "leadership_roles": 2,
+    "skills_vector": [
+      "conflict_resolution",
+      "customer_service",
+      "documentation",
+      "inventory_control",
+      "kpi_tracking",
+      "logistics",
+      "operations",
+      "operations_management",
+      "performance_coaching",
+      "process_improvement",
+      "safety_compliance",
+      "team_leadership",
+      "technical_support",
+      "troubleshooting",
+      "workforce_planning",
+      "workflow_optimization"
+    ],
+    "tools_vector": [
+      "excel"
+    ],
+    "resume_score": 53.4,
+    "resume_rank": 9,
+    "career_stage": "Senior MIT",
+    "career_stage_bonus": 1.0,
+    "benchmark_bonus": 0.8,
+    "trait_bonus": 1.1,
+    "combined_score": 53.4,
+    "combined_rank": 9,
+    "sentiment_score": null,
+    "sentiment_dimensions": {},
+    "sentiment_confidence": null,
+    "recommended_role": null,
+    "status": null,
+    "mismatch_flag": "NO_SENTIMENT",
+    "raw_structured_resume": {
+      "name": "Brandon M. DuBose",
+      "email": "brandondubose2020@gmail.com",
+      "phone": "(313) 949-8543",
+      "location": "Farmington Hills, MI",
+      "summary": "Results-oriented Operations & Logistics Professional with 5+ years leading teams in high-volume distribution environments. Strong in workflow optimization, safety culture, KPI performance, and data-driven operations.",
+      "education": [
+        {
+          "school": "Schoolcraft College",
+          "degree": "associates",
+          "field": "Business Administration",
+          "graduation_year": 2027,
+          "gpa": null
+        },
+        {
+          "school": "University Prep Science & Math High School",
+          "degree": "high_school",
+          "field": null,
+          "graduation_year": 2020,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Universal Logistics Holdings",
+          "role": "Fleet Manager",
+          "location": null,
+          "start_date": "2025-07",
+          "end_date": "present",
+          "responsibilities": [
+            "Supervise daily logistics operations",
+            "Coordinate drivers and customers",
+            "Use analytics for operational decisions",
+            "Monitor fleet and resolve delays",
+            "Partner cross-functionally to streamline workflow"
+          ],
+          "skills": [
+            "operations_management",
+            "logistics",
+            "analytics",
+            "coordination"
+          ],
+          "tools": [
+            "excel"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Charter Spectrum",
+          "role": "Field Technician II",
+          "location": null,
+          "start_date": "2025-05",
+          "end_date": "2025-07",
+          "responsibilities": [
+            "Install and troubleshoot LAN/WAN infrastructure",
+            "Provide customer technical support",
+            "Maintain equipment inventory",
+            "Document technical fixes"
+          ],
+          "skills": [
+            "technical_support",
+            "troubleshooting",
+            "customer_service",
+            "documentation"
+          ],
+          "tools": [],
+          "leadership": false
+        },
+        {
+          "company": "Amazon Fulfillment",
+          "role": "Process Assistant",
+          "location": null,
+          "start_date": "2020-04",
+          "end_date": "2025-05",
+          "responsibilities": [
+            "Supported shift operations across multiple departments",
+            "Managed workforce planning and labor allocation",
+            "Coached associates on productivity and quality goals",
+            "Led process improvement initiatives",
+            "Drove KPI and productivity improvements"
+          ],
+          "skills": [
+            "operations",
+            "workforce_planning",
+            "coaching",
+            "process_improvement",
+            "kpi_management"
+          ],
+          "tools": [
+            "excel"
+          ],
+          "leadership": true
+        }
+      ],
+      "skills": [
+        "operations_management",
+        "inventory_control",
+        "workflow_optimization",
+        "logistics",
+        "team_leadership",
+        "workforce_planning",
+        "performance_coaching",
+        "conflict_resolution",
+        "safety_compliance",
+        "process_improvement",
+        "kpi_tracking",
+        "technical_support",
+        "troubleshooting",
+        "customer_service",
+        "documentation"
+      ],
+      "tools": [
+        "excel"
+      ],
+      "certifications": [
+        "Introduction to Telecommunications",
+        "Copper/Coaxial Termination",
+        "Fiber Optic Splice & Termination",
+        "Grounding and Bonding"
+      ],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Brandon M. DuBose",
+      "years_experience": 5.2,
+      "roles_count": 3,
+      "leadership_roles": 2,
+      "education_level": "associates",
+      "industries": [
+        "logistics",
+        "distribution",
+        "telecommunications"
+      ],
+      "role_types": [
+        "operations",
+        "management",
+        "engineering",
+        "customer_service"
+      ],
+      "skills_vector": [
+        "conflict_resolution",
+        "customer_service",
+        "documentation",
+        "inventory_control",
+        "kpi_tracking",
+        "logistics",
+        "operations",
+        "operations_management",
+        "performance_coaching",
+        "process_improvement",
+        "safety_compliance",
+        "team_leadership",
+        "technical_support",
+        "troubleshooting",
+        "workforce_planning",
+        "workflow_optimization"
+      ],
+      "tools_vector": [
+        "excel"
+      ],
+      "certifications": [
+        "Introduction to Telecommunications",
+        "Copper/Coaxial Termination",
+        "Fiber Optic Splice & Termination",
+        "Grounding and Bonding"
+      ],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Brandon M. DuBose",
+      "filename": "Brandon-Resume-Updated 2026 2",
+      "overall_score": 53.4,
+      "dimensions": {
+        "leadership_potential": 6.5,
+        "initiative_drive": 4.7,
+        "reliability": 5.0,
+        "communication": 1.9,
+        "problem_solving": 7.0,
+        "operations_exposure": 6.9,
+        "customer_service": 1.0,
+        "education_fit": 5.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "2 leadership roles identified",
+          "Key signals: managed, led, coached",
+          "Leadership roles: Fleet Manager; Process Assistant"
+        ],
+        "initiative_drive": [
+          "7 total activities (roles + volunteer + certs)",
+          "Certifications: Introduction to Telecommunications, Copper/Coaxial Termination, Fiber Optic Splice & Termination",
+          "Initiative signals: coach"
+        ],
+        "reliability": [
+          "3 roles across 5.2 years of experience",
+          "Reliability signals: compliance"
+        ],
+        "communication": [
+          "Communication signals: cross-functional"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: conflict_resolution, operations_management, process_improvement, kpi_tracking",
+          "Problem-solving signals: troubleshoot, solution, process improvement"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations, management",
+          "Other role types: customer_service, engineering",
+          "Operations signals: operations, logistics, inventory, fleet, quality"
+        ],
+        "customer_service": [
+          "Customer-facing role types: customer_service"
+        ],
+        "education_fit": [
+          "associates in Business Administration from Schoolcraft College",
+          "high_school from University Prep Science & Math High School",
+          "Highest level: Associates"
+        ]
+      },
+      "strengths": [
+        "Problem-Solving (7.0/10)"
+      ],
+      "gaps": [
+        "Communication (1.9/10)",
+        "Customer / Service (1.0/10)"
+      ],
+      "most_similar_benchmark": "Joshua M. Pagan PMP PMI-ACP",
+      "similarity_pct": 45.9,
+      "benchmark_bonus": 0.8,
+      "trait_alignment_bonus": 1.1,
+      "career_stage": "Senior MIT",
+      "career_stage_bonus": 1.0,
+      "career_stage_reasoning": [
+        "Senior MIT profile: 5.2 years, 3 roles (4–6 yrs = Senior MIT)",
+        "Experienced but training-level fit — +1.0 pts"
+      ],
+      "rank": 9
+    },
+    "raw_sentiment_scoring": {},
+    "raw_combined_scoring": {
+      "candidate_name": "Brandon M. DuBose",
+      "resume_score": 53.4,
+      "sentiment_score": 0.0,
+      "blended_score": 53.4,
+      "resume_rank": 9,
+      "sentiment_rank": 0,
+      "combined_rank": 9,
+      "recommended_role": "",
+      "status": "",
+      "mismatch_flag": "NO_SENTIMENT",
+      "mismatch_details": [
+        "Resume scored but no leader feedback collected for this candidate"
+      ],
+      "resume_strengths": [
+        "Problem-Solving (7.0/10)"
+      ],
+      "resume_gaps": [
+        "Communication (1.9/10)",
+        "Customer / Service (1.0/10)"
+      ],
+      "sentiment_reasoning": {}
+    }
+  },
+  {
+    "candidate_name": "Charda Williams",
+    "contact": {
+      "email": "williams.charda16@gmail.com",
+      "phone": "(248) 508-2939",
+      "location": null
+    },
+    "education_level": "masters",
+    "years_experience": 4.6,
+    "roles_count": 3,
+    "leadership_roles": 3,
+    "skills_vector": [
+      "communication",
+      "contract_management",
+      "dispatch",
+      "dot_compliance",
+      "edi",
+      "erp",
+      "fleet_management",
+      "inventory_management",
+      "kpi_management",
+      "logistics",
+      "operations",
+      "operations_management",
+      "reporting",
+      "safety",
+      "safety_compliance",
+      "sap",
+      "team_management",
+      "transportation_management",
+      "wms"
+    ],
+    "tools_vector": [
+      "excel",
+      "microsoft_office",
+      "powerpoint",
+      "sap",
+      "word",
+      "wms"
+    ],
+    "resume_score": 53.8,
+    "resume_rank": 8,
+    "career_stage": "Senior MIT",
+    "career_stage_bonus": 1.0,
+    "benchmark_bonus": 1.0,
+    "trait_bonus": 1.0,
+    "combined_score": 59.3,
+    "combined_rank": 8,
+    "sentiment_score": 75.0,
+    "sentiment_dimensions": {
+      "leader_conviction": 5.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 5.0,
+      "role_alignment": 10.0,
+      "concern_severity": 10.0
+    },
+    "sentiment_confidence": 0.65,
+    "recommended_role": "MIT",
+    "status": "continue",
+    "mismatch_flag": "MODERATE_MISMATCH",
+    "raw_structured_resume": {
+      "name": "Charda Williams",
+      "email": "williams.charda16@gmail.com",
+      "phone": "(248) 508-2939",
+      "location": null,
+      "summary": "Operations and supply chain professional with MBA and 5+ years of experience managing logistics, transportation, warehouse operations, ERP systems, and inventory management.",
+      "education": [
+        {
+          "school": "Central Michigan University",
+          "degree": "masters",
+          "field": "HR Management",
+          "graduation_year": 2022,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Kroger Delivery",
+          "role": "Operations Manager",
+          "location": null,
+          "start_date": "2024-09",
+          "end_date": "present",
+          "responsibilities": [
+            "Ensure on-time order dispatch and delivery accuracy",
+            "Schedule, train, and develop warehouse supervisors",
+            "Oversee warehouse productivity and KPI performance",
+            "Manage inventory levels and stock rotation protocols"
+          ],
+          "skills": [
+            "operations_management",
+            "supervision",
+            "kpi_management",
+            "inventory_management"
+          ],
+          "tools": [
+            "wms",
+            "sap"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Universal Logistics Holdings",
+          "role": "Operations Traffic Supervisor",
+          "location": null,
+          "start_date": "2023-07",
+          "end_date": "2024-09",
+          "responsibilities": [
+            "Managed team of 20 employees",
+            "Oversaw freight loading and unloading operations",
+            "Prepared productivity and performance reports",
+            "Ensured adherence to safety protocols"
+          ],
+          "skills": [
+            "logistics",
+            "team_management",
+            "reporting",
+            "safety_compliance"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Penske Truck Leasing",
+          "role": "Assistant Rental Manager",
+          "location": null,
+          "start_date": "2021-08",
+          "end_date": "2023-08",
+          "responsibilities": [
+            "Managed team of 12 employees",
+            "Oversaw fleet inventory and hazardous materials",
+            "Dispatched drivers and coordinated fleet operations",
+            "Managed billing, contracts, and service scheduling"
+          ],
+          "skills": [
+            "fleet_management",
+            "dispatch",
+            "operations",
+            "contract_management"
+          ],
+          "tools": [],
+          "leadership": true
+        }
+      ],
+      "skills": [
+        "wms",
+        "sap",
+        "dispatch",
+        "fleet_management",
+        "logistics",
+        "dot_compliance",
+        "erp",
+        "edi",
+        "safety",
+        "transportation_management",
+        "communication",
+        "inventory_management",
+        "operations_management",
+        "kpi_management",
+        "team_management",
+        "reporting",
+        "contract_management"
+      ],
+      "tools": [
+        "wms",
+        "sap",
+        "microsoft_office",
+        "excel",
+        "word",
+        "powerpoint"
+      ],
+      "certifications": [],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Charda Williams",
+      "years_experience": 4.6,
+      "roles_count": 3,
+      "leadership_roles": 3,
+      "education_level": "masters",
+      "industries": [
+        "logistics",
+        "supply_chain",
+        "transportation"
+      ],
+      "role_types": [
+        "operations",
+        "management"
+      ],
+      "skills_vector": [
+        "communication",
+        "contract_management",
+        "dispatch",
+        "dot_compliance",
+        "edi",
+        "erp",
+        "fleet_management",
+        "inventory_management",
+        "kpi_management",
+        "logistics",
+        "operations",
+        "operations_management",
+        "reporting",
+        "safety",
+        "safety_compliance",
+        "sap",
+        "team_management",
+        "transportation_management",
+        "wms"
+      ],
+      "tools_vector": [
+        "excel",
+        "microsoft_office",
+        "powerpoint",
+        "sap",
+        "word",
+        "wms"
+      ],
+      "certifications": [],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Charda Williams",
+      "filename": "Charda W. resume1",
+      "overall_score": 53.8,
+      "dimensions": {
+        "leadership_potential": 7.2,
+        "initiative_drive": 4.0,
+        "reliability": 5.8,
+        "communication": 4.0,
+        "problem_solving": 3.0,
+        "operations_exposure": 6.4,
+        "customer_service": 0.0,
+        "education_fit": 9.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "3 leadership roles out of 3 total",
+          "Key signals: managed, oversaw, coordinated",
+          "Leadership roles: Operations Manager; Operations Traffic Supervisor; Assistant Rental Manager"
+        ],
+        "initiative_drive": [
+          "3 total activities (roles + volunteer + certs)",
+          "Initiative signals: develop, train"
+        ],
+        "reliability": [
+          "3 roles across 4.6 years of experience",
+          "Reliability signals: ensured, compliance, accuracy"
+        ],
+        "communication": [
+          "Communication skills listed: communication",
+          "Floor applied — communication explicitly listed as skill"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: kpi_management, operations_management, reporting"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations, management",
+          "Operations signals: operations, logistics, supply chain, inventory, scheduling"
+        ],
+        "customer_service": [
+          "No direct customer/service experience detected"
+        ],
+        "education_fit": [
+          "masters in HR Management from Central Michigan University",
+          "Highest level: Masters"
+        ]
+      },
+      "strengths": [
+        "Education Fit (9.0/10)",
+        "Leadership Potential (7.2/10)"
+      ],
+      "gaps": [
+        "Problem-Solving (3.0/10)",
+        "Customer / Service (0.0/10)"
+      ],
+      "most_similar_benchmark": "DANE DELAND",
+      "similarity_pct": 38.3,
+      "benchmark_bonus": 1.0,
+      "trait_alignment_bonus": 1.0,
+      "career_stage": "Senior MIT",
+      "career_stage_bonus": 1.0,
+      "career_stage_reasoning": [
+        "Senior MIT profile: 4.6 years, 3 roles (4–6 yrs = Senior MIT)",
+        "Experienced but training-level fit — +1.0 pts"
+      ],
+      "rank": 8
+    },
+    "raw_sentiment_scoring": {
+      "candidate_name": "Charda Williams",
+      "sentiment_score": 75.0,
+      "dimensions": {
+        "leader_conviction": 5.0,
+        "impression_strength": 10.0,
+        "effort_initiative": 5.0,
+        "role_alignment": 10.0,
+        "concern_severity": 10.0
+      },
+      "reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+        ],
+        "impression_strength": [
+          "Positive signals (3): strong, leader, success"
+        ],
+        "effort_initiative": [
+          "No specific effort signals detected — baseline score"
+        ],
+        "role_alignment": [
+          "Recommended for MIT — exact match with target role"
+        ],
+        "concern_severity": [
+          "No concerns raised — clean candidate"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 74% / sentiment 26%"
+        ]
+      },
+      "recommended_role": "MIT",
+      "status": "continue",
+      "reviewer_count": 1,
+      "recommend_count": 0,
+      "review_count": 0,
+      "pass_count": 0,
+      "source_confidence": 0.65
+    },
+    "raw_combined_scoring": {
+      "candidate_name": "Charda Williams",
+      "resume_score": 53.8,
+      "sentiment_score": 75.0,
+      "blended_score": 59.3,
+      "resume_rank": 8,
+      "sentiment_rank": 6,
+      "combined_rank": 8,
+      "recommended_role": "MIT",
+      "status": "continue",
+      "mismatch_flag": "MODERATE_MISMATCH",
+      "mismatch_details": [
+        "Leaders more positive than resume suggests (75 vs 54)"
+      ],
+      "resume_strengths": [
+        "Education Fit (9.0/10)",
+        "Leadership Potential (7.2/10)"
+      ],
+      "resume_gaps": [
+        "Problem-Solving (3.0/10)",
+        "Customer / Service (0.0/10)"
+      ],
+      "sentiment_reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+        ],
+        "impression_strength": [
+          "Positive signals (3): strong, leader, success"
+        ],
+        "effort_initiative": [
+          "No specific effort signals detected — baseline score"
+        ],
+        "role_alignment": [
+          "Recommended for MIT — exact match with target role"
+        ],
+        "concern_severity": [
+          "No concerns raised — clean candidate"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 74% / sentiment 26%"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_name": "Christopher Saucedo",
+    "contact": {
+      "email": "Saucedo.chris205@gmail.com",
+      "phone": "(313) 753-0244",
+      "location": "Livonia, MI"
+    },
+    "education_level": "bachelors",
+    "years_experience": 3.0,
+    "roles_count": 3,
+    "leadership_roles": 1,
+    "skills_vector": [
+      "bilingual",
+      "coordination",
+      "documentation",
+      "erp",
+      "inventory_management",
+      "logistics",
+      "maintenance",
+      "manufacturing",
+      "process_improvement",
+      "quality_control",
+      "robotics",
+      "safety_compliance",
+      "training",
+      "warehouse_operations"
+    ],
+    "tools_vector": [
+      "access",
+      "acumatica",
+      "excel",
+      "fabsuite",
+      "fedex_ship_manager",
+      "oracle",
+      "powerpoint",
+      "publisher",
+      "sage_100",
+      "ups"
+    ],
+    "resume_score": 57.7,
+    "resume_rank": 6,
+    "career_stage": "Early Career MIT",
+    "career_stage_bonus": 4.0,
+    "benchmark_bonus": 0.9,
+    "trait_bonus": 1.1,
+    "combined_score": 62.6,
+    "combined_rank": 7,
+    "sentiment_score": 76.6,
+    "sentiment_dimensions": {
+      "leader_conviction": 5.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 5.8,
+      "role_alignment": 10.0,
+      "concern_severity": 10.0
+    },
+    "sentiment_confidence": 0.65,
+    "recommended_role": "MIT",
+    "status": "continue",
+    "mismatch_flag": "MODERATE_MISMATCH",
+    "raw_structured_resume": {
+      "name": "Christopher Saucedo",
+      "email": "Saucedo.chris205@gmail.com",
+      "phone": "(313) 753-0244",
+      "location": "Livonia, MI",
+      "summary": "Supply chain and operations professional with experience in quality control, warehouse operations, ERP systems, and logistics coordination. Strong background in process improvement, inventory accuracy, and manufacturing support.",
+      "education": [
+        {
+          "school": "Wayne State University",
+          "degree": "bachelors",
+          "field": "Global Supply Chain Management",
+          "graduation_year": 2025,
+          "gpa": null
+        },
+        {
+          "school": "Henry Ford College",
+          "degree": "associates",
+          "field": "Global Supply Chain Management",
+          "graduation_year": 2022,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Ideal Shield",
+          "role": "Quality Control Inspector / Laborer",
+          "location": "Detroit, MI",
+          "start_date": "2024-05",
+          "end_date": "present",
+          "responsibilities": [
+            "Established quality control role to reduce shipping errors",
+            "Documented outbound order errors for management reporting",
+            "Improved inspection procedures reducing errors by 15%",
+            "Maintained material quality standards upon receiving",
+            "Managed inventory accuracy and traceability in ERP",
+            "Generated shipping labels through carrier platforms",
+            "Supported warehouse assembly and fulfillment operations",
+            "Cross-trained across departments to support fulfillment"
+          ],
+          "skills": [
+            "quality_control",
+            "process_improvement",
+            "inventory_management",
+            "warehouse_operations",
+            "reporting"
+          ],
+          "tools": [
+            "sage_100",
+            "fedex_ship_manager",
+            "ups"
+          ],
+          "leadership": false
+        },
+        {
+          "company": "Ideal Shield",
+          "role": "Welding Robot Operator",
+          "location": "Detroit, MI",
+          "start_date": "2023-05",
+          "end_date": "2023-09",
+          "responsibilities": [
+            "Operated and programmed industrial welding robot",
+            "Optimized welding programs for quality and efficiency",
+            "Designed and implemented new welding programs",
+            "Performed preventative maintenance",
+            "Trained new operators on robotics and safety"
+          ],
+          "skills": [
+            "manufacturing",
+            "robotics",
+            "maintenance",
+            "training",
+            "safety_compliance"
+          ],
+          "tools": [
+            "lincoln_electric_cobot"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Ideal Shield",
+          "role": "Shipping and Receiving Intern",
+          "location": "Detroit, MI",
+          "start_date": "2022-06",
+          "end_date": "2022-08",
+          "responsibilities": [
+            "Processed and invoiced orders using ERP",
+            "Generated bills of lading via carrier systems",
+            "Scheduled freight pickups and deliveries",
+            "Maintained shipping records and order tracking"
+          ],
+          "skills": [
+            "logistics",
+            "erp",
+            "documentation",
+            "coordination"
+          ],
+          "tools": [
+            "sage_100",
+            "fabsuite"
+          ],
+          "leadership": false
+        }
+      ],
+      "skills": [
+        "quality_control",
+        "process_improvement",
+        "inventory_management",
+        "warehouse_operations",
+        "logistics",
+        "erp",
+        "manufacturing",
+        "robotics",
+        "maintenance",
+        "training",
+        "safety_compliance",
+        "documentation",
+        "coordination",
+        "bilingual"
+      ],
+      "tools": [
+        "excel",
+        "access",
+        "publisher",
+        "powerpoint",
+        "acumatica",
+        "oracle",
+        "fabsuite",
+        "sage_100",
+        "fedex_ship_manager",
+        "ups"
+      ],
+      "certifications": [
+        "Forklift Operator"
+      ],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Christopher Saucedo",
+      "years_experience": 3.0,
+      "roles_count": 3,
+      "leadership_roles": 1,
+      "education_level": "bachelors",
+      "industries": [
+        "manufacturing",
+        "logistics",
+        "supply_chain"
+      ],
+      "role_types": [
+        "operations",
+        "engineering"
+      ],
+      "skills_vector": [
+        "bilingual",
+        "coordination",
+        "documentation",
+        "erp",
+        "inventory_management",
+        "logistics",
+        "maintenance",
+        "manufacturing",
+        "process_improvement",
+        "quality_control",
+        "robotics",
+        "safety_compliance",
+        "training",
+        "warehouse_operations"
+      ],
+      "tools_vector": [
+        "access",
+        "acumatica",
+        "excel",
+        "fabsuite",
+        "fedex_ship_manager",
+        "oracle",
+        "powerpoint",
+        "publisher",
+        "sage_100",
+        "ups"
+      ],
+      "certifications": [
+        "Forklift Operator"
+      ],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Christopher Saucedo",
+      "filename": "Resume - Christopher Sauc",
+      "overall_score": 57.7,
+      "dimensions": {
+        "leadership_potential": 5.7,
+        "initiative_drive": 6.5,
+        "reliability": 5.2,
+        "communication": 4.0,
+        "problem_solving": 5.4,
+        "operations_exposure": 5.4,
+        "customer_service": 0.0,
+        "education_fit": 8.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "1 leadership role identified",
+          "Key signals: managed, led, trained new",
+          "Leadership roles: Welding Robot Operator"
+        ],
+        "initiative_drive": [
+          "4 total activities (roles + volunteer + certs)",
+          "Certifications: Forklift Operator",
+          "Initiative signals: established, designed, improved, train, training"
+        ],
+        "reliability": [
+          "3 roles across 3.0 years of experience",
+          "Reliability signals: maintained, compliance, accuracy"
+        ],
+        "communication": [
+          "Communication skills listed: bilingual",
+          "Communication signals: bilingual, training",
+          "Floor applied — communication explicitly listed as skill"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: process_improvement",
+          "Problem-solving signals: improved, optimized, process improvement, efficiency"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations",
+          "Other role types: engineering",
+          "Operations signals: operations, logistics, supply chain, inventory, warehouse"
+        ],
+        "customer_service": [
+          "No direct customer/service experience detected"
+        ],
+        "education_fit": [
+          "bachelors in Global Supply Chain Management from Wayne State University",
+          "associates in Global Supply Chain Management from Henry Ford College",
+          "Highest level: Bachelors"
+        ]
+      },
+      "strengths": [
+        "Education Fit (8.0/10)"
+      ],
+      "gaps": [
+        "Customer / Service (0.0/10)"
+      ],
+      "most_similar_benchmark": "Jonas Williams",
+      "similarity_pct": 33.9,
+      "benchmark_bonus": 0.9,
+      "trait_alignment_bonus": 1.1,
+      "career_stage": "Early Career MIT",
+      "career_stage_bonus": 4.0,
+      "career_stage_reasoning": [
+        "Early career profile: 3.0 years, 3 roles (0–3 yrs = Early Career)",
+        "Early career signals: intern",
+        "Ideal MIT profile — +4.0 bonus points applied"
+      ],
+      "rank": 6
+    },
+    "raw_sentiment_scoring": {
+      "candidate_name": "Christopher Saucedo",
+      "sentiment_score": 76.6,
+      "dimensions": {
+        "leader_conviction": 5.0,
+        "impression_strength": 10.0,
+        "effort_initiative": 5.8,
+        "role_alignment": 10.0,
+        "concern_severity": 10.0
+      },
+      "reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+        ],
+        "impression_strength": [
+          "Positive signals (3): dedicated, hard working, ready to learn"
+        ],
+        "effort_initiative": [
+          "Effort signals: dedicated"
+        ],
+        "role_alignment": [
+          "Recommended for MIT — exact match with target role"
+        ],
+        "concern_severity": [
+          "No concerns raised — clean candidate"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 74% / sentiment 26%"
+        ]
+      },
+      "recommended_role": "MIT",
+      "status": "continue",
+      "reviewer_count": 1,
+      "recommend_count": 0,
+      "review_count": 0,
+      "pass_count": 0,
+      "source_confidence": 0.65
+    },
+    "raw_combined_scoring": {
+      "candidate_name": "Christopher Saucedo",
+      "resume_score": 57.7,
+      "sentiment_score": 76.6,
+      "blended_score": 62.6,
+      "resume_rank": 6,
+      "sentiment_rank": 4,
+      "combined_rank": 7,
+      "recommended_role": "MIT",
+      "status": "continue",
+      "mismatch_flag": "MODERATE_MISMATCH",
+      "mismatch_details": [
+        "Leaders more positive than resume suggests (77 vs 58)"
+      ],
+      "resume_strengths": [
+        "Education Fit (8.0/10)"
+      ],
+      "resume_gaps": [
+        "Customer / Service (0.0/10)"
+      ],
+      "sentiment_reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+        ],
+        "impression_strength": [
+          "Positive signals (3): dedicated, hard working, ready to learn"
+        ],
+        "effort_initiative": [
+          "Effort signals: dedicated"
+        ],
+        "role_alignment": [
+          "Recommended for MIT — exact match with target role"
+        ],
+        "concern_severity": [
+          "No concerns raised — clean candidate"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 74% / sentiment 26%"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_name": "Clifton Johnson",
+    "contact": {
+      "email": "Cliftonk33@gmail.com",
+      "phone": "(734) 787-1081",
+      "location": "Flat Rock, MI"
+    },
+    "education_level": "masters",
+    "years_experience": 11.5,
+    "roles_count": 4,
+    "leadership_roles": 4,
+    "skills_vector": [
+      "account_management",
+      "budgeting",
+      "compliance",
+      "data_analysis",
+      "dot_compliance",
+      "forecasting",
+      "hazardous_waste_handling",
+      "hris",
+      "kpi_tracking",
+      "logistics",
+      "negotiation",
+      "operations_management",
+      "payroll",
+      "performance_management",
+      "process_improvement",
+      "safety",
+      "sales",
+      "training",
+      "vendor_management",
+      "workforce_planning"
+    ],
+    "tools_vector": [
+      "cognos",
+      "excel",
+      "microsoft_office",
+      "workday",
+      "workforce360"
+    ],
+    "resume_score": 62.5,
+    "resume_rank": 5,
+    "career_stage": "Experienced",
+    "career_stage_bonus": 0.0,
+    "benchmark_bonus": 1.1,
+    "trait_bonus": 1.2,
+    "combined_score": 68.4,
+    "combined_rank": 5,
+    "sentiment_score": 77.2,
+    "sentiment_dimensions": {
+      "leader_conviction": 6.0,
+      "impression_strength": 9.6,
+      "effort_initiative": 6.6,
+      "role_alignment": 10.0,
+      "concern_severity": 7.0
+    },
+    "sentiment_confidence": 1.0,
+    "recommended_role": "MIT",
+    "status": "continue",
+    "mismatch_flag": "",
+    "raw_structured_resume": {
+      "name": "Clifton Johnson",
+      "email": "Cliftonk33@gmail.com",
+      "phone": "(734) 787-1081",
+      "location": "Flat Rock, MI",
+      "summary": "Logistics and operations leader with extensive supervision, regulatory compliance, vendor management, workforce planning, and performance management experience across transportation and logistics environments.",
+      "education": [
+        {
+          "school": "Wayne State University",
+          "degree": "masters",
+          "field": "Human Resources",
+          "graduation_year": 2025,
+          "gpa": null
+        },
+        {
+          "school": "Full Sail University",
+          "degree": "bachelors",
+          "field": "Film",
+          "graduation_year": null,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Federal Express",
+          "role": "Supervisor",
+          "location": null,
+          "start_date": "2022-01",
+          "end_date": "present",
+          "responsibilities": [
+            "Supervise operations teams ensuring DOT compliance",
+            "Conduct and document safety meetings",
+            "Implemented automation reducing labor hours by 30%",
+            "Lead workforce planning, hiring, and change management",
+            "Oversee hazardous materials compliance and preventive maintenance",
+            "Manage employee engagement and retention programs",
+            "Oversee third-party vendor contracts and dispute resolution",
+            "Direct performance appraisals and KPI tracking"
+          ],
+          "skills": [
+            "operations_management",
+            "dot_compliance",
+            "safety",
+            "process_improvement",
+            "workforce_planning",
+            "vendor_management",
+            "kpi_tracking",
+            "performance_management"
+          ],
+          "tools": [
+            "excel",
+            "workday",
+            "cognos",
+            "microsoft_office"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Gate Gourmet",
+          "role": "International Account Manager",
+          "location": null,
+          "start_date": "2021-07",
+          "end_date": "2021-12",
+          "responsibilities": [
+            "Managed team of 30 employees in unionized environment",
+            "Conducted compliance audits and safety meetings",
+            "Oversaw hazardous waste handling",
+            "Managed hiring, training, and personnel evaluations",
+            "Improved on-time service delivery by 50%",
+            "Managed purchasing and vendor relations"
+          ],
+          "skills": [
+            "team_management",
+            "compliance",
+            "safety",
+            "training",
+            "vendor_management",
+            "operations"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Multi Radiance Medical",
+          "role": "Territory Manager",
+          "location": null,
+          "start_date": "2017-05",
+          "end_date": "2021-07",
+          "responsibilities": [
+            "Grew revenue by 200% through strategic account management",
+            "Trained customers on product compliance and safe use",
+            "Identified decision makers and negotiated contracts"
+          ],
+          "skills": [
+            "sales",
+            "account_management",
+            "negotiation",
+            "customer_training"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "SBA Global Logistics",
+          "role": "Terminal Manager",
+          "location": null,
+          "start_date": "2013-10",
+          "end_date": "2017-05",
+          "responsibilities": [
+            "Managed third-party logistics contracts",
+            "Ensured DOT regulatory compliance",
+            "Increased revenue through operational efficiencies",
+            "Conducted compliance audits and payroll management",
+            "Oversaw employee training and workforce safety"
+          ],
+          "skills": [
+            "logistics",
+            "operations_management",
+            "compliance",
+            "payroll",
+            "training",
+            "safety"
+          ],
+          "tools": [],
+          "leadership": true
+        }
+      ],
+      "skills": [
+        "logistics",
+        "operations_management",
+        "dot_compliance",
+        "hazardous_waste_handling",
+        "safety",
+        "process_improvement",
+        "vendor_management",
+        "workforce_planning",
+        "performance_management",
+        "data_analysis",
+        "forecasting",
+        "kpi_tracking",
+        "budgeting",
+        "hris",
+        "account_management",
+        "negotiation",
+        "sales",
+        "training",
+        "payroll"
+      ],
+      "tools": [
+        "excel",
+        "workday",
+        "workforce360",
+        "cognos",
+        "microsoft_office"
+      ],
+      "certifications": [
+        "SHRM-Certified Professional"
+      ],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Clifton Johnson",
+      "years_experience": 11.5,
+      "roles_count": 4,
+      "leadership_roles": 4,
+      "education_level": "masters",
+      "industries": [
+        "logistics",
+        "transportation",
+        "medical"
+      ],
+      "role_types": [
+        "operations",
+        "management",
+        "sales",
+        "human_resources"
+      ],
+      "skills_vector": [
+        "account_management",
+        "budgeting",
+        "compliance",
+        "data_analysis",
+        "dot_compliance",
+        "forecasting",
+        "hazardous_waste_handling",
+        "hris",
+        "kpi_tracking",
+        "logistics",
+        "negotiation",
+        "operations_management",
+        "payroll",
+        "performance_management",
+        "process_improvement",
+        "safety",
+        "sales",
+        "training",
+        "vendor_management",
+        "workforce_planning"
+      ],
+      "tools_vector": [
+        "cognos",
+        "excel",
+        "microsoft_office",
+        "workday",
+        "workforce360"
+      ],
+      "certifications": [
+        "SHRM-Certified Professional"
+      ],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Clifton Johnson",
+      "filename": "Clifton Johnson Resume 2025",
+      "overall_score": 62.5,
+      "dimensions": {
+        "leadership_potential": 6.6,
+        "initiative_drive": 6.5,
+        "reliability": 6.8,
+        "communication": 2.9,
+        "problem_solving": 6.2,
+        "operations_exposure": 6.9,
+        "customer_service": 3.1,
+        "education_fit": 9.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "4 leadership roles out of 4 total",
+          "Key signals: managed, oversaw",
+          "Leadership roles: Supervisor; International Account Manager; Territory Manager"
+        ],
+        "initiative_drive": [
+          "5 total activities (roles + volunteer + certs)",
+          "Certifications: SHRM-Certified Professional",
+          "Initiative signals: improved, increased, grew, train, training"
+        ],
+        "reliability": [
+          "4 roles across 11.5 years of experience",
+          "Reliability signals: ensured, compliance",
+          "Strong track record — 4+ roles show consistency"
+        ],
+        "communication": [
+          "Communication signals: negotiated, training"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: operations_management, process_improvement, data_analysis, kpi_tracking",
+          "Problem-solving signals: solution, improved"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations, management",
+          "Other role types: human_resources, sales",
+          "Operations signals: operations, logistics, maintenance, safety, compliance"
+        ],
+        "customer_service": [
+          "Customer-facing role types: sales",
+          "Service signals: sales"
+        ],
+        "education_fit": [
+          "masters in Human Resources from Wayne State University",
+          "bachelors in Film from Full Sail University",
+          "Highest level: Masters"
+        ]
+      },
+      "strengths": [
+        "Education Fit (9.0/10)"
+      ],
+      "gaps": [
+        "Customer / Service (3.1/10)",
+        "Communication (2.9/10)"
+      ],
+      "most_similar_benchmark": "DANE DELAND",
+      "similarity_pct": 49.2,
+      "benchmark_bonus": 1.1,
+      "trait_alignment_bonus": 1.2,
+      "career_stage": "Experienced",
+      "career_stage_bonus": 0.0,
+      "career_stage_reasoning": [
+        "Experienced profile: 11.5 years, 4 roles (7+ yrs = different level)",
+        "No career-stage bonus — validate role fit in conversation"
+      ],
+      "rank": 5
+    },
+    "raw_sentiment_scoring": {
+      "candidate_name": "Clifton Johnson",
+      "sentiment_score": 77.2,
+      "dimensions": {
+        "leader_conviction": 6.0,
+        "impression_strength": 9.6,
+        "effort_initiative": 6.6,
+        "role_alignment": 10.0,
+        "concern_severity": 7.0
+      },
+      "reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — flagged for further review (weight: 1.5x)"
+        ],
+        "impression_strength": [
+          "Positive signals (12): charisma, strong, great, genuine, stood out, love this",
+          "Negative signals (2): quiet, concern"
+        ],
+        "effort_initiative": [
+          "Effort signals: asked great questions, early"
+        ],
+        "role_alignment": [
+          "Recommended for MIT — exact match with target role"
+        ],
+        "concern_severity": [
+          "Soft concerns (2): quiet, may need",
+          "Flagged as quiet — soft concern, validate in follow-up"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 60% / sentiment 40%"
+        ]
+      },
+      "recommended_role": "MIT",
+      "status": "continue",
+      "reviewer_count": 1,
+      "recommend_count": 0,
+      "review_count": 1,
+      "pass_count": 0,
+      "source_confidence": 1.0
+    },
+    "raw_combined_scoring": {
+      "candidate_name": "Clifton Johnson",
+      "resume_score": 62.5,
+      "sentiment_score": 77.2,
+      "blended_score": 68.4,
+      "resume_rank": 5,
+      "sentiment_rank": 3,
+      "combined_rank": 5,
+      "recommended_role": "MIT",
+      "status": "continue",
+      "mismatch_flag": "",
+      "mismatch_details": [],
+      "resume_strengths": [
+        "Education Fit (9.0/10)"
+      ],
+      "resume_gaps": [
+        "Customer / Service (3.1/10)",
+        "Communication (2.9/10)"
+      ],
+      "sentiment_reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — flagged for further review (weight: 1.5x)"
+        ],
+        "impression_strength": [
+          "Positive signals (12): charisma, strong, great, genuine, stood out, love this",
+          "Negative signals (2): quiet, concern"
+        ],
+        "effort_initiative": [
+          "Effort signals: asked great questions, early"
+        ],
+        "role_alignment": [
+          "Recommended for MIT — exact match with target role"
+        ],
+        "concern_severity": [
+          "Soft concerns (2): quiet, may need",
+          "Flagged as quiet — soft concern, validate in follow-up"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 60% / sentiment 40%"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_name": "Davon Shawn Meikle",
+    "contact": {
+      "email": "Davonsmeikle@gmail.com",
+      "phone": "(313)-484-7036",
+      "location": "Detroit, Michigan"
+    },
+    "education_level": "high_school",
+    "years_experience": 4.2,
+    "roles_count": 2,
+    "leadership_roles": 0,
+    "skills_vector": [
+      "active_listening",
+      "attention_to_detail",
+      "communication",
+      "conflict_management",
+      "conflict_resolution",
+      "critical_thinking",
+      "customer_satisfaction",
+      "documentation",
+      "empathy",
+      "flexibility",
+      "interpersonal_skills",
+      "linux",
+      "multitasking",
+      "quality_assurance",
+      "teamwork",
+      "troubleshooting"
+    ],
+    "tools_vector": [
+      "google_workspace",
+      "microsoft_office",
+      "wireshark",
+      "windows"
+    ],
+    "resume_score": 45.1,
+    "resume_rank": 10,
+    "career_stage": "Senior MIT",
+    "career_stage_bonus": 1.0,
+    "benchmark_bonus": 0.6,
+    "trait_bonus": 0.9,
+    "combined_score": 45.1,
+    "combined_rank": 10,
+    "sentiment_score": null,
+    "sentiment_dimensions": {},
+    "sentiment_confidence": null,
+    "recommended_role": null,
+    "status": null,
+    "mismatch_flag": "NO_SENTIMENT",
+    "raw_structured_resume": {
+      "name": "Davon Shawn Meikle",
+      "email": "Davonsmeikle@gmail.com",
+      "phone": "(313)-484-7036",
+      "location": "Detroit, Michigan",
+      "summary": "Reliable and motivated entry-level Help Desk and IT Support professional with hands-on technical certifications and strong background in customer service, troubleshooting, and documentation. Experienced in working directly with clients, resolving issues calmly under pressure, and following structured processes. Actively pursuing a career in IT with a long-term focus on cybersecurity.",
+      "education": [
+        {
+          "school": "University Of Highschool",
+          "degree": "high_school_diploma",
+          "field": "college_preparatory",
+          "graduation_year": null,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Pure Honda",
+          "role": "Porter",
+          "location": "Detroit, MI",
+          "start_date": "2023-01",
+          "end_date": "present",
+          "responsibilities": [
+            "Inspected, logged, and transported vehicles using internal systems",
+            "Verified accurate data entry and documentation",
+            "Communicated with sales, service, and management teams daily",
+            "Followed strict procedures to ensure safety, accuracy, and efficiency",
+            "Built strong attention to detail, time management, and accountability"
+          ],
+          "skills": [
+            "documentation",
+            "communication",
+            "time_management",
+            "attention_to_detail",
+            "process_adherence"
+          ],
+          "tools": [],
+          "leadership": false
+        },
+        {
+          "company": "Chrysalis",
+          "role": "In-Home Caregiver",
+          "location": "Las Vegas, NV",
+          "start_date": "2022-01",
+          "end_date": "2023-01",
+          "responsibilities": [
+            "Provided direct care and daily support to clients in residential settings",
+            "Maintained detailed digital and written documentation",
+            "Responded to real-time client needs with calm problem-solving",
+            "Followed healthcare protocols and privacy standards",
+            "Built strong communication, patience, and troubleshooting skills"
+          ],
+          "skills": [
+            "customer_support",
+            "documentation",
+            "problem_solving",
+            "communication",
+            "troubleshooting"
+          ],
+          "tools": [],
+          "leadership": false
+        }
+      ],
+      "skills": [
+        "active_listening",
+        "attention_to_detail",
+        "communication",
+        "conflict_management",
+        "conflict_resolution",
+        "critical_thinking",
+        "customer_satisfaction",
+        "documentation",
+        "empathy",
+        "flexibility",
+        "interpersonal_skills",
+        "linux",
+        "multitasking",
+        "quality_assurance",
+        "teamwork",
+        "troubleshooting"
+      ],
+      "tools": [
+        "google_workspace",
+        "microsoft_office",
+        "wireshark",
+        "windows"
+      ],
+      "certifications": [
+        "Certified Ethical Hacker (CEH)",
+        "Linux Fundamentals",
+        "Wireshark Network Analysis"
+      ],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Davon Shawn Meikle",
+      "years_experience": 4.2,
+      "roles_count": 2,
+      "leadership_roles": 0,
+      "education_level": "high_school",
+      "industries": [
+        "automotive",
+        "healthcare"
+      ],
+      "role_types": [
+        "customer_service",
+        "operations"
+      ],
+      "skills_vector": [
+        "active_listening",
+        "attention_to_detail",
+        "communication",
+        "conflict_management",
+        "conflict_resolution",
+        "critical_thinking",
+        "customer_satisfaction",
+        "documentation",
+        "empathy",
+        "flexibility",
+        "interpersonal_skills",
+        "linux",
+        "multitasking",
+        "quality_assurance",
+        "teamwork",
+        "troubleshooting"
+      ],
+      "tools_vector": [
+        "google_workspace",
+        "microsoft_office",
+        "wireshark",
+        "windows"
+      ],
+      "certifications": [
+        "Certified Ethical Hacker (CEH)",
+        "Linux Fundamentals",
+        "Wireshark Network Analysis"
+      ],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Davon Shawn Meikle",
+      "filename": "Resume 2026 (1)",
+      "overall_score": 45.1,
+      "dimensions": {
+        "leadership_potential": 2.4,
+        "initiative_drive": 4.1,
+        "reliability": 5.6,
+        "communication": 4.7,
+        "problem_solving": 6.4,
+        "operations_exposure": 3.9,
+        "customer_service": 5.2,
+        "education_fit": 3.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "No formal leadership roles found",
+          "Key signals: led"
+        ],
+        "initiative_drive": [
+          "5 total activities (roles + volunteer + certs)",
+          "Certifications: Certified Ethical Hacker (CEH), Linux Fundamentals, Wireshark Network Analysis",
+          "Initiative signals: built"
+        ],
+        "reliability": [
+          "2 roles across 4.2 years of experience",
+          "Reliability signals: reliable, maintained, accuracy"
+        ],
+        "communication": [
+          "Communication skills listed: communication",
+          "Communication signals: communicated, interpersonal, written"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: critical_thinking, conflict_resolution",
+          "Problem-solving signals: problem-solving, troubleshoot, solution, efficiency"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations",
+          "Other role types: customer_service",
+          "Operations signals: quality, safety, process"
+        ],
+        "customer_service": [
+          "Customer-facing role types: customer_service",
+          "Service signals: customer service, client, sales"
+        ],
+        "education_fit": [
+          "high_school_diploma in college_preparatory from University Of Highschool",
+          "Highest level: High School"
+        ]
+      },
+      "strengths": [
+        "Problem-Solving (6.4/10)"
+      ],
+      "gaps": [
+        "Operations Exposure (3.9/10)",
+        "Education Fit (3.0/10)",
+        "Leadership Potential (2.4/10)"
+      ],
+      "most_similar_benchmark": "Joshua M. Pagan PMP PMI-ACP",
+      "similarity_pct": 31.0,
+      "benchmark_bonus": 0.6,
+      "trait_alignment_bonus": 0.9,
+      "career_stage": "Senior MIT",
+      "career_stage_bonus": 1.0,
+      "career_stage_reasoning": [
+        "Senior MIT profile: 4.2 years, 2 roles (4–6 yrs = Senior MIT)",
+        "Experienced but training-level fit — +1.0 pts"
+      ],
+      "rank": 10
+    },
+    "raw_sentiment_scoring": {},
+    "raw_combined_scoring": {
+      "candidate_name": "Davon Shawn Meikle",
+      "resume_score": 45.1,
+      "sentiment_score": 0.0,
+      "blended_score": 45.1,
+      "resume_rank": 10,
+      "sentiment_rank": 0,
+      "combined_rank": 10,
+      "recommended_role": "",
+      "status": "",
+      "mismatch_flag": "NO_SENTIMENT",
+      "mismatch_details": [
+        "Resume scored but no leader feedback collected for this candidate"
+      ],
+      "resume_strengths": [
+        "Problem-Solving (6.4/10)"
+      ],
+      "resume_gaps": [
+        "Operations Exposure (3.9/10)",
+        "Education Fit (3.0/10)",
+        "Leadership Potential (2.4/10)"
+      ],
+      "sentiment_reasoning": {}
+    }
+  },
+  {
+    "candidate_name": "Gerson Jonathan Santos",
+    "contact": {
+      "email": "johnsantos.1018@gmail.com",
+      "phone": "(734) 767-4827",
+      "location": "Michigan"
+    },
+    "education_level": "high_school",
+    "years_experience": 14.5,
+    "roles_count": 3,
+    "leadership_roles": 3,
+    "skills_vector": [
+      "bilingual",
+      "compliance",
+      "contract_compliance",
+      "kpi_management",
+      "leadership_development",
+      "logistics",
+      "multi_site_management",
+      "operations",
+      "operations_management",
+      "osha_compliance",
+      "performance_management",
+      "process_improvement",
+      "safety_compliance",
+      "scheduling",
+      "stakeholder_collaboration",
+      "training",
+      "workforce_planning"
+    ],
+    "tools_vector": [],
+    "resume_score": 57.4,
+    "resume_rank": 7,
+    "career_stage": "Experienced",
+    "career_stage_bonus": 0.0,
+    "benchmark_bonus": 0.9,
+    "trait_bonus": 1.2,
+    "combined_score": 72.0,
+    "combined_rank": 2,
+    "sentiment_score": 94.0,
+    "sentiment_dimensions": {
+      "leader_conviction": 10.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 10.0,
+      "role_alignment": 6.0,
+      "concern_severity": 10.0
+    },
+    "sentiment_confidence": 1.0,
+    "recommended_role": "site_manager",
+    "status": "continue",
+    "mismatch_flag": "MAJOR_MISMATCH",
+    "raw_structured_resume": {
+      "name": "Gerson Jonathan Santos",
+      "email": "johnsantos.1018@gmail.com",
+      "phone": "(734) 767-4827",
+      "location": "Michigan",
+      "summary": "Senior operations leader with 14+ years managing large-scale, multi-shift logistics and facility operations. Extensive experience leading 100+ employee teams, workforce planning, compliance, and performance management in Amazon fulfillment environments.",
+      "education": [],
+      "experience": [
+        {
+          "company": "ServiceMaster by Elite",
+          "role": "Site Operations Manager",
+          "location": "Ohio",
+          "start_date": "2024-12",
+          "end_date": "present",
+          "responsibilities": [
+            "Lead site-wide facility operations for Amazon fulfillment centers",
+            "Direct multi-floor operational planning and staffing strategy",
+            "Manage labor allocation, scheduling, and productivity",
+            "Supervise supervisors and frontline teams (125+ employees)",
+            "Partner with Amazon leadership and safety teams",
+            "Ensure OSHA and operational compliance",
+            "Implement efficiency-focused sanitation workflows",
+            "Lead onboarding, training, and leadership development",
+            "Monitor KPIs, labor utilization, and service quality"
+          ],
+          "skills": [
+            "operations_management",
+            "workforce_planning",
+            "logistics",
+            "scheduling",
+            "compliance",
+            "leadership_development",
+            "kpi_management"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "ServiceMaster by Crane",
+          "role": "Shift Manager",
+          "location": "Michigan",
+          "start_date": "2024-03",
+          "end_date": "2024-12",
+          "responsibilities": [
+            "Managed custodial shift operations",
+            "Supervised team leaders and frontline employees",
+            "Directed staffing coordination and daily planning",
+            "Collaborated with facility leadership on workflow improvements",
+            "Provided coaching, training, and performance management"
+          ],
+          "skills": [
+            "operations",
+            "team_management",
+            "training",
+            "performance_management",
+            "process_improvement"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Kellermeyer Bergensons Services",
+          "role": "Zone Manager",
+          "location": "Michigan",
+          "start_date": "2023-12",
+          "end_date": "2024-03",
+          "responsibilities": [
+            "Managed operations across 19 Amazon sites",
+            "Oversaw multi-site staffing and workforce performance",
+            "Conducted operational audits and quality walkthroughs",
+            "Partnered with Amazon leadership teams",
+            "Supervised frontline teams and training programs",
+            "Ensured OSHA compliance and operational standards",
+            "Handled escalations and staffing challenges",
+            "Monitored supply usage and operational resources"
+          ],
+          "skills": [
+            "operations_management",
+            "multi_site_management",
+            "logistics",
+            "compliance",
+            "auditing",
+            "training"
+          ],
+          "tools": [],
+          "leadership": true
+        }
+      ],
+      "skills": [
+        "operations_management",
+        "logistics",
+        "workforce_planning",
+        "multi_site_management",
+        "scheduling",
+        "safety_compliance",
+        "osha_compliance",
+        "performance_management",
+        "leadership_development",
+        "kpi_management",
+        "process_improvement",
+        "stakeholder_collaboration",
+        "contract_compliance",
+        "bilingual"
+      ],
+      "tools": [],
+      "certifications": [],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Gerson Jonathan Santos",
+      "years_experience": 14.5,
+      "roles_count": 3,
+      "leadership_roles": 3,
+      "education_level": "high_school",
+      "industries": [
+        "logistics",
+        "operations",
+        "facilities"
+      ],
+      "role_types": [
+        "operations",
+        "management"
+      ],
+      "skills_vector": [
+        "bilingual",
+        "compliance",
+        "contract_compliance",
+        "kpi_management",
+        "leadership_development",
+        "logistics",
+        "multi_site_management",
+        "operations",
+        "operations_management",
+        "osha_compliance",
+        "performance_management",
+        "process_improvement",
+        "safety_compliance",
+        "scheduling",
+        "stakeholder_collaboration",
+        "training",
+        "workforce_planning"
+      ],
+      "tools_vector": [],
+      "certifications": [],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Gerson Jonathan Santos",
+      "filename": "Resume - Gerson Jonathan ",
+      "overall_score": 57.4,
+      "dimensions": {
+        "leadership_potential": 8.4,
+        "initiative_drive": 5.0,
+        "reliability": 6.1,
+        "communication": 5.3,
+        "problem_solving": 4.9,
+        "operations_exposure": 6.2,
+        "customer_service": 0.0,
+        "education_fit": 3.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "3 leadership roles out of 3 total",
+          "Key signals: managed, led, directed, supervised, oversaw",
+          "Leadership roles: Site Operations Manager; Shift Manager; Zone Manager"
+        ],
+        "initiative_drive": [
+          "3 total activities (roles + volunteer + certs)",
+          "Initiative signals: develop, train, training, coach"
+        ],
+        "reliability": [
+          "3 roles across 14.5 years of experience",
+          "Reliability signals: ensured, compliance"
+        ],
+        "communication": [
+          "Communication skills listed: bilingual",
+          "Communication signals: collaborated, stakeholder, bilingual, training"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: operations_management, process_improvement, kpi_management",
+          "Problem-solving signals: efficiency"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations, management",
+          "Operations signals: operations, logistics, scheduling, quality, safety"
+        ],
+        "customer_service": [
+          "No direct customer/service experience detected"
+        ],
+        "education_fit": [
+          "Highest level: High School"
+        ]
+      },
+      "strengths": [
+        "Leadership Potential (8.4/10)"
+      ],
+      "gaps": [
+        "Education Fit (3.0/10)",
+        "Customer / Service (0.0/10)"
+      ],
+      "most_similar_benchmark": "PAUL BLACK",
+      "similarity_pct": 42.0,
+      "benchmark_bonus": 0.9,
+      "trait_alignment_bonus": 1.2,
+      "career_stage": "Experienced",
+      "career_stage_bonus": 0.0,
+      "career_stage_reasoning": [
+        "Experienced profile: 14.5 years, 3 roles (7+ yrs = different level)",
+        "No career-stage bonus — validate role fit in conversation"
+      ],
+      "rank": 7
+    },
+    "raw_sentiment_scoring": {
+      "candidate_name": "Gerson Santos",
+      "sentiment_score": 94.0,
+      "dimensions": {
+        "leader_conviction": 10.0,
+        "impression_strength": 10.0,
+        "effort_initiative": 10.0,
+        "role_alignment": 6.0,
+        "concern_severity": 10.0
+      },
+      "reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — RECOMMENDED for POD interview (weight: 1.5x)"
+        ],
+        "impression_strength": [
+          "Positive signals (9): charisma, strong, great, genuine, stood out, love this",
+          "Negative signals (1): concern"
+        ],
+        "effort_initiative": [
+          "Flag: high_effort (+2.0)",
+          "Flag: dedication (+1.5)",
+          "Effort signals: drove, thunderstorm, storm, asked great questions, showed up"
+        ],
+        "role_alignment": [
+          "Recommended for site_manager — adjacent to MIT (partial credit)"
+        ],
+        "concern_severity": [
+          "No concerns raised — clean candidate"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 60% / sentiment 40%"
+        ]
+      },
+      "recommended_role": "site_manager",
+      "status": "continue",
+      "reviewer_count": 1,
+      "recommend_count": 1,
+      "review_count": 0,
+      "pass_count": 0,
+      "source_confidence": 1.0
+    },
+    "raw_combined_scoring": {
+      "candidate_name": "Gerson Santos",
+      "resume_score": 57.4,
+      "sentiment_score": 94.0,
+      "blended_score": 72.0,
+      "resume_rank": 7,
+      "sentiment_rank": 1,
+      "combined_rank": 2,
+      "recommended_role": "site_manager",
+      "status": "continue",
+      "mismatch_flag": "MAJOR_MISMATCH",
+      "mismatch_details": [
+        "Leaders rated much higher than resume (94 vs 57) — resume may undersell this candidate"
+      ],
+      "resume_strengths": [
+        "Leadership Potential (8.4/10)"
+      ],
+      "resume_gaps": [
+        "Education Fit (3.0/10)",
+        "Customer / Service (0.0/10)"
+      ],
+      "sentiment_reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — RECOMMENDED for POD interview (weight: 1.5x)"
+        ],
+        "impression_strength": [
+          "Positive signals (9): charisma, strong, great, genuine, stood out, love this",
+          "Negative signals (1): concern"
+        ],
+        "effort_initiative": [
+          "Flag: high_effort (+2.0)",
+          "Flag: dedication (+1.5)",
+          "Effort signals: drove, thunderstorm, storm, asked great questions, showed up"
+        ],
+        "role_alignment": [
+          "Recommended for site_manager — adjacent to MIT (partial credit)"
+        ],
+        "concern_severity": [
+          "No concerns raised — clean candidate"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 60% / sentiment 40%"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_name": "Jacob Zochowski",
+    "contact": {
+      "email": "jakez6396@gmail.com",
+      "phone": "(207) 891-0111",
+      "location": "Detroit, MI"
+    },
+    "education_level": "bachelors",
+    "years_experience": 6.5,
+    "roles_count": 5,
+    "leadership_roles": 5,
+    "skills_vector": [
+      "compliance",
+      "customer_service",
+      "data_analysis",
+      "dispatch",
+      "inventory_management",
+      "leadership",
+      "logistics",
+      "operations_management",
+      "process_improvement",
+      "recruitment",
+      "routing",
+      "scheduling",
+      "team_development",
+      "training"
+    ],
+    "tools_vector": [
+      "amazon_seller_central",
+      "ebay",
+      "wms"
+    ],
+    "resume_score": 67.7,
+    "resume_rank": 3,
+    "career_stage": "Senior MIT",
+    "career_stage_bonus": 1.0,
+    "benchmark_bonus": 1.0,
+    "trait_bonus": 1.3,
+    "combined_score": 72.9,
+    "combined_rank": 1,
+    "sentiment_score": 80.7,
+    "sentiment_dimensions": {
+      "leader_conviction": 10.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 6.6,
+      "role_alignment": 7.0,
+      "concern_severity": 2.0
+    },
+    "sentiment_confidence": 1.0,
+    "recommended_role": "ops_manager",
+    "status": "continue",
+    "mismatch_flag": "",
+    "raw_structured_resume": {
+      "name": "Jacob Zochowski",
+      "email": "jakez6396@gmail.com",
+      "phone": "(207) 891-0111",
+      "location": "Detroit, MI",
+      "summary": "High impact operations leader with progressive experience managing large scale warehouse and transportation teams within a fast-paced logistics environment. Proven ability to scale operations, reduce costs, drive labor efficiency and improve service execution, while maintaining strong safety and compliance standards.",
+      "education": [
+        {
+          "school": "Eastern Michigan University",
+          "degree": "bachelors",
+          "field": "Business Administration",
+          "graduation_year": null,
+          "gpa": null
+        },
+        {
+          "school": "Henry Ford College",
+          "degree": "associates",
+          "field": "Supply Chain Management",
+          "graduation_year": null,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Energy Products, Inc.",
+          "role": "Assistant Warehouse Manager",
+          "location": "Madison Heights, MI",
+          "start_date": "2025-01",
+          "end_date": "present",
+          "responsibilities": [
+            "Led warehouse operations and cross-department coordination",
+            "Managed recruitment and training of warehouse associates",
+            "Oversaw cycle counts and variance investigations",
+            "Led e-commerce operations including Amazon and eBay management",
+            "Supervised shipping associates and order fulfillment",
+            "Managed inventory across platforms",
+            "Handled customer service and returns",
+            "Coordinated commercial pallet orders and logistics",
+            "Optimized warehouse layout and storage capacity",
+            "Analyzed sales performance and margin improvements",
+            "Managed freight scheduling and broker coordination",
+            "Maintained compliance documentation and international shipping records",
+            "Used WMS for invoicing, inventory control, and transaction processing",
+            "Optimized routing and delivery efficiency"
+          ],
+          "skills": [
+            "operations_management",
+            "inventory_management",
+            "logistics",
+            "process_improvement",
+            "customer_service",
+            "recruitment",
+            "training"
+          ],
+          "tools": [
+            "wms",
+            "amazon_seller_central",
+            "ebay"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Central Transport",
+          "role": "HUB Operations Manager",
+          "location": "Detroit, MI",
+          "start_date": "2023-06",
+          "end_date": "2025-01",
+          "responsibilities": [
+            "Managed inbound and outbound freight operations",
+            "Led high-volume hub operations",
+            "Managed and developed leadership team",
+            "Oversaw large terminal workforce",
+            "Improved network efficiency and cost control",
+            "Ensured safety and compliance standards",
+            "Led stakeholder communications",
+            "Trained management trainees"
+          ],
+          "skills": [
+            "operations_management",
+            "leadership",
+            "compliance",
+            "team_development",
+            "logistics"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Central Transport",
+          "role": "Next-Day HUB Supervisor",
+          "location": "Detroit, MI",
+          "start_date": "2022-08",
+          "end_date": "2023-06",
+          "responsibilities": [
+            "Improved terminal operations and safety compliance",
+            "Planned outbound routes",
+            "Audited freight operations",
+            "Managed inbound routing",
+            "Supervised workforce operations"
+          ],
+          "skills": [
+            "operations",
+            "compliance",
+            "routing",
+            "supervision"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Central Transport",
+          "role": "Line Haul Supervisor",
+          "location": "Warren, MI",
+          "start_date": "2020-10",
+          "end_date": "2022-08",
+          "responsibilities": [
+            "Managed dispatch operations",
+            "Maintained regulatory compliance",
+            "Analyzed operational data",
+            "Audited freight operations",
+            "Coordinated breakdown response"
+          ],
+          "skills": [
+            "dispatch",
+            "compliance",
+            "data_analysis"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Central Transport",
+          "role": "Dispatch Supervisor",
+          "location": "Warren, MI",
+          "start_date": "2019-09",
+          "end_date": "2020-10",
+          "responsibilities": [
+            "Planned and dispatched regional drivers",
+            "Oversaw regulatory compliance",
+            "Managed workforce scheduling",
+            "Adjusted routing logistics"
+          ],
+          "skills": [
+            "dispatch",
+            "logistics",
+            "scheduling"
+          ],
+          "tools": [],
+          "leadership": true
+        }
+      ],
+      "skills": [
+        "operations_management",
+        "inventory_management",
+        "logistics",
+        "process_improvement",
+        "customer_service",
+        "recruitment",
+        "training",
+        "leadership",
+        "compliance",
+        "team_development",
+        "routing",
+        "dispatch",
+        "data_analysis",
+        "scheduling"
+      ],
+      "tools": [
+        "wms",
+        "amazon_seller_central",
+        "ebay"
+      ],
+      "certifications": [],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Jacob Zochowski",
+      "years_experience": 6.5,
+      "roles_count": 5,
+      "leadership_roles": 5,
+      "education_level": "bachelors",
+      "industries": [
+        "logistics",
+        "transportation",
+        "ecommerce"
+      ],
+      "role_types": [
+        "operations",
+        "management"
+      ],
+      "skills_vector": [
+        "compliance",
+        "customer_service",
+        "data_analysis",
+        "dispatch",
+        "inventory_management",
+        "leadership",
+        "logistics",
+        "operations_management",
+        "process_improvement",
+        "recruitment",
+        "routing",
+        "scheduling",
+        "team_development",
+        "training"
+      ],
+      "tools_vector": [
+        "amazon_seller_central",
+        "ebay",
+        "wms"
+      ],
+      "certifications": [],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Jacob Zochowski",
+      "filename": "2026 Resume. Jacob Zochowski 3.26 2",
+      "overall_score": 67.7,
+      "dimensions": {
+        "leadership_potential": 8.1,
+        "initiative_drive": 6.5,
+        "reliability": 7.2,
+        "communication": 2.9,
+        "problem_solving": 7.4,
+        "operations_exposure": 6.4,
+        "customer_service": 3.3,
+        "education_fit": 8.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "5 leadership roles out of 5 total",
+          "Key signals: managed, led, supervised, oversaw, coordinated",
+          "Leadership roles: Assistant Warehouse Manager; HUB Operations Manager; Next-Day HUB Supervisor"
+        ],
+        "initiative_drive": [
+          "5 total activities (roles + volunteer + certs)",
+          "Initiative signals: developed, develop, improved, train, training"
+        ],
+        "reliability": [
+          "5 roles across 6.5 years of experience",
+          "Reliability signals: maintained, ensured, compliance",
+          "Strong track record — 4+ roles show consistency"
+        ],
+        "communication": [
+          "Communication signals: stakeholder, training"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: operations_management, process_improvement, data_analysis",
+          "Problem-solving signals: improved, optimized, efficiency, analyzed"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations, management",
+          "Operations signals: operations, logistics, supply chain, inventory, scheduling"
+        ],
+        "customer_service": [
+          "Service signals: customer service, sales"
+        ],
+        "education_fit": [
+          "bachelors in Business Administration from Eastern Michigan University",
+          "associates in Supply Chain Management from Henry Ford College",
+          "Highest level: Bachelors"
+        ]
+      },
+      "strengths": [
+        "Leadership Potential (8.1/10)",
+        "Education Fit (8.0/10)",
+        "Problem-Solving (7.4/10)",
+        "Reliability / Track Record (7.2/10)"
+      ],
+      "gaps": [
+        "Customer / Service (3.3/10)",
+        "Communication (2.9/10)"
+      ],
+      "most_similar_benchmark": "PAUL BLACK",
+      "similarity_pct": 41.7,
+      "benchmark_bonus": 1.0,
+      "trait_alignment_bonus": 1.3,
+      "career_stage": "Senior MIT",
+      "career_stage_bonus": 1.0,
+      "career_stage_reasoning": [
+        "Senior MIT profile: 6.5 years, 5 roles (4–6 yrs = Senior MIT)",
+        "Experienced but training-level fit — +1.0 pts"
+      ],
+      "rank": 3
+    },
+    "raw_sentiment_scoring": {
+      "candidate_name": "Jacob Zochowski",
+      "sentiment_score": 80.7,
+      "dimensions": {
+        "leader_conviction": 10.0,
+        "impression_strength": 10.0,
+        "effort_initiative": 6.6,
+        "role_alignment": 7.0,
+        "concern_severity": 2.0
+      },
+      "reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — RECOMMENDED for POD interview (weight: 1.5x)"
+        ],
+        "impression_strength": [
+          "Positive signals (9): charisma, strong, great, genuine, stood out, love this",
+          "Negative signals (1): concern"
+        ],
+        "effort_initiative": [
+          "Effort signals: asked great questions, early"
+        ],
+        "role_alignment": [
+          "Recommended for ops_manager — adjacent to MIT (partial credit)"
+        ],
+        "concern_severity": [
+          "Hard concerns (2): relocate, not open to",
+          "Relocation constraint flagged — significant operational limitation"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 60% / sentiment 40%"
+        ]
+      },
+      "recommended_role": "ops_manager",
+      "status": "continue",
+      "reviewer_count": 1,
+      "recommend_count": 1,
+      "review_count": 0,
+      "pass_count": 0,
+      "source_confidence": 1.0
+    },
+    "raw_combined_scoring": {
+      "candidate_name": "Jacob Zochowski",
+      "resume_score": 67.7,
+      "sentiment_score": 80.7,
+      "blended_score": 72.9,
+      "resume_rank": 3,
+      "sentiment_rank": 2,
+      "combined_rank": 1,
+      "recommended_role": "ops_manager",
+      "status": "continue",
+      "mismatch_flag": "",
+      "mismatch_details": [],
+      "resume_strengths": [
+        "Leadership Potential (8.1/10)",
+        "Education Fit (8.0/10)",
+        "Problem-Solving (7.4/10)",
+        "Reliability / Track Record (7.2/10)"
+      ],
+      "resume_gaps": [
+        "Customer / Service (3.3/10)",
+        "Communication (2.9/10)"
+      ],
+      "sentiment_reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — RECOMMENDED for POD interview (weight: 1.5x)"
+        ],
+        "impression_strength": [
+          "Positive signals (9): charisma, strong, great, genuine, stood out, love this",
+          "Negative signals (1): concern"
+        ],
+        "effort_initiative": [
+          "Effort signals: asked great questions, early"
+        ],
+        "role_alignment": [
+          "Recommended for ops_manager — adjacent to MIT (partial credit)"
+        ],
+        "concern_severity": [
+          "Hard concerns (2): relocate, not open to",
+          "Relocation constraint flagged — significant operational limitation"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 60% / sentiment 40%"
+        ]
+      }
+    }
+  },
+  {
+    "candidate_name": "Latasha Marie Tillman",
+    "contact": {
+      "email": "latashamotion21@yahoo.com",
+      "phone": "313-318-6834",
+      "location": "Walled Lake, MI"
+    },
+    "education_level": "masters",
+    "years_experience": 16.4,
+    "roles_count": 6,
+    "leadership_roles": 6,
+    "skills_vector": [
+      "carrier_management",
+      "compliance",
+      "continuous_improvement",
+      "cross_functional_leadership",
+      "data_analysis",
+      "edi",
+      "forecasting",
+      "inventory_management",
+      "kpi_management",
+      "lean_process_improvement",
+      "logistics",
+      "logistics_management",
+      "operations",
+      "process_improvement",
+      "project_management",
+      "sap",
+      "stakeholder_management",
+      "supply_chain",
+      "system_integration",
+      "training",
+      "vendor_management"
+    ],
+    "tools_vector": [
+      "access",
+      "edi",
+      "excel",
+      "microsoft_office",
+      "sap",
+      "tableau"
+    ],
+    "resume_score": 69.5,
+    "resume_rank": 1,
+    "career_stage": "Experienced",
+    "career_stage_bonus": 0.0,
+    "benchmark_bonus": 1.0,
+    "trait_bonus": 1.4,
+    "combined_score": 69.5,
+    "combined_rank": 4,
+    "sentiment_score": null,
+    "sentiment_dimensions": {},
+    "sentiment_confidence": null,
+    "recommended_role": null,
+    "status": null,
+    "mismatch_flag": "NO_SENTIMENT",
+    "raw_structured_resume": {
+      "name": "Latasha Marie Tillman",
+      "email": "latashamotion21@yahoo.com",
+      "phone": "313-318-6834",
+      "location": "Walled Lake, MI",
+      "summary": "Senior logistics and supply chain leader with 16+ years of experience driving cross-functional operations, inventory optimization, system integration, and large-scale logistics programs across automotive and manufacturing sectors.",
+      "education": [
+        {
+          "school": "University of Phoenix",
+          "degree": "masters",
+          "field": "Adult Education & Training",
+          "graduation_year": 2011,
+          "gpa": null
+        },
+        {
+          "school": "University of Phoenix",
+          "degree": "bachelors",
+          "field": "Business Marketing",
+          "graduation_year": 2008,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Infineon Technologies",
+          "role": "Customer Logistics Manager",
+          "location": null,
+          "start_date": "2021-09",
+          "end_date": "2025-10",
+          "responsibilities": [
+            "Led end-to-end logistics programs for automotive semiconductor clients",
+            "Managed forecasting, order fulfillment, and VMI inventory",
+            "Led cross-functional SAP and EDI data alignment initiatives",
+            "Directed inventory optimization and obsolescence reduction projects",
+            "Developed logistics KPIs and executive reporting",
+            "Served as primary stakeholder liaison"
+          ],
+          "skills": [
+            "logistics_management",
+            "inventory_management",
+            "forecasting",
+            "kpi_management",
+            "stakeholder_management",
+            "system_integration"
+          ],
+          "tools": [
+            "sap",
+            "edi",
+            "tableau"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Brasscraft Manufacturing",
+          "role": "Logistics Analyst",
+          "location": null,
+          "start_date": "2019-03",
+          "end_date": "2021-09",
+          "responsibilities": [
+            "Led transportation and network optimization initiatives",
+            "Built KPI dashboards for supply chain analytics",
+            "Coordinated cross-functional logistics summits",
+            "Managed 3PL performance reviews and corrective actions",
+            "Supported distribution center operations"
+          ],
+          "skills": [
+            "logistics",
+            "data_analysis",
+            "kpi_reporting",
+            "supply_chain",
+            "process_improvement"
+          ],
+          "tools": [
+            "tableau",
+            "excel"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "XPO Logistics",
+          "role": "Operations Manager / Last Mile Account Manager",
+          "location": null,
+          "start_date": "2018-09",
+          "end_date": "2019-01",
+          "responsibilities": [
+            "Oversaw daily last-mile delivery operations",
+            "Ensured contract compliance and KPI performance",
+            "Led performance reporting and issue resolution",
+            "Partnered with warehouse and routing teams for optimization"
+          ],
+          "skills": [
+            "operations_management",
+            "contract_compliance",
+            "kpi_management",
+            "logistics"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Ryder Logistics",
+          "role": "Sr. Project Analyst / Kaizen Coordinator",
+          "location": null,
+          "start_date": "2016-04",
+          "end_date": "2018-02",
+          "responsibilities": [
+            "Led internal process improvement initiatives",
+            "Facilitated full project lifecycle delivery",
+            "Coordinated cross-functional teams",
+            "Developed ROI metrics and executive reporting",
+            "Led Kaizen continuous improvement events"
+          ],
+          "skills": [
+            "project_management",
+            "process_improvement",
+            "continuous_improvement",
+            "cross_functional_leadership",
+            "reporting"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Ryder Logistics",
+          "role": "Carrier Management",
+          "location": null,
+          "start_date": "2014-12",
+          "end_date": "2016-04",
+          "responsibilities": [
+            "Managed carrier performance for OEM clients",
+            "Led compliance and KPI performance initiatives",
+            "Supported EDI troubleshooting and GPS integrations"
+          ],
+          "skills": [
+            "carrier_management",
+            "compliance",
+            "kpi_tracking",
+            "system_support"
+          ],
+          "tools": [
+            "edi"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Ryder Logistics",
+          "role": "Logistics Operations",
+          "location": null,
+          "start_date": "2009-05",
+          "end_date": "2014-12",
+          "responsibilities": [
+            "Supported large-scale logistics operations",
+            "Led high-volume shipping operations",
+            "Trained staff and launched new business initiatives",
+            "Standardized workflows and implemented Lean improvements"
+          ],
+          "skills": [
+            "logistics",
+            "operations",
+            "training",
+            "lean_process_improvement"
+          ],
+          "tools": [],
+          "leadership": true
+        }
+      ],
+      "skills": [
+        "logistics_management",
+        "supply_chain",
+        "inventory_management",
+        "forecasting",
+        "vendor_management",
+        "system_integration",
+        "sap",
+        "edi",
+        "process_improvement",
+        "project_management",
+        "continuous_improvement",
+        "stakeholder_management",
+        "kpi_management",
+        "data_analysis",
+        "carrier_management",
+        "lean_process_improvement"
+      ],
+      "tools": [
+        "sap",
+        "edi",
+        "excel",
+        "tableau",
+        "access",
+        "microsoft_office"
+      ],
+      "certifications": [],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Latasha Marie Tillman",
+      "years_experience": 16.4,
+      "roles_count": 6,
+      "leadership_roles": 6,
+      "education_level": "masters",
+      "industries": [
+        "automotive",
+        "manufacturing",
+        "logistics",
+        "retail"
+      ],
+      "role_types": [
+        "operations",
+        "management"
+      ],
+      "skills_vector": [
+        "carrier_management",
+        "compliance",
+        "continuous_improvement",
+        "cross_functional_leadership",
+        "data_analysis",
+        "edi",
+        "forecasting",
+        "inventory_management",
+        "kpi_management",
+        "lean_process_improvement",
+        "logistics",
+        "logistics_management",
+        "operations",
+        "process_improvement",
+        "project_management",
+        "sap",
+        "stakeholder_management",
+        "supply_chain",
+        "system_integration",
+        "training",
+        "vendor_management"
+      ],
+      "tools_vector": [
+        "access",
+        "edi",
+        "excel",
+        "microsoft_office",
+        "sap",
+        "tableau"
+      ],
+      "certifications": [],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Latasha Marie Tillman",
+      "filename": "Resume - Latasha Tillman (1)",
+      "overall_score": 69.5,
+      "dimensions": {
+        "leadership_potential": 8.1,
+        "initiative_drive": 7.5,
+        "reliability": 6.8,
+        "communication": 4.8,
+        "problem_solving": 7.6,
+        "operations_exposure": 6.2,
+        "customer_service": 2.1,
+        "education_fit": 9.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "6 leadership roles out of 6 total",
+          "Key signals: managed, led, directed, oversaw, coordinated",
+          "Leadership roles: Customer Logistics Manager; Logistics Analyst; Operations Manager / Last Mile Account Manager"
+        ],
+        "initiative_drive": [
+          "6 total activities (roles + volunteer + certs)",
+          "Initiative signals: launched, built, developed, develop, train"
+        ],
+        "reliability": [
+          "6 roles across 16.4 years of experience",
+          "Reliability signals: ensured, compliance",
+          "Strong track record — 4+ roles show consistency"
+        ],
+        "communication": [
+          "Communication signals: stakeholder, facilitated, liaison, cross-functional, training"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: data_analysis, process_improvement, kpi_management, continuous_improvement",
+          "Problem-solving signals: troubleshoot, solution, process improvement, continuous improvement"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations, management",
+          "Operations signals: operations, logistics, supply chain, inventory, warehouse"
+        ],
+        "customer_service": [
+          "Service signals: client"
+        ],
+        "education_fit": [
+          "masters in Adult Education & Training from University of Phoenix",
+          "bachelors in Business Marketing from University of Phoenix",
+          "Highest level: Masters"
+        ]
+      },
+      "strengths": [
+        "Education Fit (9.0/10)",
+        "Leadership Potential (8.1/10)",
+        "Problem-Solving (7.6/10)",
+        "Initiative / Drive (7.5/10)"
+      ],
+      "gaps": [
+        "Customer / Service (2.1/10)"
+      ],
+      "most_similar_benchmark": "PAUL BLACK",
+      "similarity_pct": 40.8,
+      "benchmark_bonus": 1.0,
+      "trait_alignment_bonus": 1.4,
+      "career_stage": "Experienced",
+      "career_stage_bonus": 0.0,
+      "career_stage_reasoning": [
+        "Experienced profile: 16.4 years, 6 roles (7+ yrs = different level)",
+        "No career-stage bonus — validate role fit in conversation"
+      ],
+      "rank": 1
+    },
+    "raw_sentiment_scoring": {},
+    "raw_combined_scoring": {
+      "candidate_name": "Latasha Marie Tillman",
+      "resume_score": 69.5,
+      "sentiment_score": 0.0,
+      "blended_score": 69.5,
+      "resume_rank": 1,
+      "sentiment_rank": 0,
+      "combined_rank": 4,
+      "recommended_role": "",
+      "status": "",
+      "mismatch_flag": "NO_SENTIMENT",
+      "mismatch_details": [
+        "Resume scored but no leader feedback collected for this candidate"
+      ],
+      "resume_strengths": [
+        "Education Fit (9.0/10)",
+        "Leadership Potential (8.1/10)",
+        "Problem-Solving (7.6/10)",
+        "Initiative / Drive (7.5/10)"
+      ],
+      "resume_gaps": [
+        "Customer / Service (2.1/10)"
+      ],
+      "sentiment_reasoning": {}
+    }
+  },
+  {
+    "candidate_name": "Lisa Nalepa",
+    "contact": {
+      "email": "lisamnalepa@gmail.com",
+      "phone": "586-219-3547",
+      "location": "Mount Clemens, MI"
+    },
+    "education_level": "associates",
+    "years_experience": 15.5,
+    "roles_count": 4,
+    "leadership_roles": 4,
+    "skills_vector": [
+      "budgeting",
+      "client_management",
+      "customer_service",
+      "financial_reconciliation",
+      "inventory_management",
+      "kpi_management",
+      "operations",
+      "operations_management",
+      "payroll",
+      "performance_management",
+      "process_improvement",
+      "retail_management",
+      "safety_compliance",
+      "sales",
+      "vendor_management",
+      "workforce_planning"
+    ],
+    "tools_vector": [
+      "excel",
+      "jira",
+      "microsoft_office",
+      "power_bi",
+      "quickbooks",
+      "salesforce"
+    ],
+    "resume_score": 65.5,
+    "resume_rank": 4,
+    "career_stage": "Experienced",
+    "career_stage_bonus": 0.0,
+    "benchmark_bonus": 1.0,
+    "trait_bonus": 1.2,
+    "combined_score": 65.5,
+    "combined_rank": 6,
+    "sentiment_score": null,
+    "sentiment_dimensions": {},
+    "sentiment_confidence": null,
+    "recommended_role": null,
+    "status": null,
+    "mismatch_flag": "NO_SENTIMENT",
+    "raw_structured_resume": {
+      "name": "Lisa Nalepa",
+      "email": "lisamnalepa@gmail.com",
+      "phone": "586-219-3547",
+      "location": "Mount Clemens, MI",
+      "summary": "Operations and site leadership professional with 15+ years managing high-volume teams, workforce scheduling, regulatory compliance, financial oversight, and operational performance improvement.",
+      "education": [
+        {
+          "school": "Macomb Community College",
+          "degree": "associates",
+          "field": "Business Coursework",
+          "graduation_year": null,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Refresh + Reset, LLC",
+          "role": "Owner / Operations Manager",
+          "location": null,
+          "start_date": "2024-08",
+          "end_date": "present",
+          "responsibilities": [
+            "Direct end-to-end service operations",
+            "Manage scheduling, budgeting, and vendor coordination",
+            "Develop onboarding, workflow, and reporting systems",
+            "Manage labor forecasting, procurement, billing, and expenses",
+            "Coordinate subcontractors and maintain service standards",
+            "Maintain high client retention through service quality"
+          ],
+          "skills": [
+            "operations_management",
+            "budgeting",
+            "vendor_management",
+            "workforce_planning",
+            "process_improvement",
+            "client_management"
+          ],
+          "tools": [
+            "excel",
+            "quickbooks"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Costco Wholesale",
+          "role": "Operations Supervisor",
+          "location": null,
+          "start_date": "2018-07",
+          "end_date": "2024-08",
+          "responsibilities": [
+            "Supervised 20–30 employees in high-volume department",
+            "Developed workforce schedules and labor allocation",
+            "Directed daily operations and SOP compliance",
+            "Oversaw payroll processing and departmental scheduling",
+            "Conducted safety audits and maintained OSHA compliance",
+            "Managed financial reconciliation and reporting accuracy",
+            "Resolved operational and customer concerns",
+            "Supported marketing and business expansion initiatives"
+          ],
+          "skills": [
+            "operations",
+            "supervision",
+            "payroll",
+            "safety_compliance",
+            "financial_reconciliation",
+            "customer_service"
+          ],
+          "tools": [
+            "excel",
+            "power_bi"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "Vanity",
+          "role": "Store Manager",
+          "location": null,
+          "start_date": "2007-01",
+          "end_date": "2010-01",
+          "responsibilities": [
+            "Directed daily store operations",
+            "Managed scheduling, payroll, and inventory",
+            "Maintained budget adherence and labor targets",
+            "Led recruitment, onboarding, and staff training",
+            "Drove revenue growth through coaching and performance management"
+          ],
+          "skills": [
+            "retail_management",
+            "operations",
+            "training",
+            "inventory_management",
+            "budgeting"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Journeys Shoes",
+          "role": "Store Manager",
+          "location": null,
+          "start_date": "2003-01",
+          "end_date": "2005-01",
+          "responsibilities": [
+            "Recruited, hired, and trained full team",
+            "Increased sales by 42%",
+            "Maintained operational and inventory controls",
+            "Managed KPIs and merchandising execution",
+            "Directed daily store operations"
+          ],
+          "skills": [
+            "retail_management",
+            "sales",
+            "inventory_management",
+            "kpi_management",
+            "operations"
+          ],
+          "tools": [],
+          "leadership": true
+        }
+      ],
+      "skills": [
+        "operations_management",
+        "workforce_planning",
+        "budgeting",
+        "payroll",
+        "safety_compliance",
+        "process_improvement",
+        "vendor_management",
+        "performance_management",
+        "inventory_management",
+        "financial_reconciliation",
+        "retail_management",
+        "sales",
+        "kpi_management",
+        "client_management",
+        "customer_service"
+      ],
+      "tools": [
+        "excel",
+        "microsoft_office",
+        "salesforce",
+        "jira",
+        "power_bi",
+        "quickbooks"
+      ],
+      "certifications": [
+        "Foundation in Project Management",
+        "Jira Certificate"
+      ],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Lisa Nalepa",
+      "years_experience": 15.5,
+      "roles_count": 4,
+      "leadership_roles": 4,
+      "education_level": "associates",
+      "industries": [
+        "retail",
+        "operations",
+        "services"
+      ],
+      "role_types": [
+        "operations",
+        "management",
+        "retail"
+      ],
+      "skills_vector": [
+        "budgeting",
+        "client_management",
+        "customer_service",
+        "financial_reconciliation",
+        "inventory_management",
+        "kpi_management",
+        "operations",
+        "operations_management",
+        "payroll",
+        "performance_management",
+        "process_improvement",
+        "retail_management",
+        "safety_compliance",
+        "sales",
+        "vendor_management",
+        "workforce_planning"
+      ],
+      "tools_vector": [
+        "excel",
+        "jira",
+        "microsoft_office",
+        "power_bi",
+        "quickbooks",
+        "salesforce"
+      ],
+      "certifications": [
+        "Foundation in Project Management",
+        "Jira Certificate"
+      ],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Lisa Nalepa",
+      "filename": "Lisa_Nalepa_Site_Manager_Resume",
+      "overall_score": 65.5,
+      "dimensions": {
+        "leadership_potential": 8.4,
+        "initiative_drive": 7.5,
+        "reliability": 7.2,
+        "communication": 1.9,
+        "problem_solving": 4.9,
+        "operations_exposure": 7.4,
+        "customer_service": 5.2,
+        "education_fit": 5.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "4 leadership roles out of 4 total",
+          "Key signals: managed, led, directed, supervised, oversaw",
+          "Leadership roles: Owner / Operations Manager; Operations Supervisor; Store Manager"
+        ],
+        "initiative_drive": [
+          "6 total activities (roles + volunteer + certs)",
+          "Certifications: Foundation in Project Management, Jira Certificate",
+          "Initiative signals: developed, develop, increased, train, training"
+        ],
+        "reliability": [
+          "4 roles across 15.5 years of experience",
+          "Reliability signals: maintained, compliance, accuracy",
+          "Strong track record — 4+ roles show consistency"
+        ],
+        "communication": [
+          "Communication signals: training"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: operations_management, process_improvement, kpi_management",
+          "Problem-solving signals: resolved"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations, management, retail",
+          "Operations signals: operations, inventory, scheduling, procurement, quality"
+        ],
+        "customer_service": [
+          "Customer-facing role types: retail",
+          "Service signals: client, retail, sales"
+        ],
+        "education_fit": [
+          "associates in Business Coursework from Macomb Community College",
+          "Highest level: Associates"
+        ]
+      },
+      "strengths": [
+        "Leadership Potential (8.4/10)",
+        "Initiative / Drive (7.5/10)",
+        "Operations Exposure (7.4/10)",
+        "Reliability / Track Record (7.2/10)"
+      ],
+      "gaps": [
+        "Communication (1.9/10)"
+      ],
+      "most_similar_benchmark": "DANE DELAND",
+      "similarity_pct": 45.1,
+      "benchmark_bonus": 1.0,
+      "trait_alignment_bonus": 1.2,
+      "career_stage": "Experienced",
+      "career_stage_bonus": 0.0,
+      "career_stage_reasoning": [
+        "Experienced profile: 15.5 years, 4 roles (7+ yrs = different level)",
+        "No career-stage bonus — validate role fit in conversation"
+      ],
+      "rank": 4
+    },
+    "raw_sentiment_scoring": {},
+    "raw_combined_scoring": {
+      "candidate_name": "Lisa Nalepa",
+      "resume_score": 65.5,
+      "sentiment_score": 0.0,
+      "blended_score": 65.5,
+      "resume_rank": 4,
+      "sentiment_rank": 0,
+      "combined_rank": 6,
+      "recommended_role": "",
+      "status": "",
+      "mismatch_flag": "NO_SENTIMENT",
+      "mismatch_details": [
+        "Resume scored but no leader feedback collected for this candidate"
+      ],
+      "resume_strengths": [
+        "Leadership Potential (8.4/10)",
+        "Initiative / Drive (7.5/10)",
+        "Operations Exposure (7.4/10)",
+        "Reliability / Track Record (7.2/10)"
+      ],
+      "resume_gaps": [
+        "Communication (1.9/10)"
+      ],
+      "sentiment_reasoning": {}
+    }
+  },
+  {
+    "candidate_name": "Lynette N. Burnette",
+    "contact": {
+      "email": "lynburnett82@gmail.com",
+      "phone": "480-678-5133",
+      "location": "Detroit, MI"
+    },
+    "education_level": "masters",
+    "years_experience": 10.5,
+    "roles_count": 7,
+    "leadership_roles": 7,
+    "skills_vector": [
+      "carrier_management",
+      "compliance",
+      "employee_relations",
+      "excel_analytics",
+      "human_resources",
+      "incident_management",
+      "inventory_management",
+      "kpi_reporting",
+      "labor_management",
+      "logistics",
+      "operations_management",
+      "payroll",
+      "process_improvement",
+      "recruitment",
+      "retail_management",
+      "risk_management",
+      "stakeholder_management",
+      "training",
+      "transportation",
+      "vendor_management"
+    ],
+    "tools_vector": [
+      "excel"
+    ],
+    "resume_score": 67.8,
+    "resume_rank": 2,
+    "career_stage": "Experienced",
+    "career_stage_bonus": 0.0,
+    "benchmark_bonus": 1.1,
+    "trait_bonus": 1.3,
+    "combined_score": 69.7,
+    "combined_rank": 3,
+    "sentiment_score": 75.0,
+    "sentiment_dimensions": {
+      "leader_conviction": 5.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 5.0,
+      "role_alignment": 10.0,
+      "concern_severity": 10.0
+    },
+    "sentiment_confidence": 0.65,
+    "recommended_role": "MIT",
+    "status": "continue",
+    "mismatch_flag": "",
+    "raw_structured_resume": {
+      "name": "Lynette N. Burnette",
+      "email": "lynburnett82@gmail.com",
+      "phone": "480-678-5133",
+      "location": "Detroit, MI",
+      "summary": "Senior operations and logistics leader with 10+ years managing transportation, warehouse, and supply chain operations in regulated, high-volume environments with strong compliance and performance reporting expertise.",
+      "education": [
+        {
+          "school": null,
+          "degree": "masters",
+          "field": "Business Management",
+          "graduation_year": null,
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "company": "Scottsdale Unified School District",
+          "role": "Operations Supervisor",
+          "location": "Scottsdale, AZ",
+          "start_date": "2024-08",
+          "end_date": "2025-05",
+          "responsibilities": [
+            "Managed transportation operations across 13 schools",
+            "Supervised drivers and support staff",
+            "Coordinated scheduling and logistics",
+            "Prepared leadership reports and compliance documentation",
+            "Led crisis response and safety coordination",
+            "Served as liaison between stakeholders"
+          ],
+          "skills": [
+            "operations_management",
+            "logistics",
+            "scheduling",
+            "compliance",
+            "stakeholder_management"
+          ],
+          "tools": [
+            "excel"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "QuikTrip",
+          "role": "PT Store Manager",
+          "location": "Phoenix, AZ",
+          "start_date": "2024-04",
+          "end_date": "2025-05",
+          "responsibilities": [
+            "Oversaw daily retail operations",
+            "Managed staffing, scheduling, payroll, and inventory",
+            "Coordinated vendor management and budgeting",
+            "Hired, trained, and coached employees",
+            "Prepared operational and financial reports",
+            "Ensured policy and safety compliance"
+          ],
+          "skills": [
+            "retail_management",
+            "operations",
+            "payroll",
+            "inventory_management",
+            "vendor_management",
+            "training"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "US Foods",
+          "role": "Road Supervisor",
+          "location": "Phoenix, AZ",
+          "start_date": "2022-02",
+          "end_date": "2024-04",
+          "responsibilities": [
+            "Supervised transportation department staff",
+            "Scheduled routes and labor planning",
+            "Conducted safety meetings and accident investigations",
+            "Tracked KPIs and operational metrics",
+            "Produced Excel-based reports"
+          ],
+          "skills": [
+            "transportation",
+            "supervision",
+            "safety",
+            "kpi_tracking",
+            "reporting"
+          ],
+          "tools": [
+            "excel"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "First Transit",
+          "role": "Road Supervisor",
+          "location": "Phoenix, AZ",
+          "start_date": "2020-01",
+          "end_date": "2022-02",
+          "responsibilities": [
+            "Managed motor coach operations",
+            "Ensured DOT and regulatory compliance",
+            "Developed SOPs and scheduling plans",
+            "Managed safety practices",
+            "Responded to incidents and service disruptions"
+          ],
+          "skills": [
+            "transportation",
+            "compliance",
+            "safety",
+            "operations",
+            "incident_management"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "UPS Freight / UPSA",
+          "role": "Transportation Engineer Supervisor",
+          "location": "MI",
+          "start_date": "2018-01",
+          "end_date": "2020-01",
+          "responsibilities": [
+            "Managed time-and-transit logistics operations",
+            "Coordinated rail carriers and auto haulers",
+            "Built carrier scorecards and led performance reviews",
+            "Performed Excel analytics using pivot tables and VLOOKUP",
+            "Provided KPI reporting to leadership"
+          ],
+          "skills": [
+            "logistics",
+            "analytics",
+            "operations_management",
+            "carrier_management",
+            "kpi_reporting"
+          ],
+          "tools": [
+            "excel"
+          ],
+          "leadership": true
+        },
+        {
+          "company": "UPS Freight",
+          "role": "Human Resources Specialist",
+          "location": null,
+          "start_date": "2017-01",
+          "end_date": "2018-01",
+          "responsibilities": [
+            "Managed full-cycle hiring and onboarding",
+            "Handled employee relations and performance management",
+            "Maintained payroll inputs and employee records",
+            "Ensured compliance documentation"
+          ],
+          "skills": [
+            "human_resources",
+            "recruitment",
+            "employee_relations",
+            "payroll",
+            "compliance"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "UPS Freight",
+          "role": "Freight Operations Supervisor",
+          "location": null,
+          "start_date": "2016-01",
+          "end_date": "2017-01",
+          "responsibilities": [
+            "Supervised dock, warehouse, and dispatch operations",
+            "Managed labor utilization and loading performance",
+            "Enforced safety and certification standards",
+            "Conducted audits and completed compliance reports",
+            "Trained and coached employees"
+          ],
+          "skills": [
+            "operations_management",
+            "logistics",
+            "labor_management",
+            "safety",
+            "training"
+          ],
+          "tools": [],
+          "leadership": true
+        }
+      ],
+      "skills": [
+        "operations_management",
+        "transportation",
+        "logistics",
+        "compliance",
+        "risk_management",
+        "kpi_reporting",
+        "process_improvement",
+        "vendor_management",
+        "excel_analytics",
+        "retail_management",
+        "payroll",
+        "inventory_management",
+        "carrier_management",
+        "recruitment",
+        "employee_relations",
+        "labor_management",
+        "training",
+        "incident_management",
+        "stakeholder_management"
+      ],
+      "tools": [
+        "excel"
+      ],
+      "certifications": [],
+      "projects": [],
+      "volunteer": []
+    },
+    "raw_feature_vector": {
+      "candidate_name": "Lynette N. Burnette",
+      "years_experience": 10.5,
+      "roles_count": 7,
+      "leadership_roles": 7,
+      "education_level": "masters",
+      "industries": [
+        "transportation",
+        "logistics",
+        "retail",
+        "education"
+      ],
+      "role_types": [
+        "operations",
+        "management",
+        "retail",
+        "human_resources"
+      ],
+      "skills_vector": [
+        "carrier_management",
+        "compliance",
+        "employee_relations",
+        "excel_analytics",
+        "human_resources",
+        "incident_management",
+        "inventory_management",
+        "kpi_reporting",
+        "labor_management",
+        "logistics",
+        "operations_management",
+        "payroll",
+        "process_improvement",
+        "recruitment",
+        "retail_management",
+        "risk_management",
+        "stakeholder_management",
+        "training",
+        "transportation",
+        "vendor_management"
+      ],
+      "tools_vector": [
+        "excel"
+      ],
+      "certifications": [],
+      "project_count": 0,
+      "volunteer_count": 0
+    },
+    "raw_resume_scoring": {
+      "candidate_name": "Lynette N. Burnette",
+      "filename": "Lynette_Burnette_Executive_Resume ",
+      "overall_score": 67.8,
+      "dimensions": {
+        "leadership_potential": 8.4,
+        "initiative_drive": 7.5,
+        "reliability": 7.2,
+        "communication": 3.7,
+        "problem_solving": 3.9,
+        "operations_exposure": 7.8,
+        "customer_service": 3.1,
+        "education_fit": 9.0
+      },
+      "reasoning": {
+        "leadership_potential": [
+          "7 leadership roles out of 7 total",
+          "Key signals: managed, led, supervised, oversaw, coordinated",
+          "Leadership roles: Operations Supervisor; PT Store Manager; Road Supervisor"
+        ],
+        "initiative_drive": [
+          "7 total activities (roles + volunteer + certs)",
+          "Initiative signals: built, developed, develop, train, training"
+        ],
+        "reliability": [
+          "7 roles across 10.5 years of experience",
+          "Reliability signals: maintained, ensured, compliance",
+          "Strong track record — 4+ roles show consistency"
+        ],
+        "communication": [
+          "Communication signals: stakeholder, liaison, training"
+        ],
+        "problem_solving": [
+          "Problem-solving skills: operations_management, process_improvement",
+          "Problem-solving signals: crisis"
+        ],
+        "operations_exposure": [
+          "Operations-relevant role types: operations, management, retail",
+          "Other role types: human_resources",
+          "Operations signals: operations, logistics, supply chain, inventory, scheduling"
+        ],
+        "customer_service": [
+          "Customer-facing role types: retail",
+          "Service signals: retail"
+        ],
+        "education_fit": [
+          "masters in Business Management",
+          "Highest level: Masters"
+        ]
+      },
+      "strengths": [
+        "Education Fit (9.0/10)",
+        "Leadership Potential (8.4/10)",
+        "Operations Exposure (7.8/10)",
+        "Initiative / Drive (7.5/10)",
+        "Reliability / Track Record (7.2/10)"
+      ],
+      "gaps": [
+        "Problem-Solving (3.9/10)",
+        "Communication (3.7/10)",
+        "Customer / Service (3.1/10)"
+      ],
+      "most_similar_benchmark": "Rade Kukobat (Jr.)",
+      "similarity_pct": 48.3,
+      "benchmark_bonus": 1.1,
+      "trait_alignment_bonus": 1.3,
+      "career_stage": "Experienced",
+      "career_stage_bonus": 0.0,
+      "career_stage_reasoning": [
+        "Experienced profile: 10.5 years, 7 roles (7+ yrs = different level)",
+        "No career-stage bonus — validate role fit in conversation"
+      ],
+      "rank": 2
+    },
+    "raw_sentiment_scoring": {
+      "candidate_name": "Lynette Burnette",
+      "sentiment_score": 75.0,
+      "dimensions": {
+        "leader_conviction": 5.0,
+        "impression_strength": 10.0,
+        "effort_initiative": 5.0,
+        "role_alignment": 10.0,
+        "concern_severity": 10.0
+      },
+      "reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+        ],
+        "impression_strength": [
+          "Positive signals (10): leader, visionary, persuasive, communicator, collaborator, accomplished"
+        ],
+        "effort_initiative": [
+          "No specific effort signals detected — baseline score"
+        ],
+        "role_alignment": [
+          "Recommended for MIT — exact match with target role"
+        ],
+        "concern_severity": [
+          "No concerns raised — clean candidate"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 74% / sentiment 26%"
+        ]
+      },
+      "recommended_role": "MIT",
+      "status": "continue",
+      "reviewer_count": 1,
+      "recommend_count": 0,
+      "review_count": 0,
+      "pass_count": 0,
+      "source_confidence": 0.65
+    },
+    "raw_combined_scoring": {
+      "candidate_name": "Lynette Burnette",
+      "resume_score": 67.8,
+      "sentiment_score": 75.0,
+      "blended_score": 69.7,
+      "resume_rank": 2,
+      "sentiment_rank": 5,
+      "combined_rank": 3,
+      "recommended_role": "MIT",
+      "status": "continue",
+      "mismatch_flag": "",
+      "mismatch_details": [],
+      "resume_strengths": [
+        "Education Fit (9.0/10)",
+        "Leadership Potential (8.4/10)",
+        "Operations Exposure (7.8/10)",
+        "Initiative / Drive (7.5/10)",
+        "Reliability / Track Record (7.2/10)"
+      ],
+      "resume_gaps": [
+        "Problem-Solving (3.9/10)",
+        "Communication (3.7/10)",
+        "Customer / Service (3.1/10)"
+      ],
+      "sentiment_reasoning": {
+        "leader_conviction": [
+          "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+        ],
+        "impression_strength": [
+          "Positive signals (10): leader, visionary, persuasive, communicator, collaborator, accomplished"
+        ],
+        "effort_initiative": [
+          "No specific effort signals detected — baseline score"
+        ],
+        "role_alignment": [
+          "Recommended for MIT — exact match with target role"
+        ],
+        "concern_severity": [
+          "No concerns raised — clean candidate"
+        ],
+        "blending": [
+          "Confidence-adjusted blend: resume 74% / sentiment 26%"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,48 @@
+
+======================================================================
+  COMBINED SCORECARD: JACOB ZOCHOWSKI
+  Final: 67.9 / 100  |  Resume: 67.7  |  Fit: 80.7 (leader+team)  |  Rank: 5 of 10
+======================================================================
+
+  Recommended Role: OPS_MANAGER
+  Status: POD
+  Career Stage: Senior MIT
+  MIT Badge: SENIOR MIT
+  Leader Flags: 2
+  Relocation Penalty: -5 pts (candidate cannot relocate)
+
+  LEADER & TEAM ASSESSMENT:
+  ----------------------------------------
+    Leader Conviction (30%)
+      > Arturo Vargas (Regional Operations Director) — RECOMMENDED for POD interview (weight: 1.5x)
+
+    Impression Strength (25%)
+      > Positive signals (9): charisma, strong, great, genuine, stood out, love this
+      > Negative signals (1): concern
+      > Strong leader conviction boost — 9 positive signals amplified
+
+    Effort & Initiative (20%)
+      > Effort signals: asked great questions, early
+
+    Role Alignment (15%)
+      > Recommended for ops_manager — adjacent to MIT (partial credit)
+
+    Concern Severity (10%)
+      > Hard concerns (2): relocate, not open to
+      > Relocation constraint flagged — significant operational limitation
+
+    Blending (0%)
+      > Confidence-adjusted blend: resume 60% / sentiment 40%
+      > Relocation penalty: -5 pts (cannot relocate)
+
+  RESUME STRENGTHS:
+    + Leadership Potential (8.1/10)
+    + Education Fit (8.0/10)
+    + Problem-Solving (7.4/10)
+    + Reliability / Track Record (7.2/10)
+
+  RESUME GAPS:
+    - Customer / Service (3.3/10)
+    - Communication (2.9/10)
+
+======================================================================

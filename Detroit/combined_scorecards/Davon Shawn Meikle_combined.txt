@@ -1,0 +1,31 @@
+
+======================================================================
+  COMBINED SCORECARD: DAVON SHAWN MEIKLE
+  Final: 45.1 / 100  |  Resume: 45.1  |  Fit: 41.9 (trait_estimate)  |  Rank: 10 of 10
+======================================================================
+
+  Recommended Role: MIT
+  Status: PENDING
+  Career Stage: Senior MIT
+  MIT Badge: SENIOR MIT
+  Leader Flags: 0
+
+  FIT SCORE METHOD: Auto-estimated from resume traits
+  (No leader/team feedback available — score is inferred)
+  Trait weights used:
+    Leadership Potential: 25%
+    Initiative Drive: 20%
+    Reliability: 15%
+    Communication: 15%
+    Operations Exposure: 15%
+    Problem Solving: 10%
+
+  RESUME STRENGTHS:
+    + Problem-Solving (6.4/10)
+
+  RESUME GAPS:
+    - Operations Exposure (3.9/10)
+    - Education Fit (3.0/10)
+    - Leadership Potential (2.4/10)
+
+======================================================================

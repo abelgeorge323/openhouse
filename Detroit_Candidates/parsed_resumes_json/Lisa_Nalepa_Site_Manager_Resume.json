@@ -1,0 +1,205 @@
+{
+  "raw_resume_text": "LISA NALEPA Mount Clemens, MI | 586-219-3547 | lisamnalepa@gmail.com Professional Summary Operations & Site Leadership Professional with 15+ years of experience directing high-volume teams, managing workforce scheduling, overseeing compliance, and maintaining financial accountability. Proven ability to lead daily operations exceeding $1M in revenue, optimize labor efficiency, improve workflow systems, and strengthen team performance. Core Competencies Operations & Site Management, Workforce Planning & Scheduling, Budget Monitoring & Cost Control, Labor & Payroll Oversight, Safety & Regulatory Compliance, Process Improvement & Efficiency, Vendor & Stakeholder Communication, Performance Management & Coaching, Inventory & Resource Oversight, Microsoft Office, Excel, Salesforce, Jira, Power BI, QuickBooks. Professional Experience Refresh + Reset, LLC — Owner / Operations Manager Aug 2024 – Present Direct end-to-end service operations; scheduling, budgeting, vendor coordination, performance oversight; onboarding systems; workflow systems; reporting; labor forecasting; procurement; billing; expense tracking; subcontractor coordination; client retention. Costco Wholesale — Operations Supervisor / Administrative & Safety Lead Jul 2018 – Aug 2024 Supervised 20–30 employees in high-volume department; workforce scheduling; SOP compliance; payroll processing; labor allocation; safety audits; OSHA compliance; financial reconciliation; operational issue resolution; marketing support. Vanity — Store Manager 2007 – 2010 Store operations; scheduling; payroll; inventory; budgeting; staff recruitment and training; revenue growth; performance coaching. Journeys Shoes — Store Manager 2003 – 2005 Hiring and training; sales growth; inventory control; KPI management; daily operations. Education Macomb Community College – Business Coursework. Professional Development Foundation in Project Management – Coursera; Jira Certificate – Coursera.",
+  "structured_resume": {
+    "name": "Lisa Nalepa",
+    "email": "lisamnalepa@gmail.com",
+    "phone": "586-219-3547",
+    "location": "Mount Clemens, MI",
+    "summary": "Operations and site leadership professional with 15+ years managing high-volume teams, workforce scheduling, regulatory compliance, financial oversight, and operational performance improvement.",
+    "education": [
+      {
+        "school": "Macomb Community College",
+        "degree": "associates",
+        "field": "Business Coursework",
+        "graduation_year": null,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "company": "Refresh + Reset, LLC",
+        "role": "Owner / Operations Manager",
+        "location": null,
+        "start_date": "2024-08",
+        "end_date": "present",
+        "responsibilities": [
+          "Direct end-to-end service operations",
+          "Manage scheduling, budgeting, and vendor coordination",
+          "Develop onboarding, workflow, and reporting systems",
+          "Manage labor forecasting, procurement, billing, and expenses",
+          "Coordinate subcontractors and maintain service standards",
+          "Maintain high client retention through service quality"
+        ],
+        "skills": [
+          "operations_management",
+          "budgeting",
+          "vendor_management",
+          "workforce_planning",
+          "process_improvement",
+          "client_management"
+        ],
+        "tools": [
+          "excel",
+          "quickbooks"
+        ],
+        "leadership": true
+      },
+      {
+        "company": "Costco Wholesale",
+        "role": "Operations Supervisor",
+        "location": null,
+        "start_date": "2018-07",
+        "end_date": "2024-08",
+        "responsibilities": [
+          "Supervised 20–30 employees in high-volume department",
+          "Developed workforce schedules and labor allocation",
+          "Directed daily operations and SOP compliance",
+          "Oversaw payroll processing and departmental scheduling",
+          "Conducted safety audits and maintained OSHA compliance",
+          "Managed financial reconciliation and reporting accuracy",
+          "Resolved operational and customer concerns",
+          "Supported marketing and business expansion initiatives"
+        ],
+        "skills": [
+          "operations",
+          "supervision",
+          "payroll",
+          "safety_compliance",
+          "financial_reconciliation",
+          "customer_service"
+        ],
+        "tools": [
+          "excel",
+          "power_bi"
+        ],
+        "leadership": true
+      },
+      {
+        "company": "Vanity",
+        "role": "Store Manager",
+        "location": null,
+        "start_date": "2007-01",
+        "end_date": "2010-01",
+        "responsibilities": [
+          "Directed daily store operations",
+          "Managed scheduling, payroll, and inventory",
+          "Maintained budget adherence and labor targets",
+          "Led recruitment, onboarding, and staff training",
+          "Drove revenue growth through coaching and performance management"
+        ],
+        "skills": [
+          "retail_management",
+          "operations",
+          "training",
+          "inventory_management",
+          "budgeting"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "Journeys Shoes",
+        "role": "Store Manager",
+        "location": null,
+        "start_date": "2003-01",
+        "end_date": "2005-01",
+        "responsibilities": [
+          "Recruited, hired, and trained full team",
+          "Increased sales by 42%",
+          "Maintained operational and inventory controls",
+          "Managed KPIs and merchandising execution",
+          "Directed daily store operations"
+        ],
+        "skills": [
+          "retail_management",
+          "sales",
+          "inventory_management",
+          "kpi_management",
+          "operations"
+        ],
+        "tools": [],
+        "leadership": true
+      }
+    ],
+    "skills": [
+      "operations_management",
+      "workforce_planning",
+      "budgeting",
+      "payroll",
+      "safety_compliance",
+      "process_improvement",
+      "vendor_management",
+      "performance_management",
+      "inventory_management",
+      "financial_reconciliation",
+      "retail_management",
+      "sales",
+      "kpi_management",
+      "client_management",
+      "customer_service"
+    ],
+    "tools": [
+      "excel",
+      "microsoft_office",
+      "salesforce",
+      "jira",
+      "power_bi",
+      "quickbooks"
+    ],
+    "certifications": [
+      "Foundation in Project Management",
+      "Jira Certificate"
+    ],
+    "projects": [],
+    "volunteer": []
+  },
+  "feature_vector": {
+    "candidate_name": "Lisa Nalepa",
+    "years_experience": 15.5,
+    "roles_count": 4,
+    "leadership_roles": 4,
+    "education_level": "associates",
+    "industries": [
+      "retail",
+      "operations",
+      "services"
+    ],
+    "role_types": [
+      "operations",
+      "management",
+      "retail"
+    ],
+    "skills_vector": [
+      "budgeting",
+      "client_management",
+      "customer_service",
+      "financial_reconciliation",
+      "inventory_management",
+      "kpi_management",
+      "operations",
+      "operations_management",
+      "payroll",
+      "performance_management",
+      "process_improvement",
+      "retail_management",
+      "safety_compliance",
+      "sales",
+      "vendor_management",
+      "workforce_planning"
+    ],
+    "tools_vector": [
+      "excel",
+      "jira",
+      "microsoft_office",
+      "power_bi",
+      "quickbooks",
+      "salesforce"
+    ],
+    "certifications": [
+      "Foundation in Project Management",
+      "Jira Certificate"
+    ],
+    "project_count": 0,
+    "volunteer_count": 0
+  }
+}

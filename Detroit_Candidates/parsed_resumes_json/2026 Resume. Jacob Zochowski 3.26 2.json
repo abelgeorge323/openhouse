@@ -1,0 +1,219 @@
+{
+  "raw_resume_text": "JACOB ZOCHOWSKI\nEmail: jakez6396@gmail.com Phone: (207) 891-0111\nOPERATIONS & LOGISTICS LEADER Warehouse | Transportation | Distribution | E-Commerce Operations\nHigh impact operations leader with progressive experience managing large scale warehouse and transportation teams within a fast-paced logistics environment. Proven ability to scale operations, reduce costs, drive labor efficiency and improve service execution, while maintaining strong safety and compliance standards. Recognized for building accountable teams, solving operational challenges, and improving processes that directly impact profitability and customer satisfaction.\nCORE EXPERTISE Operations Leadership | Warehouse Management | Transportation and Routing | Labor Optimization | WMS and Inventory Control | Safety and Compliance | Process Improvement | Operational Auditing | Team Development | E-Commerce Fulfillment | Cross Functional Collaboration\n\nPROFESSIONAL EXPERIENCE\nAssistant Warehouse Manager January 2025 - Present\nEnergy Products, Inc. - Madison Heights, MI\nFull-cycle recruitment of Warehouse Associates, including applicant screening, interviewing, and extending offers, while also training new hires on operational duties and OSHA/workplace-safety practices and monitoring ongoing adherence to required work standards\nServed as primary operational leader across warehouse functions, coordinating cross-department workflows and following up on execution\nPerform weekly cycle counts, investigate variance reports, and report discrepancies\nE-Commerce: Restored Amazon account health from high-risk deactivation to compliant, led workflow improvements and tightening order processing from inception, booking, delivery, and customer service (ODR%, LSR%); Identified aged product across locations and converted stagnant product into active sales; Redesigned warehouse layout increasing storage capacity and improving picking efficiency; Managed product listings on Amazon Seller Central and eBay; Supervised shipping associates ensuring daily order accuracy and on-time shipments; Managed inventory levels preventing stock outs and overselling; Handled customer inquiries, returns, delivery claims, and refunds; Coordinated pallet quantity orders with commercial customers; Assessed delivery site infrastructure prior to dispatch; Analyzed sales performance and shipping templates to increase margins\nScheduled LTL pickups and coordinated with brokers for FTL quotes and pickups\nManaged scrap battery coordination and international BOL documentation\nOrdered and maintained warehouse operational supplies and PPE\nCoordinated installation of golf cart parts and batteries\nUsed WMS for invoicing, inventory adjustments, orders, returns, credits, rebills, and COD processing\nPerformed accuracy checks on every order\nDetermined and communicated driver routes reducing cost per mile and improving delivery times\nEmployee of the Quarter Nominee within six months of employment\n\nHUB Operations Manager June 2023 - January 2025\nCentral Transport - Detroit, MI\nOversaw inbound/outbound freight movement for KPI adherence\nManaged highest-volume Next-Day Hub (~1,100 nightly skids)\nManaged seven exempt employees with training, development, and performance support\nClosing and Opening Manager for 183-door terminal with 80+ drivers and 12+ dock workers\nDrove network efficiency through on-time freight movement, delay resolution, cost control, labor management, and safety compliance\nEngaged stakeholders from executive to operational levels ensuring consistent communication\nTrained Management Trainee graduates\nCoordinated terminal shutdowns to reduce theft\nEnsured proper loading through auditing and training\n\nNext-Day HUB Supervisor August 2022 - June 2023\nCentral Transport - Detroit, MI\nImproved terminal operations and safety compliance through audit refinement and communication\nAssisted outbound operations and route planning\nAudited freight loaders ensuring damage-free shipments\nAssisted inbound routing for city operations\nPlanned regional routes in accordance with DOT standards\nReviewed weekly updates with hourly staff\nUsed counseling, training, and documentation for performance management\nCoordinated tractor swaps and equipment relocation\n\nLine Haul Supervisor October 2020 - August 2022\nCentral Transport - Warren, MI\nManaged up to twenty exempt dispatch team members\nMaintained DOT/FMCSA/OSHA compliance\nTracked data for performance evaluation and operational improvement\nAudited freight loaders for shipment integrity\nTraveled to support locations for training\nBooked hotels for laydowns\nCoordinated breakdown response and driver recoveries\nPulled nightly data and reported discrepancies to directors\n\nDispatch Supervisor September 2019 - October 2020\nCentral Transport - Warren, MI\nPlanned and dispatched drivers across US/Canada\nOversaw up to 150 drivers ensuring DOT compliance\nScheduled workforce ensuring route coverage\nAdjusted routes for weather and operational disruptions\nCommunicated breakdowns and routing changes\n\nEDUCATION\nEastern Michigan University\nBachelor of Business Administration\nLogistics & Supply Chain Management\nHenry Ford College\nAssociates in Supply Chain Management",
+  "structured_resume": {
+    "name": "Jacob Zochowski",
+    "email": "jakez6396@gmail.com",
+    "phone": "(207) 891-0111",
+    "location": "Detroit, MI",
+    "summary": "High impact operations leader with progressive experience managing large scale warehouse and transportation teams within a fast-paced logistics environment. Proven ability to scale operations, reduce costs, drive labor efficiency and improve service execution, while maintaining strong safety and compliance standards.",
+    "education": [
+      {
+        "school": "Eastern Michigan University",
+        "degree": "bachelors",
+        "field": "Business Administration",
+        "graduation_year": null,
+        "gpa": null
+      },
+      {
+        "school": "Henry Ford College",
+        "degree": "associates",
+        "field": "Supply Chain Management",
+        "graduation_year": null,
+        "gpa": null
+      }
+    ],
+    "experience": [
+      {
+        "company": "Energy Products, Inc.",
+        "role": "Assistant Warehouse Manager",
+        "location": "Madison Heights, MI",
+        "start_date": "2025-01",
+        "end_date": "present",
+        "responsibilities": [
+          "Led warehouse operations and cross-department coordination",
+          "Managed recruitment and training of warehouse associates",
+          "Oversaw cycle counts and variance investigations",
+          "Led e-commerce operations including Amazon and eBay management",
+          "Supervised shipping associates and order fulfillment",
+          "Managed inventory across platforms",
+          "Handled customer service and returns",
+          "Coordinated commercial pallet orders and logistics",
+          "Optimized warehouse layout and storage capacity",
+          "Analyzed sales performance and margin improvements",
+          "Managed freight scheduling and broker coordination",
+          "Maintained compliance documentation and international shipping records",
+          "Used WMS for invoicing, inventory control, and transaction processing",
+          "Optimized routing and delivery efficiency"
+        ],
+        "skills": [
+          "operations_management",
+          "inventory_management",
+          "logistics",
+          "process_improvement",
+          "customer_service",
+          "recruitment",
+          "training"
+        ],
+        "tools": [
+          "wms",
+          "amazon_seller_central",
+          "ebay"
+        ],
+        "leadership": true
+      },
+      {
+        "company": "Central Transport",
+        "role": "HUB Operations Manager",
+        "location": "Detroit, MI",
+        "start_date": "2023-06",
+        "end_date": "2025-01",
+        "responsibilities": [
+          "Managed inbound and outbound freight operations",
+          "Led high-volume hub operations",
+          "Managed and developed leadership team",
+          "Oversaw large terminal workforce",
+          "Improved network efficiency and cost control",
+          "Ensured safety and compliance standards",
+          "Led stakeholder communications",
+          "Trained management trainees"
+        ],
+        "skills": [
+          "operations_management",
+          "leadership",
+          "compliance",
+          "team_development",
+          "logistics"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "Central Transport",
+        "role": "Next-Day HUB Supervisor",
+        "location": "Detroit, MI",
+        "start_date": "2022-08",
+        "end_date": "2023-06",
+        "responsibilities": [
+          "Improved terminal operations and safety compliance",
+          "Planned outbound routes",
+          "Audited freight operations",
+          "Managed inbound routing",
+          "Supervised workforce operations"
+        ],
+        "skills": [
+          "operations",
+          "compliance",
+          "routing",
+          "supervision"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "Central Transport",
+        "role": "Line Haul Supervisor",
+        "location": "Warren, MI",
+        "start_date": "2020-10",
+        "end_date": "2022-08",
+        "responsibilities": [
+          "Managed dispatch operations",
+          "Maintained regulatory compliance",
+          "Analyzed operational data",
+          "Audited freight operations",
+          "Coordinated breakdown response"
+        ],
+        "skills": [
+          "dispatch",
+          "compliance",
+          "data_analysis"
+        ],
+        "tools": [],
+        "leadership": true
+      },
+      {
+        "company": "Central Transport",
+        "role": "Dispatch Supervisor",
+        "location": "Warren, MI",
+        "start_date": "2019-09",
+        "end_date": "2020-10",
+        "responsibilities": [
+          "Planned and dispatched regional drivers",
+          "Oversaw regulatory compliance",
+          "Managed workforce scheduling",
+          "Adjusted routing logistics"
+        ],
+        "skills": [
+          "dispatch",
+          "logistics",
+          "scheduling"
+        ],
+        "tools": [],
+        "leadership": true
+      }
+    ],
+    "skills": [
+      "operations_management",
+      "inventory_management",
+      "logistics",
+      "process_improvement",
+      "customer_service",
+      "recruitment",
+      "training",
+      "leadership",
+      "compliance",
+      "team_development",
+      "routing",
+      "dispatch",
+      "data_analysis",
+      "scheduling"
+    ],
+    "tools": [
+      "wms",
+      "amazon_seller_central",
+      "ebay"
+    ],
+    "certifications": [],
+    "projects": [],
+    "volunteer": []
+  },
+  "feature_vector": {
+    "candidate_name": "Jacob Zochowski",
+    "years_experience": 6.5,
+    "roles_count": 5,
+    "leadership_roles": 5,
+    "education_level": "bachelors",
+    "industries": [
+      "logistics",
+      "transportation",
+      "ecommerce"
+    ],
+    "role_types": [
+      "operations",
+      "management"
+    ],
+    "skills_vector": [
+      "compliance",
+      "customer_service",
+      "data_analysis",
+      "dispatch",
+      "inventory_management",
+      "leadership",
+      "logistics",
+      "operations_management",
+      "process_improvement",
+      "recruitment",
+      "routing",
+      "scheduling",
+      "team_development",
+      "training"
+    ],
+    "tools_vector": [
+      "amazon_seller_central",
+      "ebay",
+      "wms"
+    ],
+    "certifications": [],
+    "project_count": 0,
+    "volunteer_count": 0
+  }
+}

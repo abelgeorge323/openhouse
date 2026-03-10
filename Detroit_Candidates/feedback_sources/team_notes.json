@@ -1,0 +1,60 @@
+{
+  "event": "Detroit March 2026",
+  "date": "2026-03-06",
+  "notes_by": "Hiring Team",
+  "candidates": {
+    "Christopher Saucedo": {
+      "recommended_role": "MIT",
+      "status": "continue",
+      "summary": "Wayne State University Global Supply Chain graduate, employee at Ideal Shield. Hard working, dedicated, always ready to learn and gain new experiences. Looking for full time opportunities.",
+      "flags": [],
+      "concerns": []
+    },
+    "Charda Williams": {
+      "recommended_role": "MIT",
+      "status": "continue",
+      "summary": "A strong operations leader with demonstrated success managing large teams, complex logistics, and high-volume distribution for Fortune 500 clients.",
+      "flags": [],
+      "concerns": []
+    },
+    "Lynette Burnette": {
+      "recommended_role": "MIT",
+      "status": "continue",
+      "summary": "Accomplished and hands-on logistics manager with a distinguished career in leading strategies for operations, logistics, global supply chain management, and business development. A visionary leader with a demonstrated track record of success in growing and strengthening global organizations by making tough choices, steering strategic projects, accomplishing challenging objectives, and driving organizational improvements. Skilled in introducing new technologies to simplify complex situations, cut costs, and increase productivity. A persuasive communicator and team collaborator.",
+      "flags": [],
+      "concerns": []
+    },
+    "Clifton Johnson": {
+      "recommended_role": "MIT",
+      "status": "continue",
+      "summary": "FedEx team has seen remarkable operational improvements under his stewardship. Leveraging hands-on experience and ongoing advanced education in HR Management from Wayne State University. Deeply immersed in enhancing efficiencies and employee engagement. Currently pursuing MBA with HR focus, brings fresh perspective to strategic workforce planning.",
+      "flags": [
+        "quiet"
+      ],
+      "concerns": [
+        "Was a little quiet — may need further conversation to validate communication skills"
+      ]
+    },
+    "Jacob Zochowski": {
+      "recommended_role": "ops_manager",
+      "status": "continue",
+      "summary": "Would have liked to have him as an MIT, but he is not open to relocate for another year. Has great experience in operations.",
+      "flags": [
+        "relocation_constraint"
+      ],
+      "concerns": [
+        "Not open to relocate for another year"
+      ]
+    },
+    "Gerson Santos": {
+      "recommended_role": "site_manager",
+      "status": "continue",
+      "summary": "Drove from Cleveland Ohio for the event (3 hours) in thunderstorms. Showed up 15 minutes prior to end. Great experience, currently at an Amazon site that SBM used to have. Working for a company Service Master overseeing the daily operations.",
+      "flags": [
+        "high_effort",
+        "dedication"
+      ],
+      "concerns": []
+    }
+  }
+}

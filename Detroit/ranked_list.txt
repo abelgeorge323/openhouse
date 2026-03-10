@@ -1,0 +1,19 @@
+
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════
+  MIT CANDIDATE RANKINGS
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  RANK  SCORE   NAME                        STAGE               TOP STRENGTH                FLAG
+  ────  ─────  ──────────────────────────  ──────────────────  ──────────────────────────  ──────────────────
+  1     69.5    Latasha Marie Tillman       Experienced         Education Fit (9.0/10)      Customer / Service (2.1/10)
+  2     67.8    Lynette N. Burnette         Experienced         Education Fit (9.0/10)      Problem-Solving (3.9/10)
+  3     67.7    Jacob Zochowski             Senior MIT          Leadership Potential (8.1/10)Customer / Service (3.3/10)
+  4     65.5    Lisa Nalepa                 Experienced         Leadership Potential (8.4/10)Communication (1.9/10)
+  5     62.5    Clifton Johnson             Experienced         Education Fit (9.0/10)      Customer / Service (3.1/10)
+  6     57.7    Christopher Saucedo         Early Career MIT    Education Fit (8.0/10)      Customer / Service (0.0/10)
+  7     57.4    Gerson Jonathan Santos      Experienced         Leadership Potential (8.4/10)Education Fit (3.0/10)
+  8     53.8    Charda Williams             Senior MIT          Education Fit (9.0/10)      Problem-Solving (3.0/10)
+  9     53.4    Brandon M. DuBose           Senior MIT          Problem-Solving (7.0/10)    Communication (1.9/10)
+  10    45.1    Davon Shawn Meikle          Senior MIT          Problem-Solving (6.4/10)    Operations Exposure (3.9/10)
+
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════

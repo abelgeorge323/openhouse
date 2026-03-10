@@ -1,0 +1,19 @@
+
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════
+  MIT CANDIDATE RANKINGS
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+  RANK  SCORE   NAME                        STAGE               TOP STRENGTH                FLAG
+  ────  ─────  ──────────────────────────  ──────────────────  ──────────────────────────  ──────────────────
+  1     61.8    Latasha Marie Tillman       Experienced         Education Fit (9.0/10)      Community & Teamwork (2.1/10)
+  2     59.5    Jacob Zochowski             Senior MIT          Leadership Potential (8.1/10)Communication (2.9/10)
+  3     59.0    Lynette N. Burnette         Experienced         Education Fit (9.0/10)      Problem-Solving (3.9/10)
+  4     56.8    Lisa Nalepa                 Experienced         Leadership Potential (8.4/10)Coachability / Learning Agility (3.6/10)
+  5     56.6    Clifton Johnson             Experienced         Education Fit (9.0/10)      Communication (2.9/10)
+  6     53.8    Christopher Saucedo         Early Career MIT    Coachability / Learning Agility (8.2/10)Customer / Service (0.0/10)
+  7     52.9    Brandon M. DuBose           Early Career MIT    Problem-Solving (7.0/10)    Community & Teamwork (2.9/10)
+  8     51.3    Gerson Jonathan Santos      Experienced         Leadership Potential (8.4/10)Education Fit (3.0/10)
+  9     50.5    Davon Shawn Meikle          Early Career MIT    Coachability / Learning Agility (7.7/10)Operations Exposure (3.9/10)
+  10    48.7    Charda Williams             Early Career MIT    Education Fit (9.0/10)      Problem-Solving (3.0/10)
+
+══════════════════════════════════════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,31 @@
+
+======================================================================
+  COMBINED SCORECARD: LISA NALEPA
+  Final: 65.5 / 100  |  Resume: 65.5  |  Fit: 65.7 (trait_estimate)  |  Rank: 7 of 10
+======================================================================
+
+  Recommended Role: OPS_MANAGER
+  Status: PENDING
+  Career Stage: Experienced
+  Leader Flags: 0
+
+  FIT SCORE METHOD: Auto-estimated from resume traits
+  (No leader/team feedback available — score is inferred)
+  Trait weights used:
+    Leadership Potential: 25%
+    Initiative Drive: 20%
+    Reliability: 15%
+    Communication: 15%
+    Operations Exposure: 15%
+    Problem Solving: 10%
+
+  RESUME STRENGTHS:
+    + Leadership Potential (8.4/10)
+    + Initiative / Drive (7.5/10)
+    + Operations Exposure (7.4/10)
+    + Reliability / Track Record (7.2/10)
+
+  RESUME GAPS:
+    - Communication (1.9/10)
+
+======================================================================

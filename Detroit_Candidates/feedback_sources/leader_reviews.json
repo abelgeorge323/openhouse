@@ -1,0 +1,24 @@
+{
+  "event": "Detroit March 2026",
+  "date": "2026-03-09",
+  "reviews": [
+    {
+      "reviewer": "Arturo Vargas",
+      "title": "Regional Operations Director",
+      "seniority_weight": 1.5,
+      "recommend_pod_interview": [
+        "Jacob Zochowski",
+        "Gerson Santos"
+      ],
+      "potential_needs_review": [
+        "Clifton Johnson"
+      ],
+      "do_not_recommend": [],
+      "pool_quality": "very_strong",
+      "standout_notes": "Jacob really stood out — charisma, asked great questions, demonstrated genuine interest and readiness to get to work. Would love this kid on my team.",
+      "concerns": "No concerns. Glad for the invite, got to preview candidates and start early relationships with strong candidates.",
+      "meta_notes": "Arturo proactively submitted feedback on the event and voluntarily identified himself despite the form being anonymous. Shows strong engagement with the hiring process and genuine investment in talent pipeline.",
+      "clifton_johnson_note": "Proactively flagged by hiring team for follow-up — was quiet at the event but team sees potential worth validating in a more focused conversation."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+
+========================================================================================================================
+  CANDIDATE DASHBOARD — Resume + Fit + Leader Signals
+========================================================================================================================
+
+  #   NAME                      RESUME   FIT      FLAGS  FINAL    STATUS                BADGE         ROLE
+  ─   ────────────────────────  ──────   ──────   ─────  ──────   ────────────────────  ────────────  ──────────────
+  1   Gerson Santos             57.4     94.0     3      72.0     POD                   —             SITE_MANAGER
+  2   Lynette Burnette          67.8     75.0     0      69.7     INTERVIEW_CONSIDER    —             OPS_MANAGER
+  3   Latasha Marie Tillman     69.5     69.5     0      69.5     PENDING               —             OPS_MANAGER
+  4   Clifton Johnson           62.5     78.2     2      68.8     INTERVIEW_CONSIDER    —             SITE_MANAGER
+  5   Jacob Zochowski           67.7     80.7     2      67.9     POD                   SENIOR MIT    OPS_MANAGER
+  6   Christopher Saucedo       57.7     76.6     0      65.6     INTERVIEW_CONSIDER    TRUE MIT      MIT
+  7   Lisa Nalepa               65.5     65.7     0      65.5     PENDING               —             OPS_MANAGER
+  8   Charda Williams           53.8     75.0     0      59.3     INTERVIEW_CONSIDER    SENIOR MIT    MIT
+  9   Brandon M. DuBose         53.4     53.4     0      53.4     PENDING               SENIOR MIT    MIT
+  10  Davon Shawn Meikle        45.1     41.9     0      45.1     PENDING               SENIOR MIT    MIT
+
+  BADGE KEY:  TRUE MIT = Early Career (0-3 yrs) ideal profile  |  SENIOR MIT = 4-6 yrs experienced MIT
+  FIT SOURCE: leader+team = full feedback  |  team/leader_only = partial  |  trait_estimate = auto from resume
+========================================================================================================================

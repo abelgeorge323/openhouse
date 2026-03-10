@@ -1,0 +1,32 @@
+
+======================================================================
+  COMBINED SCORECARD: LATASHA MARIE TILLMAN
+  Final: 61.8 / 100  |  Resume: 61.8  |  Fit: 69.5 (trait_estimate)  |  Rank: 7 of 10
+======================================================================
+
+  Recommended Role: OPS_MANAGER
+  Status: PENDING
+  Career Stage: Experienced
+  Leader Flags: 0
+
+  FIT SCORE METHOD: Auto-estimated from resume traits
+  (No leader/team feedback available — score is inferred)
+  Trait weights used:
+    Leadership Potential: 25%
+    Initiative Drive: 20%
+    Reliability: 15%
+    Communication: 15%
+    Operations Exposure: 15%
+    Problem Solving: 10%
+
+  RESUME STRENGTHS:
+    + Education Fit (9.0/10)
+    + Leadership Potential (8.1/10)
+    + Problem-Solving (7.6/10)
+    + Initiative / Drive (7.5/10)
+
+  RESUME GAPS:
+    - Community & Teamwork (2.1/10)
+    - Customer / Service (1.6/10)
+
+======================================================================

@@ -1,354 +1,751 @@
 {
   "events": [
     {
-      "id": "stl",
-      "city": "St. Louis (TEST)",
-      "date": "3/26",
-      "time": "5–7 PM",
-      "status": "completed",
-      "metrics": {
-        "rsvp": 48,
-        "attended": 35,
-        "resumes": 32,
-        "highPotential": 6,
-        "podReady": 3,
-        "strongRate": 17
-      },
-      "summary": "Strong engineering representation. Moderate relocation flexibility. Leadership identified 4 standout candidates. Event showed moderate conversion from RSVP to high-potential pipeline.",
-      "demographics": {
-        "education": [
-          { "label": "Business", "value": 35 },
-          { "label": "Engineering", "value": 25 },
-          { "label": "Operations / Supply Chain", "value": 20 },
-          { "label": "Other", "value": 20 }
-        ],
-        "experience": [
-          { "label": "0–3 Years", "value": 45 },
-          { "label": "3–5 Years", "value": 35 },
-          { "label": "5+ Years", "value": 20 }
-        ],
-        "relocation": {
-          "open": 60,
-          "localOnly": 40
-        }
-      },
-      "candidates": [
-        {
-          "name": "John Mitchell",
-          "resume": 4.4,
-          "fit": 5.0,
-          "leaderFlags": 2,
-          "final": 4.6,
-          "status": "POD",
-          "detail": {
-            "education": "MBA, Washington University in St. Louis – Finance & Strategy",
-            "opsExposure": "Led cross-functional supply chain optimization at a Fortune 500 manufacturer. Managed $12M logistics budget.",
-            "leadershipDepth": "Supervised a team of 8 analysts. Drove quarterly planning cycles across 3 regional offices.",
-            "relocation": "Open to Relocate",
-            "leaderNotes": "Exceptional strategic thinker. Very strong communicator—stood out in group exercise. Recommended by 2 leaders independently.",
-            "resumeSummary": "5 years progressive experience in operations and strategy. Strong analytical background with demonstrated P&L ownership. Published internal white paper on lean methodology adoption."
-          }
-        },
-        {
-          "name": "Sarah Thompson",
-          "resume": 4.1,
-          "fit": 4.0,
-          "leaderFlags": 1,
-          "final": 4.2,
-          "status": "Interview",
-          "detail": {
-            "education": "BS Industrial Engineering, Missouri S&T",
-            "opsExposure": "Process improvement engineer at mid-size manufacturer. Led Kaizen events and implemented 5S across two facilities.",
-            "leadershipDepth": "Informal team lead for 4-person continuous improvement squad. Presented results to plant leadership monthly.",
-            "relocation": "Open to Relocate",
-            "leaderNotes": "Strong technical foundation. Needs more leadership seasoning but shows high ceiling. Good culture fit.",
-            "resumeSummary": "3 years in manufacturing engineering. Six Sigma Green Belt certified. Reduced defect rate by 22% on flagship product line."
-          }
-        },
-        {
-          "name": "Chris Lopez",
-          "resume": 3.6,
-          "fit": 3.5,
-          "leaderFlags": 0,
-          "final": 3.5,
-          "status": "Hold",
-          "detail": {
-            "education": "BS Business Administration, Saint Louis University",
-            "opsExposure": "Rotational analyst in corporate planning. Limited direct operations exposure but strong analytical toolkit.",
-            "leadershipDepth": "No direct reports. Active in campus leadership—student body VP, case competition captain.",
-            "relocation": "Local Only",
-            "leaderNotes": "Promising but early career. Needs more operational reps before POD consideration. Revisit in 6 months.",
-            "resumeSummary": "1 year post-grad experience in corporate strategy. Dean's list honors. Strong Excel/SQL skills. Interned at regional logistics firm."
-          }
-        },
-        {
-          "name": "Amanda Reed",
-          "resume": 4.2,
-          "fit": 4.5,
-          "leaderFlags": 2,
-          "final": 4.5,
-          "status": "POD",
-          "detail": {
-            "education": "MS Supply Chain Management, University of Michigan",
-            "opsExposure": "Supply chain manager at automotive tier-1 supplier. Owned end-to-end logistics for $40M product line.",
-            "leadershipDepth": "Managed cross-functional team of 12. Led vendor negotiations saving $2.4M annually. Mentored 3 junior analysts.",
-            "relocation": "Open to Relocate",
-            "leaderNotes": "Immediately impressed both interviewers. Deep operational knowledge combined with executive presence. Top candidate.",
-            "resumeSummary": "6 years in supply chain and operations. APICS CSCP certified. Track record of cost reduction and process redesign. Published speaker at CSCMP conference."
-          }
-        },
-        {
-          "name": "Marcus Lee",
-          "resume": 3.8,
-          "fit": 4.0,
-          "leaderFlags": 1,
-          "final": 4.0,
-          "status": "Interview",
-          "detail": {
-            "education": "BBA Operations Management, University of Missouri – Columbia",
-            "opsExposure": "Operations coordinator at regional distribution center. Managed daily throughput for 200+ SKU facility.",
-            "leadershipDepth": "Shift supervisor for team of 6. Implemented new scheduling system that reduced overtime by 15%.",
-            "relocation": "Open to Relocate",
-            "leaderNotes": "Solid operational instincts. Showed good problem-solving in case study. Could benefit from broader strategic exposure.",
-            "resumeSummary": "4 years in distribution and warehouse operations. Lean Six Sigma Yellow Belt. Promoted twice in 3 years. Strong references from direct supervisors."
-          }
-        },
-        {
-          "name": "Taylor Grant",
-          "resume": 3.4,
-          "fit": 3.0,
-          "leaderFlags": 0,
-          "final": 3.3,
-          "status": "Hold",
-          "detail": {
-            "education": "BA Communications, Truman State University",
-            "opsExposure": "Marketing operations assistant. Exposure to project timelines and vendor coordination but not core ops.",
-            "leadershipDepth": "No direct leadership experience. Active volunteer coordinator for local nonprofit.",
-            "relocation": "Local Only",
-            "leaderNotes": "Personable and enthusiastic but lacks operational depth for current openings. Better fit for a different track.",
-            "resumeSummary": "2 years in marketing operations support. Strong communication skills. Organized 3 regional events with 500+ attendees. Looking to transition into core operations."
-          }
-        }
-      ],
-      "leaderSentiment": {
-        "submissions": 7,
-        "recommendedForInterview": 4,
-        "avgRecommendationScore": 0.71,
-        "breakdown": {
-          "yes": 5,
-          "maybe": 3,
-          "no": 2
-        },
-        "topEndorsed": [
-          { "name": "John Mitchell", "endorsements": 2 },
-          { "name": "Amanda Reed", "endorsements": 2 }
-        ]
-      },
-      "funnel": {
-        "rsvp": 48,
-        "attended": 35,
-        "resumes": 32,
-        "highPotential": 6,
-        "pod": 3
-      },
-      "conversionRates": {
-        "rsvpToAttendance": 73,
-        "attendanceToHighPotential": 17,
-        "highPotentialToPod": 50
-      },
-      "healthSummary": "Moderate quality density. Strong early-career representation. Recommend strengthening university targeting for next Midwest event."
-    },
-    {
       "id": "royaloaks",
       "city": "Royal Oaks",
       "location": "Michigan",
       "date": "3/5",
       "time": "5–7 PM",
-      "status": "in_progress",
+      "status": "completed",
       "metrics": {
         "rsvp": 31,
         "attended": 11,
-        "resumes": 7,
-        "highPotential": 0,
-        "podReady": 0,
-        "strongRate": 0
+        "resumes": 10,
+        "highPotential": 6,
+        "podReady": 2,
+        "strongRate": 55
       },
-      "summary": "11 of 31 RSVPs attended (35% conversion). 7 resumes collected. Heavy operations and management interest. No leadership check-ins were conducted at this event — candidate evaluations pending.",
+      "summary": "11 of 31 RSVPs attended (35% conversion). 10 resumes scored by algorithm. 6 candidates received leader/team feedback — all advancing. 2 recommended for POD interview by Regional Ops Director. 4 candidates still pending leader evaluation. 55% strong candidate rate — highest density event to date.",
       "demographics": {
         "education": [
-          { "label": "Graduate Degree", "value": 18 },
-          { "label": "Bachelor's Degree", "value": 55 },
-          { "label": "Associates / Some College", "value": 27 }
+          {
+            "label": "Masters Degree",
+            "value": 36,
+            "count": 4
+          },
+          {
+            "label": "Bachelor's Degree",
+            "value": 27,
+            "count": 3
+          },
+          {
+            "label": "Associates",
+            "value": 18,
+            "count": 2
+          },
+          {
+            "label": "High School / Some College",
+            "value": 18,
+            "count": 2
+          }
         ],
         "experience": [
-          { "label": "Entry Level", "value": 9 },
-          { "label": "Operations Mid/Senior", "value": 45 },
-          { "label": "Management Track", "value": 45 }
+          {
+            "label": "Early Career (0–3 yrs)",
+            "value": 10,
+            "count": 1
+          },
+          {
+            "label": "Senior MIT (4–6 yrs)",
+            "value": 40,
+            "count": 4
+          },
+          {
+            "label": "Experienced (7+ yrs)",
+            "value": 50,
+            "count": 5
+          }
         ],
         "relocation": {
           "open": 64,
-          "localOnly": 36
+          "localOnly": 36,
+          "openCount": 7,
+          "localCount": 4
         }
       },
       "candidates": [
         {
-          "name": "Davon Meikle",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
-          "detail": {
-            "education": "University of Phoenix – CEH",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
-            "relocation": "Open to Relocate",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "Resume uploaded. Entry level candidate. Available immediately."
-          }
-        },
-        {
-          "name": "Charda Williams",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
-          "detail": {
-            "education": "Central Michigan University",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
-            "relocation": "Open to Relocate",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior and Manager in Training. Available immediately."
-          }
-        },
-        {
-          "name": "Lynette Burnette",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
-          "detail": {
-            "education": "University of Phoenix – Masters in Business",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
-            "relocation": "Open to Relocate",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior and Manager in Training. Available within 2 weeks."
-          }
-        },
-        {
           "name": "Gerson Santos",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
+          "rank": 1,
+          "resume": 51.3,
+          "fit": 94.0,
+          "leaderFlags": 3,
+          "final": 68.4,
+          "status": "POD",
+          "fitSource": "leader+team",
+          "mitBadge": "",
+          "track": "EXPERIENCED",
+          "role": "site manager",
+          "careerStage": "Experienced",
+          "trueMitBonus": 0.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "MAJOR_MISMATCH",
+          "mismatchDetails": [
+            "Leaders rated much higher than resume (94 vs 51) — resume may undersell this candidate"
+          ],
+          "resumeDimensions": {
+            "leadership": 8.4,
+            "initiative": 5.0,
+            "reliability": 6.1,
+            "communication": 5.3,
+            "problemSolving": 4.9,
+            "operations": 6.2,
+            "customerService": 0.0,
+            "communityTeamwork": 2.9,
+            "coachability": 2.6,
+            "education": 3.0
+          },
+          "resumeStrengths": [
+            "Leadership Potential (8.4/10)"
+          ],
+          "resumeGaps": [
+            "Education Fit (3.0/10)",
+            "Community & Teamwork (2.9/10)",
+            "Coachability / Learning Agility (2.6/10)",
+            "Customer / Service (0.0/10)"
+          ],
+          "sentimentDimensions": {
+            "leaderConviction": 10.0,
+            "impressionStrength": 10.0,
+            "effortInitiative": 10.0,
+            "roleAlignment": 6.0,
+            "concernSeverity": 10.0
+          },
+          "benchmarkMatch": "PAUL BLACK (42%)",
+          "location": "Michigan",
           "detail": {
-            "education": "Eastern Michigan University – Some College",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
+            "education": "Eastern Michigan University — Some College (no degree completed)",
             "relocation": "Open to Relocate",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "No resume uploaded. Interested in Operations Mid/Senior. Available immediately."
-          }
-        },
-        {
-          "name": "Clifton Johnson",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
-          "detail": {
-            "education": "Wayne State University",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
-            "relocation": "Open to Relocate",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior. Available within 2 weeks."
-          }
-        },
-        {
-          "name": "Brandon DuBose",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
-          "detail": {
-            "education": "SchoolCraft College – Associates in Business Administration",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
-            "relocation": "Local Only",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior. Available immediately."
-          }
-        },
-        {
-          "name": "Lisa Nalepa",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
-          "detail": {
-            "education": "Macomb Community College",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
-            "relocation": "Local Only",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior and Manager in Training. Available immediately."
+            "leaderNotes": "Arturo Vargas: Recommended for POD interview. Team: 'Drove from Cleveland (3 hrs) in thunderstorms. Showed up 15 min before end. Currently at an Amazon site SBM used to have.'"
           }
         },
         {
           "name": "Christopher Saucedo",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
+          "rank": 2,
+          "resume": 53.8,
+          "fit": 76.6,
+          "leaderFlags": 0,
+          "final": 67.7,
+          "status": "Interview",
+          "fitSource": "team_only",
+          "mitBadge": "TRUE MIT",
+          "track": "MIT",
+          "role": "MIT",
+          "careerStage": "Early Career MIT",
+          "trueMitBonus": 5.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "MODERATE_MISMATCH",
+          "mismatchDetails": [
+            "Leaders more positive than resume suggests (77 vs 54)"
+          ],
+          "resumeDimensions": {
+            "leadership": 5.7,
+            "initiative": 6.5,
+            "reliability": 5.2,
+            "communication": 4.0,
+            "problemSolving": 5.4,
+            "operations": 5.4,
+            "customerService": 0.0,
+            "communityTeamwork": 0.0,
+            "coachability": 8.2,
+            "education": 8.0
+          },
+          "resumeStrengths": [
+            "Coachability / Learning Agility (8.2/10)",
+            "Education Fit (8.0/10)"
+          ],
+          "resumeGaps": [
+            "Customer / Service (0.0/10)",
+            "Community & Teamwork (0.0/10)"
+          ],
+          "sentimentDimensions": {
+            "leaderConviction": 5.0,
+            "impressionStrength": 10.0,
+            "effortInitiative": 5.8,
+            "roleAlignment": 10.0,
+            "concernSeverity": 10.0
+          },
+          "benchmarkMatch": "Jonas Williams (34%)",
+          "location": "Livonia, MI",
           "detail": {
-            "education": "Wayne State University",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
+            "education": "BS Global Supply Chain Management, Wayne State University; AS Supply Chain, Henry Ford College",
             "relocation": "Open to Relocate",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "No resume uploaded. Interested in Operations Mid/Senior and Manager in Training. Available within 2 weeks."
+            "leaderNotes": "Team: 'Wayne State Supply Chain graduate at Ideal Shield. Hard working, dedicated, always ready to learn and gain new experiences.'"
+          }
+        },
+        {
+          "name": "Clifton Johnson",
+          "rank": 3,
+          "resume": 56.6,
+          "fit": 78.2,
+          "leaderFlags": 2,
+          "final": 65.2,
+          "status": "Interview",
+          "fitSource": "leader+team",
+          "mitBadge": "",
+          "track": "EXPERIENCED",
+          "role": "site manager",
+          "careerStage": "Experienced",
+          "trueMitBonus": 0.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "MODERATE_MISMATCH",
+          "mismatchDetails": [
+            "Leaders more positive than resume suggests (78 vs 57)"
+          ],
+          "resumeDimensions": {
+            "leadership": 6.6,
+            "initiative": 6.5,
+            "reliability": 6.8,
+            "communication": 2.9,
+            "problemSolving": 6.2,
+            "operations": 6.9,
+            "customerService": 4.1,
+            "communityTeamwork": 0.0,
+            "coachability": 4.6,
+            "education": 9.0
+          },
+          "resumeStrengths": [
+            "Education Fit (9.0/10)"
+          ],
+          "resumeGaps": [
+            "Communication (2.9/10)",
+            "Community & Teamwork (0.0/10)"
+          ],
+          "sentimentDimensions": {
+            "leaderConviction": 6.0,
+            "impressionStrength": 10.0,
+            "effortInitiative": 6.6,
+            "roleAlignment": 10.0,
+            "concernSeverity": 7.0
+          },
+          "benchmarkMatch": "DANE DELAND (49%)",
+          "location": "Flat Rock, MI",
+          "detail": {
+            "education": "Masters in Human Resources, Wayne State University; BS Film, Full Sail University",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "Arturo Vargas: Proactively flagged for further review. Team: 'Remarkable operational improvements at FedEx. Pursuing MBA with HR focus.' Soft concern: was quiet at event — validate in follow-up."
+          }
+        },
+        {
+          "name": "Charda Williams",
+          "rank": 4,
+          "resume": 48.7,
+          "fit": 75.0,
+          "leaderFlags": 0,
+          "final": 64.0,
+          "status": "Interview",
+          "fitSource": "team_only",
+          "mitBadge": "TRUE MIT",
+          "track": "MIT",
+          "role": "MIT",
+          "careerStage": "Early Career MIT",
+          "trueMitBonus": 5.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "MAJOR_MISMATCH",
+          "mismatchDetails": [
+            "Leaders rated much higher than resume (75 vs 49) — resume may undersell this candidate"
+          ],
+          "resumeDimensions": {
+            "leadership": 7.2,
+            "initiative": 4.0,
+            "reliability": 5.8,
+            "communication": 4.0,
+            "problemSolving": 3.0,
+            "operations": 6.4,
+            "customerService": 0.0,
+            "communityTeamwork": 0.8,
+            "coachability": 1.0,
+            "education": 9.0
+          },
+          "resumeStrengths": [
+            "Education Fit (9.0/10)",
+            "Leadership Potential (7.2/10)"
+          ],
+          "resumeGaps": [
+            "Problem-Solving (3.0/10)",
+            "Coachability / Learning Agility (1.0/10)",
+            "Community & Teamwork (0.8/10)",
+            "Customer / Service (0.0/10)"
+          ],
+          "sentimentDimensions": {
+            "leaderConviction": 5.0,
+            "impressionStrength": 10.0,
+            "effortInitiative": 5.0,
+            "roleAlignment": 10.0,
+            "concernSeverity": 10.0
+          },
+          "benchmarkMatch": "DANE DELAND (38%)",
+          "location": "",
+          "detail": {
+            "education": "Masters in HR Management, Central Michigan University",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "Team: 'Strong operations leader with demonstrated success managing large teams, complex logistics, and high-volume distribution for Fortune 500 clients.'"
+          }
+        },
+        {
+          "name": "Lynette Burnette",
+          "rank": 5,
+          "resume": 59.0,
+          "fit": 75.0,
+          "leaderFlags": 0,
+          "final": 63.2,
+          "status": "Interview",
+          "fitSource": "team_only",
+          "mitBadge": "",
+          "track": "EXPERIENCED",
+          "role": "ops manager",
+          "careerStage": "Experienced",
+          "trueMitBonus": 0.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "MODERATE_MISMATCH",
+          "mismatchDetails": [
+            "Leaders more positive than resume suggests (75 vs 59)"
+          ],
+          "resumeDimensions": {
+            "leadership": 8.4,
+            "initiative": 7.5,
+            "reliability": 7.2,
+            "communication": 3.7,
+            "problemSolving": 3.9,
+            "operations": 7.8,
+            "customerService": 2.6,
+            "communityTeamwork": 0.0,
+            "coachability": 4.1,
+            "education": 9.0
+          },
+          "resumeStrengths": [
+            "Education Fit (9.0/10)",
+            "Leadership Potential (8.4/10)",
+            "Operations Exposure (7.8/10)",
+            "Initiative / Drive (7.5/10)",
+            "Reliability / Track Record (7.2/10)"
+          ],
+          "resumeGaps": [
+            "Problem-Solving (3.9/10)",
+            "Communication (3.7/10)",
+            "Customer / Service (2.6/10)",
+            "Community & Teamwork (0.0/10)"
+          ],
+          "sentimentDimensions": {
+            "leaderConviction": 5.0,
+            "impressionStrength": 10.0,
+            "effortInitiative": 5.0,
+            "roleAlignment": 10.0,
+            "concernSeverity": 10.0
+          },
+          "benchmarkMatch": "Rade Kukobat (Jr.) (48%)",
+          "location": "Detroit, MI",
+          "detail": {
+            "education": "Masters in Business Management (University of Phoenix)",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "Team: 'Accomplished logistics manager. Visionary leader, persuasive communicator, team collaborator with track record growing global organizations.' No concerns raised."
           }
         },
         {
           "name": "Jacob Zochowski",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
+          "rank": 6,
+          "resume": 59.5,
+          "fit": 80.7,
+          "leaderFlags": 2,
+          "final": 63.0,
+          "status": "POD",
+          "fitSource": "leader+team",
+          "mitBadge": "SENIOR MIT",
+          "track": "MIT",
+          "role": "ops manager",
+          "careerStage": "Senior MIT",
+          "trueMitBonus": 0.0,
+          "relocPenalty": 5.0,
+          "mismatchFlag": "MODERATE_MISMATCH",
+          "mismatchDetails": [
+            "Leaders more positive than resume suggests (81 vs 60)"
+          ],
+          "resumeDimensions": {
+            "leadership": 8.1,
+            "initiative": 6.5,
+            "reliability": 7.2,
+            "communication": 2.9,
+            "problemSolving": 7.4,
+            "operations": 6.4,
+            "customerService": 2.5,
+            "communityTeamwork": 0.8,
+            "coachability": 4.1,
+            "education": 8.0
+          },
+          "resumeStrengths": [
+            "Leadership Potential (8.1/10)",
+            "Education Fit (8.0/10)",
+            "Problem-Solving (7.4/10)",
+            "Reliability / Track Record (7.2/10)"
+          ],
+          "resumeGaps": [
+            "Communication (2.9/10)",
+            "Customer / Service (2.5/10)",
+            "Community & Teamwork (0.8/10)"
+          ],
+          "sentimentDimensions": {
+            "leaderConviction": 10.0,
+            "impressionStrength": 10.0,
+            "effortInitiative": 6.6,
+            "roleAlignment": 7.0,
+            "concernSeverity": 2.0
+          },
+          "benchmarkMatch": "PAUL BLACK (42%)",
+          "location": "Detroit, MI",
           "detail": {
-            "education": "Eastern Michigan University",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
+            "education": "BS Business Administration, Eastern Michigan University; AS Supply Chain Management, Henry Ford College",
+            "relocation": "Local Only — not open to relocate for another year",
+            "leaderNotes": "Arturo Vargas: 'Jacob really stood out — charisma, asked great questions, demonstrated genuine interest and readiness to get to work. Would love this kid on my team.' Recommended for POD interview. Relocation constraint flagged."
+          }
+        },
+        {
+          "name": "Latasha Marie Tillman",
+          "rank": 7,
+          "resume": 61.8,
+          "fit": 69.5,
+          "leaderFlags": 0,
+          "final": 61.8,
+          "status": "Pending",
+          "fitSource": "trait_estimate",
+          "mitBadge": "",
+          "track": "EXPERIENCED",
+          "role": "ops manager",
+          "careerStage": "Experienced",
+          "trueMitBonus": 0.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "",
+          "mismatchDetails": [],
+          "resumeDimensions": {
+            "leadership": 8.1,
+            "initiative": 7.5,
+            "reliability": 6.8,
+            "communication": 4.8,
+            "problemSolving": 7.6,
+            "operations": 6.2,
+            "customerService": 1.6,
+            "communityTeamwork": 2.1,
+            "coachability": 4.1,
+            "education": 9.0
+          },
+          "resumeStrengths": [
+            "Education Fit (9.0/10)",
+            "Leadership Potential (8.1/10)",
+            "Problem-Solving (7.6/10)",
+            "Initiative / Drive (7.5/10)"
+          ],
+          "resumeGaps": [
+            "Community & Teamwork (2.1/10)",
+            "Customer / Service (1.6/10)"
+          ],
+          "sentimentDimensions": null,
+          "benchmarkMatch": "PAUL BLACK (41%)",
+          "location": "Walled Lake, MI",
+          "detail": {
+            "education": "Masters in Adult Education & Training; BS Marketing (University of Phoenix)",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "No leader check-in submitted. Resume scored but awaiting leader feedback."
+          }
+        },
+        {
+          "name": "Lisa Nalepa",
+          "rank": 8,
+          "resume": 56.8,
+          "fit": 65.7,
+          "leaderFlags": 0,
+          "final": 56.8,
+          "status": "Pending",
+          "fitSource": "trait_estimate",
+          "mitBadge": "",
+          "track": "EXPERIENCED",
+          "role": "ops manager",
+          "careerStage": "Experienced",
+          "trueMitBonus": 0.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "",
+          "mismatchDetails": [],
+          "resumeDimensions": {
+            "leadership": 8.4,
+            "initiative": 7.5,
+            "reliability": 7.2,
+            "communication": 1.9,
+            "problemSolving": 4.9,
+            "operations": 7.4,
+            "customerService": 4.1,
+            "communityTeamwork": 0.0,
+            "coachability": 3.6,
+            "education": 5.0
+          },
+          "resumeStrengths": [
+            "Leadership Potential (8.4/10)",
+            "Initiative / Drive (7.5/10)",
+            "Operations Exposure (7.4/10)",
+            "Reliability / Track Record (7.2/10)"
+          ],
+          "resumeGaps": [
+            "Coachability / Learning Agility (3.6/10)",
+            "Communication (1.9/10)",
+            "Community & Teamwork (0.0/10)"
+          ],
+          "sentimentDimensions": null,
+          "benchmarkMatch": "DANE DELAND (45%)",
+          "location": "Mount Clemens, MI",
+          "detail": {
+            "education": "Associates in Business, Macomb Community College",
             "relocation": "Local Only",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "Resume uploaded. Interested in Operations Mid/Senior. Available immediately."
+            "leaderNotes": "No leader check-in submitted. Resume scored but awaiting leader feedback."
+          }
+        },
+        {
+          "name": "Davon Shawn Meikle",
+          "rank": 9,
+          "resume": 50.5,
+          "fit": 41.9,
+          "leaderFlags": 0,
+          "final": 55.5,
+          "status": "Pending",
+          "fitSource": "trait_estimate",
+          "mitBadge": "TRUE MIT",
+          "track": "MIT",
+          "role": "MIT",
+          "careerStage": "Early Career MIT",
+          "trueMitBonus": 5.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "",
+          "mismatchDetails": [],
+          "resumeDimensions": {
+            "leadership": 2.4,
+            "initiative": 4.1,
+            "reliability": 5.6,
+            "communication": 4.7,
+            "problemSolving": 6.4,
+            "operations": 3.9,
+            "customerService": 5.4,
+            "communityTeamwork": 3.7,
+            "coachability": 7.7,
+            "education": 3.0
+          },
+          "resumeStrengths": [
+            "Coachability / Learning Agility (7.7/10)"
+          ],
+          "resumeGaps": [
+            "Operations Exposure (3.9/10)",
+            "Community & Teamwork (3.7/10)",
+            "Education Fit (3.0/10)",
+            "Leadership Potential (2.4/10)"
+          ],
+          "sentimentDimensions": null,
+          "benchmarkMatch": "Joshua M. Pagan PMP PMI-ACP (31%)",
+          "location": "Detroit, Michigan",
+          "detail": {
+            "education": "University of Phoenix — CEH Certification (no degree completed)",
+            "relocation": "Open to Relocate",
+            "leaderNotes": "No leader check-in submitted. Resume scored but awaiting leader feedback."
+          }
+        },
+        {
+          "name": "Brandon M. DuBose",
+          "rank": 10,
+          "resume": 49.9,
+          "fit": 53.4,
+          "leaderFlags": 0,
+          "final": 49.9,
+          "status": "Pending",
+          "fitSource": "trait_estimate",
+          "mitBadge": "",
+          "track": "EXPERIENCED",
+          "role": "MIT",
+          "careerStage": "MIT",
+          "trueMitBonus": 0.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "",
+          "mismatchDetails": [],
+          "resumeDimensions": {
+            "leadership": 6.5,
+            "initiative": 4.7,
+            "reliability": 5.0,
+            "communication": 1.9,
+            "problemSolving": 7.0,
+            "operations": 6.9,
+            "customerService": 1.0,
+            "communityTeamwork": 2.9,
+            "coachability": 4.5,
+            "education": 5.0
+          },
+          "resumeStrengths": [
+            "Problem-Solving (7.0/10)"
+          ],
+          "resumeGaps": [
+            "Community & Teamwork (2.9/10)",
+            "Communication (1.9/10)",
+            "Customer / Service (1.0/10)"
+          ],
+          "sentimentDimensions": null,
+          "benchmarkMatch": "Joshua M. Pagan PMP PMI-ACP (46%)",
+          "location": "Farmington Hills, MI",
+          "detail": {
+            "education": "Associates in Business Administration, Schoolcraft College",
+            "relocation": "Local Only",
+            "leaderNotes": "No leader check-in submitted. Resume scored but awaiting leader feedback."
           }
         },
         {
           "name": "Sinda Mills",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
+          "rank": 0,
+          "resume": 0,
+          "fit": 0,
+          "leaderFlags": 0,
+          "final": 0,
+          "status": "Hold",
+          "fitSource": "none",
+          "mitBadge": "",
+          "track": "",
+          "role": "",
+          "careerStage": "",
+          "trueMitBonus": 0.0,
+          "relocPenalty": 0.0,
+          "mismatchFlag": "",
+          "mismatchDetails": [],
+          "resumeDimensions": null,
+          "resumeStrengths": [],
+          "resumeGaps": [],
+          "sentimentDimensions": null,
+          "benchmarkMatch": "",
+          "location": "",
           "detail": {
-            "education": "University of Phoenix – BA in Management",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
+            "education": "University of Phoenix — BA in Management",
             "relocation": "Local Only",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "No resume uploaded. Interested in Manager in Training. Available in more than 1 month."
-          }
-        },
-        {
-          "name": "LaTasha Tillman",
-          "resume": 0, "fit": 0, "leaderFlags": 0, "final": 0,
-          "status": "Pending",
-          "detail": {
-            "education": "University of Phoenix – Masters in Adult Education & Training, Bachelor's in Marketing",
-            "opsExposure": "Not yet evaluated",
-            "leadershipDepth": "Not yet evaluated",
-            "relocation": "Open to Relocate",
-            "leaderNotes": "No leader check-in submitted",
-            "resumeSummary": "No resume uploaded. Interested in Operations Mid/Senior. Available immediately."
+            "leaderNotes": "No resume submitted. No leader check-in submitted."
           }
         }
       ],
-      "leaderSentiment": null,
+      "leaderSentiment": {
+        "submissions": 2,
+        "recommendedForInterview": 6,
+        "avgRecommendationScore": 0.8,
+        "breakdown": {
+          "yes": 5,
+          "maybe": 1,
+          "no": 0
+        },
+        "topEndorsed": [
+          {
+            "name": "Jacob Zochowski",
+            "endorsements": 2
+          },
+          {
+            "name": "Gerson Santos",
+            "endorsements": 2
+          }
+        ],
+        "sources": [
+          {
+            "reviewer": "Arturo Vargas",
+            "title": "Regional Operations Director",
+            "weight": 1.5,
+            "podRecommend": [
+              "Jacob Zochowski",
+              "Gerson Santos"
+            ],
+            "furtherReview": [
+              "Clifton Johnson"
+            ],
+            "poolQuality": "very_strong",
+            "standoutNote": "Jacob really stood out — charisma, asked great questions, demonstrated genuine interest and readiness to get to work."
+          },
+          {
+            "reviewer": "Hiring Team",
+            "title": "Collective Team Notes",
+            "weight": 1.0,
+            "candidatesReviewed": 6,
+            "allContinue": true
+          }
+        ]
+      },
+      "eventFeedback": {
+        "totalResponses": 6,
+        "attendeeCount": 11,
+        "avgRating": 5.0,
+        "maxRating": 5,
+        "helpedUnderstand": {
+          "yes": 6,
+          "somewhat": 0,
+          "no": 0
+        },
+        "interestLevel": {
+          "veryInterested": 5,
+          "somewhatInterested": 1,
+          "notInterested": 0
+        },
+        "careerStage": [
+          {
+            "label": "Recent Graduate (0–2 yrs)",
+            "count": 1
+          },
+          {
+            "label": "Early Career (2–5 yrs)",
+            "count": 1
+          },
+          {
+            "label": "Experienced (5+ yrs)",
+            "count": 4
+          }
+        ],
+        "rolesOfInterest": [
+          {
+            "label": "Manager-in-Training (MIT)",
+            "count": 5
+          },
+          {
+            "label": "Operations / Site Leadership",
+            "count": 3
+          },
+          {
+            "label": "Corporate / Business Roles",
+            "count": 2
+          },
+          {
+            "label": "General Career Exploration",
+            "count": 1
+          }
+        ],
+        "improvements": [
+          {
+            "label": "More role/program details",
+            "count": 2
+          },
+          {
+            "label": "Nothing — it was great",
+            "count": 3
+          },
+          {
+            "label": "Clearer application steps",
+            "count": 1
+          }
+        ],
+        "highlights": [
+          "The event was great and a refreshing approach to the application process. It felt genuinely human and engaging. One suggestion would be to provide a bit more clarity ahead of time about the format. I was expecting more of an open house, but overall it was a really positive experience."
+        ]
+      },
       "funnel": {
         "rsvp": 31,
         "attended": 11,
-        "resumes": 7,
-        "highPotential": 0,
-        "pod": 0
+        "resumes": 10,
+        "highPotential": 6,
+        "pod": 2
       },
       "conversionRates": {
         "rsvpToAttendance": 35,
-        "attendanceToHighPotential": 0,
-        "highPotentialToPod": 0
+        "attendanceToHighPotential": 55,
+        "highPotentialToPod": 33
       },
-      "healthSummary": "35% RSVP-to-attendance conversion. Strong operations and management interest. No leadership evaluations were conducted — recommend scheduling leader check-ins for future events."
+      "healthSummary": "35% RSVP-to-attendance. 55% strong candidate rate — highest density of any event. 2 POD-ready candidates identified (Jacob Zochowski, Gerson Santos). 4 candidates still pending leader evaluation — recommend scheduling follow-up check-ins. Leader engagement strong: Arturo Vargas proactively submitted feedback and identified himself despite anonymous form."
+    },
+    {
+      "id": "stl",
+      "city": "St. Louis",
+      "date": "3/26",
+      "time": "5–7 PM",
+      "status": "upcoming"
     },
     {
       "id": "sac",

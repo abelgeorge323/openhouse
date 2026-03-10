@@ -1,0 +1,11 @@
+candidate_name,email,phone,location,education_level,years_experience,roles_count,leadership_roles,career_stage,resume_score,resume_rank,combined_score,combined_rank,sentiment_score,sentiment_confidence,recommended_role,status,mismatch_flag
+Brandon M. DuBose,brandondubose2020@gmail.com,(313) 949-8543,"Farmington Hills, MI",associates,5.2,3,2,Senior MIT,53.4,9,53.4,9,,,,,NO_SENTIMENT
+Charda Williams,williams.charda16@gmail.com,(248) 508-2939,,masters,4.6,3,3,Senior MIT,53.8,8,59.3,8,75.0,0.65,MIT,continue,MODERATE_MISMATCH
+Christopher Saucedo,Saucedo.chris205@gmail.com,(313) 753-0244,"Livonia, MI",bachelors,3.0,3,1,Early Career MIT,57.7,6,62.6,7,76.6,0.65,MIT,continue,MODERATE_MISMATCH
+Clifton Johnson,Cliftonk33@gmail.com,(734) 787-1081,"Flat Rock, MI",masters,11.5,4,4,Experienced,62.5,5,68.4,5,77.2,1.0,MIT,continue,
+Davon Shawn Meikle,Davonsmeikle@gmail.com,(313)-484-7036,"Detroit, Michigan",high_school,4.2,2,0,Senior MIT,45.1,10,45.1,10,,,,,NO_SENTIMENT
+Gerson Jonathan Santos,johnsantos.1018@gmail.com,(734) 767-4827,Michigan,high_school,14.5,3,3,Experienced,57.4,7,72.0,2,94.0,1.0,site_manager,continue,MAJOR_MISMATCH
+Jacob Zochowski,jakez6396@gmail.com,(207) 891-0111,"Detroit, MI",bachelors,6.5,5,5,Senior MIT,67.7,3,72.9,1,80.7,1.0,ops_manager,continue,
+Latasha Marie Tillman,latashamotion21@yahoo.com,313-318-6834,"Walled Lake, MI",masters,16.4,6,6,Experienced,69.5,1,69.5,4,,,,,NO_SENTIMENT
+Lisa Nalepa,lisamnalepa@gmail.com,586-219-3547,"Mount Clemens, MI",associates,15.5,4,4,Experienced,65.5,4,65.5,6,,,,,NO_SENTIMENT
+Lynette N. Burnette,lynburnett82@gmail.com,480-678-5133,"Detroit, MI",masters,10.5,7,7,Experienced,67.8,2,69.7,3,75.0,0.65,MIT,continue,

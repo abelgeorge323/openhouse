@@ -1,0 +1,43 @@
+
+======================================================================
+  COMBINED SCORECARD: CHRISTOPHER SAUCEDO
+  Final: 65.6 / 100  |  Resume: 57.7  |  Fit: 76.6 (team_only)  |  Rank: 6 of 10
+======================================================================
+
+  Recommended Role: MIT
+  Status: INTERVIEW_CONSIDER
+  Career Stage: Early Career MIT
+  MIT Badge: TRUE MIT
+  Leader Flags: 0
+  True MIT Bonus: +3 pts (early career ideal profile)
+
+  LEADER & TEAM ASSESSMENT:
+  ----------------------------------------
+    Leader Conviction (30%)
+      > Arturo Vargas (Regional Operations Director) — not mentioned (neutral)
+
+    Impression Strength (25%)
+      > Positive signals (3): dedicated, hard working, ready to learn
+
+    Effort & Initiative (20%)
+      > Effort signals: dedicated
+
+    Role Alignment (15%)
+      > Recommended for MIT — exact match with target role
+
+    Concern Severity (10%)
+      > No concerns raised — clean candidate
+
+    Blending (0%)
+      > Confidence-adjusted blend: resume 74% / sentiment 26%
+
+  RESUME STRENGTHS:
+    + Education Fit (8.0/10)
+
+  RESUME GAPS:
+    - Customer / Service (0.0/10)
+
+  *** MODERATE_MISMATCH ***
+    >> Leaders more positive than resume suggests (77 vs 58)
+
+======================================================================

@@ -1,0 +1,237 @@
+[
+  {
+    "candidate_name": "Charda Williams",
+    "sentiment_score": 75.0,
+    "dimensions": {
+      "leader_conviction": 5.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 5.0,
+      "role_alignment": 10.0,
+      "concern_severity": 10.0
+    },
+    "reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+      ],
+      "impression_strength": [
+        "Positive signals (3): strong, leader, success"
+      ],
+      "effort_initiative": [
+        "No specific effort signals detected — baseline score"
+      ],
+      "role_alignment": [
+        "Recommended for MIT — exact match with target role"
+      ],
+      "concern_severity": [
+        "No concerns raised — clean candidate"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 74% / sentiment 26%"
+      ]
+    },
+    "recommended_role": "MIT",
+    "status": "continue",
+    "reviewer_count": 1,
+    "recommend_count": 0,
+    "review_count": 0,
+    "pass_count": 0,
+    "source_confidence": 0.65
+  },
+  {
+    "candidate_name": "Christopher Saucedo",
+    "sentiment_score": 76.6,
+    "dimensions": {
+      "leader_conviction": 5.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 5.8,
+      "role_alignment": 10.0,
+      "concern_severity": 10.0
+    },
+    "reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+      ],
+      "impression_strength": [
+        "Positive signals (3): dedicated, hard working, ready to learn"
+      ],
+      "effort_initiative": [
+        "Effort signals: dedicated"
+      ],
+      "role_alignment": [
+        "Recommended for MIT — exact match with target role"
+      ],
+      "concern_severity": [
+        "No concerns raised — clean candidate"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 74% / sentiment 26%"
+      ]
+    },
+    "recommended_role": "MIT",
+    "status": "continue",
+    "reviewer_count": 1,
+    "recommend_count": 0,
+    "review_count": 0,
+    "pass_count": 0,
+    "source_confidence": 0.65
+  },
+  {
+    "candidate_name": "Clifton Johnson",
+    "sentiment_score": 77.2,
+    "dimensions": {
+      "leader_conviction": 6.0,
+      "impression_strength": 9.6,
+      "effort_initiative": 6.6,
+      "role_alignment": 10.0,
+      "concern_severity": 7.0
+    },
+    "reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — flagged for further review (weight: 1.5x)"
+      ],
+      "impression_strength": [
+        "Positive signals (12): charisma, strong, great, genuine, stood out, love this",
+        "Negative signals (2): quiet, concern"
+      ],
+      "effort_initiative": [
+        "Effort signals: asked great questions, early"
+      ],
+      "role_alignment": [
+        "Recommended for MIT — exact match with target role"
+      ],
+      "concern_severity": [
+        "Soft concerns (2): quiet, may need",
+        "Flagged as quiet — soft concern, validate in follow-up"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 60% / sentiment 40%"
+      ]
+    },
+    "recommended_role": "MIT",
+    "status": "continue",
+    "reviewer_count": 1,
+    "recommend_count": 0,
+    "review_count": 1,
+    "pass_count": 0,
+    "source_confidence": 1.0
+  },
+  {
+    "candidate_name": "Gerson Santos",
+    "sentiment_score": 94.0,
+    "dimensions": {
+      "leader_conviction": 10.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 10.0,
+      "role_alignment": 6.0,
+      "concern_severity": 10.0
+    },
+    "reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — RECOMMENDED for POD interview (weight: 1.5x)"
+      ],
+      "impression_strength": [
+        "Positive signals (9): charisma, strong, great, genuine, stood out, love this",
+        "Negative signals (1): concern"
+      ],
+      "effort_initiative": [
+        "Flag: high_effort (+2.0)",
+        "Flag: dedication (+1.5)",
+        "Effort signals: drove, thunderstorm, storm, asked great questions, showed up"
+      ],
+      "role_alignment": [
+        "Recommended for site_manager — adjacent to MIT (partial credit)"
+      ],
+      "concern_severity": [
+        "No concerns raised — clean candidate"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 60% / sentiment 40%"
+      ]
+    },
+    "recommended_role": "site_manager",
+    "status": "continue",
+    "reviewer_count": 1,
+    "recommend_count": 1,
+    "review_count": 0,
+    "pass_count": 0,
+    "source_confidence": 1.0
+  },
+  {
+    "candidate_name": "Jacob Zochowski",
+    "sentiment_score": 80.7,
+    "dimensions": {
+      "leader_conviction": 10.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 6.6,
+      "role_alignment": 7.0,
+      "concern_severity": 2.0
+    },
+    "reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — RECOMMENDED for POD interview (weight: 1.5x)"
+      ],
+      "impression_strength": [
+        "Positive signals (9): charisma, strong, great, genuine, stood out, love this",
+        "Negative signals (1): concern"
+      ],
+      "effort_initiative": [
+        "Effort signals: asked great questions, early"
+      ],
+      "role_alignment": [
+        "Recommended for ops_manager — adjacent to MIT (partial credit)"
+      ],
+      "concern_severity": [
+        "Hard concerns (2): relocate, not open to",
+        "Relocation constraint flagged — significant operational limitation"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 60% / sentiment 40%"
+      ]
+    },
+    "recommended_role": "ops_manager",
+    "status": "continue",
+    "reviewer_count": 1,
+    "recommend_count": 1,
+    "review_count": 0,
+    "pass_count": 0,
+    "source_confidence": 1.0
+  },
+  {
+    "candidate_name": "Lynette Burnette",
+    "sentiment_score": 75.0,
+    "dimensions": {
+      "leader_conviction": 5.0,
+      "impression_strength": 10.0,
+      "effort_initiative": 5.0,
+      "role_alignment": 10.0,
+      "concern_severity": 10.0
+    },
+    "reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+      ],
+      "impression_strength": [
+        "Positive signals (10): leader, visionary, persuasive, communicator, collaborator, accomplished"
+      ],
+      "effort_initiative": [
+        "No specific effort signals detected — baseline score"
+      ],
+      "role_alignment": [
+        "Recommended for MIT — exact match with target role"
+      ],
+      "concern_severity": [
+        "No concerns raised — clean candidate"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 74% / sentiment 26%"
+      ]
+    },
+    "recommended_role": "MIT",
+    "status": "continue",
+    "reviewer_count": 1,
+    "recommend_count": 0,
+    "review_count": 0,
+    "pass_count": 0,
+    "source_confidence": 0.65
+  }
+]

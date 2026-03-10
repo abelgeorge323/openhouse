@@ -1,0 +1,58 @@
+
+══════════════════════════════════════════════════════════════════════
+  CANDIDATE SCORECARD: Christopher Saucedo
+  Overall Score: 57.7 / 100  |  Rank: 6 of 10
+══════════════════════════════════════════════════════════════════════
+
+  Leadership Potential         ██████░░░░   5.7 / 10  (22%)
+      > 1 leadership role identified
+      > Key signals: managed, led, trained new
+      > Leadership roles: Welding Robot Operator
+
+  Initiative / Drive           ██████░░░░   6.5 / 10  (15%)
+      > 4 total activities (roles + volunteer + certs)
+      > Certifications: Forklift Operator
+      > Initiative signals: established, designed, improved, train, training
+
+  Reliability / Track Record   █████░░░░░   5.2 / 10  (13%)
+      > 3 roles across 3.0 years of experience
+      > Reliability signals: maintained, compliance, accuracy
+
+  Communication                ████░░░░░░   4.0 / 10  (12%)
+      > Communication skills listed: bilingual
+      > Communication signals: bilingual, training
+      > Floor applied — communication explicitly listed as skill
+
+  Problem-Solving              █████░░░░░   5.4 / 10  (12%)
+      > Problem-solving skills: process_improvement
+      > Problem-solving signals: improved, optimized, process improvement, efficiency
+
+  Operations Exposure          █████░░░░░   5.4 / 10  (12%)
+      > Operations-relevant role types: operations
+      > Other role types: engineering
+      > Operations signals: operations, logistics, supply chain, inventory, warehouse
+
+  Customer / Service           ░░░░░░░░░░   0.0 / 10  (8%)
+      > No direct customer/service experience detected
+
+  Education Fit                ████████░░   8.0 / 10  (6%)
+      > bachelors in Global Supply Chain Management from Wayne State University
+      > associates in Global Supply Chain Management from Henry Ford College
+      > Highest level: Bachelors
+
+  Benchmark Bonus:  +0.9 pts
+  Trait Bonus:      +1.1 pts
+  Most Similar To:  Jonas Williams (34% match)
+
+  Career Stage:  Early Career MIT  (+4.0 pts)
+      > Early career profile: 3.0 years, 3 roles (0–3 yrs = Early Career)
+      > Early career signals: intern
+      > Ideal MIT profile — +4.0 bonus points applied
+
+  STRENGTHS:
+    + Education Fit (8.0/10)
+
+  GAPS:
+    - Customer / Service (0.0/10)
+
+══════════════════════════════════════════════════════════════════════

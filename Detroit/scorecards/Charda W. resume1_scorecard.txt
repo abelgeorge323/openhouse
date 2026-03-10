@@ -1,0 +1,56 @@
+
+══════════════════════════════════════════════════════════════════════
+  CANDIDATE SCORECARD: Profile
+  Overall Score: 48.1 / 100  |  Rank: 10 of 10
+══════════════════════════════════════════════════════════════════════
+
+  Leadership Potential         ███████░░░   7.2 / 10  (22%)
+      > 3 leadership roles out of 3 total
+      > Key signals: managed, led, managed a team
+      > Leadership roles: Operations Manager; Operations Traffic Supervisor; ASSISTANT rental Manager
+
+  Initiative / Drive           ███░░░░░░░   3.3 / 10  (15%)
+      > 3 total activities (roles + volunteer + certs)
+      > Initiative signals: developed
+
+  Reliability / Track Record   █████░░░░░   5.4 / 10  (13%)
+      > 3 roles across 4.7 years of experience
+      > Reliability signals: on time, maintained
+
+  Communication                █░░░░░░░░░   1.0 / 10  (12%)
+      > Communication skills listed: communication
+
+  Problem-Solving              ░░░░░░░░░░   0.0 / 10  (12%)
+      > No explicit problem-solving language found in resume
+
+  Operations Exposure          ██████░░░░   6.5 / 10  (12%)
+      > Operations-relevant role types: management, operations
+      > Other role types: sales
+      > Operations signals: operations, logistics, inventory, dispatch, warehouse
+
+  Customer / Service           █░░░░░░░░░   1.0 / 10  (8%)
+      > Customer-facing role types: sales
+
+  Education Fit                ████████░░   8.0 / 10  (6%)
+      > Bachelor's from Central Michigan University
+      > Associate's
+      > Highest level: Bachelors
+
+  Benchmark Bonus:  +1.8 pts
+  Most Similar To:  Rade Kukobat (Jr.) (46% match)
+
+  Career Stage:  Early Career MIT  (+4.0 pts)
+      > Early career profile: 4.7 years, 3 roles (threshold: <=5.0 yrs, <=6 roles)
+      > Ideal MIT profile — +4.0 bonus points applied
+
+  STRENGTHS:
+    + Education Fit (8.0/10)
+    + Leadership Potential (7.2/10)
+
+  GAPS:
+    - Initiative / Drive (3.3/10)
+    - Communication (1.0/10)
+    - Customer / Service (1.0/10)
+    - Problem-Solving (0.0/10)
+
+══════════════════════════════════════════════════════════════════════

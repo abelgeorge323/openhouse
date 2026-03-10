@@ -1,0 +1,360 @@
+[
+  {
+    "candidate_name": "Jacob Zochowski",
+    "resume_score": 67.7,
+    "sentiment_score": 80.7,
+    "blended_score": 72.9,
+    "resume_rank": 3,
+    "sentiment_rank": 2,
+    "combined_rank": 1,
+    "recommended_role": "ops_manager",
+    "status": "continue",
+    "mismatch_flag": "",
+    "mismatch_details": [],
+    "resume_strengths": [
+      "Leadership Potential (8.1/10)",
+      "Education Fit (8.0/10)",
+      "Problem-Solving (7.4/10)",
+      "Reliability / Track Record (7.2/10)"
+    ],
+    "resume_gaps": [
+      "Customer / Service (3.3/10)",
+      "Communication (2.9/10)"
+    ],
+    "sentiment_reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — RECOMMENDED for POD interview (weight: 1.5x)"
+      ],
+      "impression_strength": [
+        "Positive signals (9): charisma, strong, great, genuine, stood out, love this",
+        "Negative signals (1): concern"
+      ],
+      "effort_initiative": [
+        "Effort signals: asked great questions, early"
+      ],
+      "role_alignment": [
+        "Recommended for ops_manager — adjacent to MIT (partial credit)"
+      ],
+      "concern_severity": [
+        "Hard concerns (2): relocate, not open to",
+        "Relocation constraint flagged — significant operational limitation"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 60% / sentiment 40%"
+      ]
+    }
+  },
+  {
+    "candidate_name": "Gerson Santos",
+    "resume_score": 57.4,
+    "sentiment_score": 94.0,
+    "blended_score": 72.0,
+    "resume_rank": 7,
+    "sentiment_rank": 1,
+    "combined_rank": 2,
+    "recommended_role": "site_manager",
+    "status": "continue",
+    "mismatch_flag": "MAJOR_MISMATCH",
+    "mismatch_details": [
+      "Leaders rated much higher than resume (94 vs 57) — resume may undersell this candidate"
+    ],
+    "resume_strengths": [
+      "Leadership Potential (8.4/10)"
+    ],
+    "resume_gaps": [
+      "Education Fit (3.0/10)",
+      "Customer / Service (0.0/10)"
+    ],
+    "sentiment_reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — RECOMMENDED for POD interview (weight: 1.5x)"
+      ],
+      "impression_strength": [
+        "Positive signals (9): charisma, strong, great, genuine, stood out, love this",
+        "Negative signals (1): concern"
+      ],
+      "effort_initiative": [
+        "Flag: high_effort (+2.0)",
+        "Flag: dedication (+1.5)",
+        "Effort signals: drove, thunderstorm, storm, asked great questions, showed up"
+      ],
+      "role_alignment": [
+        "Recommended for site_manager — adjacent to MIT (partial credit)"
+      ],
+      "concern_severity": [
+        "No concerns raised — clean candidate"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 60% / sentiment 40%"
+      ]
+    }
+  },
+  {
+    "candidate_name": "Lynette Burnette",
+    "resume_score": 67.8,
+    "sentiment_score": 75.0,
+    "blended_score": 69.7,
+    "resume_rank": 2,
+    "sentiment_rank": 5,
+    "combined_rank": 3,
+    "recommended_role": "MIT",
+    "status": "continue",
+    "mismatch_flag": "",
+    "mismatch_details": [],
+    "resume_strengths": [
+      "Education Fit (9.0/10)",
+      "Leadership Potential (8.4/10)",
+      "Operations Exposure (7.8/10)",
+      "Initiative / Drive (7.5/10)",
+      "Reliability / Track Record (7.2/10)"
+    ],
+    "resume_gaps": [
+      "Problem-Solving (3.9/10)",
+      "Communication (3.7/10)",
+      "Customer / Service (3.1/10)"
+    ],
+    "sentiment_reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+      ],
+      "impression_strength": [
+        "Positive signals (10): leader, visionary, persuasive, communicator, collaborator, accomplished"
+      ],
+      "effort_initiative": [
+        "No specific effort signals detected — baseline score"
+      ],
+      "role_alignment": [
+        "Recommended for MIT — exact match with target role"
+      ],
+      "concern_severity": [
+        "No concerns raised — clean candidate"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 74% / sentiment 26%"
+      ]
+    }
+  },
+  {
+    "candidate_name": "Latasha Marie Tillman",
+    "resume_score": 69.5,
+    "sentiment_score": 0.0,
+    "blended_score": 69.5,
+    "resume_rank": 1,
+    "sentiment_rank": 0,
+    "combined_rank": 4,
+    "recommended_role": "",
+    "status": "",
+    "mismatch_flag": "NO_SENTIMENT",
+    "mismatch_details": [
+      "Resume scored but no leader feedback collected for this candidate"
+    ],
+    "resume_strengths": [
+      "Education Fit (9.0/10)",
+      "Leadership Potential (8.1/10)",
+      "Problem-Solving (7.6/10)",
+      "Initiative / Drive (7.5/10)"
+    ],
+    "resume_gaps": [
+      "Customer / Service (2.1/10)"
+    ],
+    "sentiment_reasoning": {}
+  },
+  {
+    "candidate_name": "Clifton Johnson",
+    "resume_score": 62.5,
+    "sentiment_score": 77.2,
+    "blended_score": 68.4,
+    "resume_rank": 5,
+    "sentiment_rank": 3,
+    "combined_rank": 5,
+    "recommended_role": "MIT",
+    "status": "continue",
+    "mismatch_flag": "",
+    "mismatch_details": [],
+    "resume_strengths": [
+      "Education Fit (9.0/10)"
+    ],
+    "resume_gaps": [
+      "Customer / Service (3.1/10)",
+      "Communication (2.9/10)"
+    ],
+    "sentiment_reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — flagged for further review (weight: 1.5x)"
+      ],
+      "impression_strength": [
+        "Positive signals (12): charisma, strong, great, genuine, stood out, love this",
+        "Negative signals (2): quiet, concern"
+      ],
+      "effort_initiative": [
+        "Effort signals: asked great questions, early"
+      ],
+      "role_alignment": [
+        "Recommended for MIT — exact match with target role"
+      ],
+      "concern_severity": [
+        "Soft concerns (2): quiet, may need",
+        "Flagged as quiet — soft concern, validate in follow-up"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 60% / sentiment 40%"
+      ]
+    }
+  },
+  {
+    "candidate_name": "Lisa Nalepa",
+    "resume_score": 65.5,
+    "sentiment_score": 0.0,
+    "blended_score": 65.5,
+    "resume_rank": 4,
+    "sentiment_rank": 0,
+    "combined_rank": 6,
+    "recommended_role": "",
+    "status": "",
+    "mismatch_flag": "NO_SENTIMENT",
+    "mismatch_details": [
+      "Resume scored but no leader feedback collected for this candidate"
+    ],
+    "resume_strengths": [
+      "Leadership Potential (8.4/10)",
+      "Initiative / Drive (7.5/10)",
+      "Operations Exposure (7.4/10)",
+      "Reliability / Track Record (7.2/10)"
+    ],
+    "resume_gaps": [
+      "Communication (1.9/10)"
+    ],
+    "sentiment_reasoning": {}
+  },
+  {
+    "candidate_name": "Christopher Saucedo",
+    "resume_score": 57.7,
+    "sentiment_score": 76.6,
+    "blended_score": 62.6,
+    "resume_rank": 6,
+    "sentiment_rank": 4,
+    "combined_rank": 7,
+    "recommended_role": "MIT",
+    "status": "continue",
+    "mismatch_flag": "MODERATE_MISMATCH",
+    "mismatch_details": [
+      "Leaders more positive than resume suggests (77 vs 58)"
+    ],
+    "resume_strengths": [
+      "Education Fit (8.0/10)"
+    ],
+    "resume_gaps": [
+      "Customer / Service (0.0/10)"
+    ],
+    "sentiment_reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+      ],
+      "impression_strength": [
+        "Positive signals (3): dedicated, hard working, ready to learn"
+      ],
+      "effort_initiative": [
+        "Effort signals: dedicated"
+      ],
+      "role_alignment": [
+        "Recommended for MIT — exact match with target role"
+      ],
+      "concern_severity": [
+        "No concerns raised — clean candidate"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 74% / sentiment 26%"
+      ]
+    }
+  },
+  {
+    "candidate_name": "Charda Williams",
+    "resume_score": 53.8,
+    "sentiment_score": 75.0,
+    "blended_score": 59.3,
+    "resume_rank": 8,
+    "sentiment_rank": 6,
+    "combined_rank": 8,
+    "recommended_role": "MIT",
+    "status": "continue",
+    "mismatch_flag": "MODERATE_MISMATCH",
+    "mismatch_details": [
+      "Leaders more positive than resume suggests (75 vs 54)"
+    ],
+    "resume_strengths": [
+      "Education Fit (9.0/10)",
+      "Leadership Potential (7.2/10)"
+    ],
+    "resume_gaps": [
+      "Problem-Solving (3.0/10)",
+      "Customer / Service (0.0/10)"
+    ],
+    "sentiment_reasoning": {
+      "leader_conviction": [
+        "Arturo Vargas (Regional Operations Director) — not mentioned (neutral)"
+      ],
+      "impression_strength": [
+        "Positive signals (3): strong, leader, success"
+      ],
+      "effort_initiative": [
+        "No specific effort signals detected — baseline score"
+      ],
+      "role_alignment": [
+        "Recommended for MIT — exact match with target role"
+      ],
+      "concern_severity": [
+        "No concerns raised — clean candidate"
+      ],
+      "blending": [
+        "Confidence-adjusted blend: resume 74% / sentiment 26%"
+      ]
+    }
+  },
+  {
+    "candidate_name": "Brandon M. DuBose",
+    "resume_score": 53.4,
+    "sentiment_score": 0.0,
+    "blended_score": 53.4,
+    "resume_rank": 9,
+    "sentiment_rank": 0,
+    "combined_rank": 9,
+    "recommended_role": "",
+    "status": "",
+    "mismatch_flag": "NO_SENTIMENT",
+    "mismatch_details": [
+      "Resume scored but no leader feedback collected for this candidate"
+    ],
+    "resume_strengths": [
+      "Problem-Solving (7.0/10)"
+    ],
+    "resume_gaps": [
+      "Communication (1.9/10)",
+      "Customer / Service (1.0/10)"
+    ],
+    "sentiment_reasoning": {}
+  },
+  {
+    "candidate_name": "Davon Shawn Meikle",
+    "resume_score": 45.1,
+    "sentiment_score": 0.0,
+    "blended_score": 45.1,
+    "resume_rank": 10,
+    "sentiment_rank": 0,
+    "combined_rank": 10,
+    "recommended_role": "",
+    "status": "",
+    "mismatch_flag": "NO_SENTIMENT",
+    "mismatch_details": [
+      "Resume scored but no leader feedback collected for this candidate"
+    ],
+    "resume_strengths": [
+      "Problem-Solving (6.4/10)"
+    ],
+    "resume_gaps": [
+      "Operations Exposure (3.9/10)",
+      "Education Fit (3.0/10)",
+      "Leadership Potential (2.4/10)"
+    ],
+    "sentiment_reasoning": {}
+  }
+]

@@ -1,0 +1,151 @@
+{
+    "raw_resume_text": "GERSON JONATHAN SANTOS\n(734) 767-4827 | johnsantos.1018@gmail.com | Bilingual: English & Spanish\n\nEXECUTIVE SUMMARY\nSenior Operations Manager with 14+ years of experience leading large teams, managing multi-shift operations, and driving performance in high-volume enterprise environments. Currently responsible for site-wide operations supporting Amazon fulfillment facilities with oversight of 125+ employees including supervisors and team leaders. Experienced in workforce planning, operational execution, safety compliance, and leadership development within large-scale logistics environments.\n\nCORE LEADERSHIP COMPETENCIES\nLarge-Scale Workforce Leadership (125+ Employees)\nMulti-Site Operations Management\nFacility Operations & Logistics Support\nLabor Planning & Productivity Optimization\nMulti-Shift Workforce Coordination\nSafety Compliance & OSHA Standards\nPerformance Management & Leadership Development\nClient & Stakeholder Collaboration\nContract Compliance & Service Delivery\n\nPROFESSIONAL EXPERIENCE\nServiceMaster by Elite — Site Operations Manager | Ohio | December 2024 – Present\nLeadership Scope: 125+ employees | multi-shift operations | Amazon Fulfillment Facility\nLead site-wide janitorial and facility support operations for Amazon fulfillment centers. Direct daily operational planning across multiple floors and zones supporting warehouse production. Manage staffing strategy, labor allocation, scheduling, and workforce productivity across multi-shift teams. Supervise supervisors, shift leaders, and frontline employees while driving accountability and leadership development. Partner with Amazon operations leadership and safety teams. Ensure OSHA compliance and operational procedures. Implement sanitation workflows improving efficiency. Lead onboarding, training, and leadership development. Monitor operational metrics, labor utilization, and service quality.\n\nServiceMaster by Crane — Shift Manager | Michigan | March 2024 – December 2024\nManaged shift operations overseeing custodial teams supporting enterprise facilities. Supervised team leaders and frontline employees ensuring productivity, safety compliance, and service quality. Directed daily shift planning, staffing coordination, and operational task execution. Collaborated with facility leadership to improve workflow efficiency. Provided employee coaching, training, and performance management.\n\nKellermeyer Bergensons Services (KBS) — Zone Manager | Michigan | December 2023 – March 2024\nOperational Scope: 19 Amazon Sites | Fulfillment Centers (FC) and Amazon Logistics (AMZL)\nManaged custodial and facility support operations across 19 Amazon sites. Supported FC and AMZL facilities ensuring cleanliness and safety standards. Oversaw multi-site staffing coordination and workforce performance. Conducted site visits, operational walkthroughs, and quality audits. Partnered with Amazon site leadership. Supervised frontline teams; coaching, training, performance management. Ensured OSHA compliance and operational procedures. Responded to escalations and staffing challenges. Monitored supply usage and operational resources.\n\nEARLIER ENTERPRISE EXPERIENCE\nArbor Research Collaborative for Health — Senior IT Support Specialist | Michigan | 2023–2024\nOSRAM Opto-Semiconductors — IS Support Specialist | Michigan | 2017–2022\nOneMagnify — Desktop Administrator | Detroit, MI | 2022\nManheim Detroit — Field Service Technician | Michigan | 2017\nDomino's Corporate — IT Consultant | Michigan | 2016–2017\nLittle Caesars — Desktop Engineer | Michigan | 2016\nThyssenKrupp — IT Engineer | Michigan | 2015\nHeadwaters — IT Help Desk Analyst | Michigan | 2014–2015\nChrysler — SAP Help Desk Analyst | Michigan | 2013–2014\nLogicalis — Service Desk Technician | Michigan | 2012–2013\nStefanini — Help Desk Technician | Michigan | 2010–2012",
+    "structured_resume": {
+      "name": "Gerson Jonathan Santos",
+      "email": "johnsantos.1018@gmail.com",
+      "phone": "(734) 767-4827",
+      "location": "Michigan",
+      "summary": "Senior operations leader with 14+ years managing large-scale, multi-shift logistics and facility operations. Extensive experience leading 100+ employee teams, workforce planning, compliance, and performance management in Amazon fulfillment environments.",
+      "education": [],
+      "experience": [
+        {
+          "company": "ServiceMaster by Elite",
+          "role": "Site Operations Manager",
+          "location": "Ohio",
+          "start_date": "2024-12",
+          "end_date": "present",
+          "responsibilities": [
+            "Lead site-wide facility operations for Amazon fulfillment centers",
+            "Direct multi-floor operational planning and staffing strategy",
+            "Manage labor allocation, scheduling, and productivity",
+            "Supervise supervisors and frontline teams (125+ employees)",
+            "Partner with Amazon leadership and safety teams",
+            "Ensure OSHA and operational compliance",
+            "Implement efficiency-focused sanitation workflows",
+            "Lead onboarding, training, and leadership development",
+            "Monitor KPIs, labor utilization, and service quality"
+          ],
+          "skills": [
+            "operations_management",
+            "workforce_planning",
+            "logistics",
+            "scheduling",
+            "compliance",
+            "leadership_development",
+            "kpi_management"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "ServiceMaster by Crane",
+          "role": "Shift Manager",
+          "location": "Michigan",
+          "start_date": "2024-03",
+          "end_date": "2024-12",
+          "responsibilities": [
+            "Managed custodial shift operations",
+            "Supervised team leaders and frontline employees",
+            "Directed staffing coordination and daily planning",
+            "Collaborated with facility leadership on workflow improvements",
+            "Provided coaching, training, and performance management"
+          ],
+          "skills": [
+            "operations",
+            "team_management",
+            "training",
+            "performance_management",
+            "process_improvement"
+          ],
+          "tools": [],
+          "leadership": true
+        },
+        {
+          "company": "Kellermeyer Bergensons Services",
+          "role": "Zone Manager",
+          "location": "Michigan",
+          "start_date": "2023-12",
+          "end_date": "2024-03",
+          "responsibilities": [
+            "Managed operations across 19 Amazon sites",
+            "Oversaw multi-site staffing and workforce performance",
+            "Conducted operational audits and quality walkthroughs",
+            "Partnered with Amazon leadership teams",
+            "Supervised frontline teams and training programs",
+            "Ensured OSHA compliance and operational standards",
+            "Handled escalations and staffing challenges",
+            "Monitored supply usage and operational resources"
+          ],
+          "skills": [
+            "operations_management",
+            "multi_site_management",
+            "logistics",
+            "compliance",
+            "auditing",
+            "training"
+          ],
+          "tools": [],
+          "leadership": true
+        }
+      ],
+      "skills": [
+        "operations_management",
+        "logistics",
+        "workforce_planning",
+        "multi_site_management",
+        "scheduling",
+        "safety_compliance",
+        "osha_compliance",
+        "performance_management",
+        "leadership_development",
+        "kpi_management",
+        "process_improvement",
+        "stakeholder_collaboration",
+        "contract_compliance",
+        "bilingual"
+      ],
+      "tools": [],
+      "certifications": [],
+      "projects": [],
+      "volunteer": []
+    },
+    "feature_vector": {
+      "candidate_name": "Gerson Jonathan Santos",
+      "years_experience": 14.5,
+      "roles_count": 3,
+      "leadership_roles": 3,
+      "education_level": "high_school",
+      "industries": [
+        "logistics",
+        "operations",
+        "facilities"
+      ],
+      "role_types": [
+        "operations",
+        "management"
+      ],
+      "skills_vector": [
+        "bilingual",
+        "compliance",
+        "contract_compliance",
+        "kpi_management",
+        "leadership_development",
+        "logistics",
+        "multi_site_management",
+        "operations",
+        "operations_management",
+        "osha_compliance",
+        "performance_management",
+        "process_improvement",
+        "safety_compliance",
+        "scheduling",
+        "stakeholder_collaboration",
+        "training",
+        "workforce_planning"
+      ],
+      "tools_vector": [],
+      "certifications": [],
+      "project_count": 0,
+      "volunteer_count": 0
+    }
+  }

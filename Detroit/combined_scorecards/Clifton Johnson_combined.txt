@@ -1,0 +1,45 @@
+
+======================================================================
+  COMBINED SCORECARD: CLIFTON JOHNSON
+  Final: 68.8 / 100  |  Resume: 62.5  |  Fit: 78.2 (leader+team)  |  Rank: 4 of 10
+======================================================================
+
+  Recommended Role: SITE_MANAGER
+  Status: INTERVIEW_CONSIDER
+  Career Stage: Experienced
+  Leader Flags: 2
+
+  LEADER & TEAM ASSESSMENT:
+  ----------------------------------------
+    Leader Conviction (30%)
+      > Arturo Vargas (Regional Operations Director) — flagged for further review (weight: 1.5x)
+
+    Impression Strength (25%)
+      > Positive signals (12): charisma, strong, great, genuine, stood out, love this
+      > Negative signals (2): quiet, concern
+      > Strong leader conviction boost — 12 positive signals amplified
+
+    Effort & Initiative (20%)
+      > Effort signals: asked great questions, early
+
+    Role Alignment (15%)
+      > Recommended for MIT — exact match with target role
+
+    Concern Severity (10%)
+      > Soft concerns (2): quiet, may need
+      > Flagged as quiet — soft concern, validate in follow-up
+
+    Blending (0%)
+      > Confidence-adjusted blend: resume 60% / sentiment 40%
+
+  RESUME STRENGTHS:
+    + Education Fit (9.0/10)
+
+  RESUME GAPS:
+    - Customer / Service (3.1/10)
+    - Communication (2.9/10)
+
+  *** MODERATE_MISMATCH ***
+    >> Leaders more positive than resume suggests (78 vs 62)
+
+======================================================================

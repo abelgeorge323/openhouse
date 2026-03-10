@@ -1,0 +1,11 @@
+RANK,NAME,RESUME,FIT,FIT_SOURCE,LEADER_FLAGS,FINAL,STATUS,MIT_BADGE,ROLE,CAREER_STAGE,TRUE_MIT_BONUS,RELOC_PENALTY
+1,Gerson Santos,57.4,94.0,leader+team,3,72.0,POD,,site_manager,Experienced,0.0,0.0
+2,Lynette Burnette,67.8,75.0,team_only,0,69.7,INTERVIEW_CONSIDER,,ops_manager,Experienced,0.0,0.0
+3,Latasha Marie Tillman,69.5,69.5,trait_estimate,0,69.5,PENDING,,ops_manager,Experienced,0.0,0.0
+4,Clifton Johnson,62.5,78.2,leader+team,2,68.8,INTERVIEW_CONSIDER,,site_manager,Experienced,0.0,0.0
+5,Jacob Zochowski,67.7,80.7,leader+team,2,67.9,POD,SENIOR MIT,ops_manager,Senior MIT,0.0,5.0
+6,Christopher Saucedo,57.7,76.6,team_only,0,65.6,INTERVIEW_CONSIDER,TRUE MIT,MIT,Early Career MIT,3.0,0.0
+7,Lisa Nalepa,65.5,65.7,trait_estimate,0,65.5,PENDING,,ops_manager,Experienced,0.0,0.0
+8,Charda Williams,53.8,75.0,team_only,0,59.3,INTERVIEW_CONSIDER,SENIOR MIT,MIT,Senior MIT,0.0,0.0
+9,Brandon M. DuBose,53.4,53.4,trait_estimate,0,53.4,PENDING,SENIOR MIT,MIT,Senior MIT,0.0,0.0
+10,Davon Shawn Meikle,45.1,41.9,trait_estimate,0,45.1,PENDING,SENIOR MIT,MIT,Senior MIT,0.0,0.0
